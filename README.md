@@ -64,7 +64,7 @@ Words chosen to featurize:
 • Google knowledge graph [5]<br />
 The Google API was used to get knowledge graph results pertaining to entity type for current word, current word + next word and current word + next word + next word. Results are stored as text files in a folder called 'google' to run program offline and avoid hitting api limits. The code to extract the knowledge graph details is also in the 'google' folder.<br />
 
-<hr>Models</h3>
+<h3>Models</h3>
 Including the model described above, another model was built using the centroids of the Kmeans clustering of word embeddings as a feature. Models are saved as pickle files in folder 'models'.
 
 <h3>References</h3>
