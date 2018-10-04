@@ -1,4 +1,4 @@
-This is a named entity recogniser created in Python using the Maximum Entrophy Classifier in NLTK and trained on the CONLL dataset. The 2003 CoNLL (Conference on Natural Language Learning) corpus uses texts from the Reuters news service. This corpus identifies three types of names: person, organization, and location, and a fourth category, MISC (miscellaneous) for other types of names. 
+This is a named entity recogniser created in Python using the Maximum Entrophy Classifier in NLTK and trained on the CONLL dataset. The 2003 CoNLL (Conference on Natural Language Learning) corpus uses texts from the Reuters news service. This corpus identifies three types of names: person, organization, and location, and a fourth category, MISC (miscellaneous) for other types of names.[1]
 
 Words chosen to featurize:
 • words with part of speech in [NNP,NNPS]
@@ -9,7 +9,7 @@ capitalised
 
 Features extracted:
 • current word
-• Binarized embeddings (pre-trained Glove 6B 50 dimensions) of current token implemented as per Guo et al 2014
+• Binarized embeddings (pre-trained Glove 6B 50 dimensions [2]) of current token implemented as per Guo et al 2014 [3]
 • prefixes of the current word upto 6 letters
 • suffixes of the current word upto six letters lower-case
 • current word in title case
@@ -60,10 +60,17 @@ Post-processing done on the results based on the following things:
 • As a last ditch effort, I looked up google knowledge graph for proper nouns which have not been caught by the classifier and were given the ‘O’ label. The results were written to a text file and are in the 'google' folder.
 
 Gazzeteers used:
-Wordnet from nltk and google knowledge graph: https://
-developers.google.com/knowledge-graph/
-Google API was used for current word, current word + next word and current word + next word + next word. Results are stored as text files in a folder called 'google' to run program offline and avoid hitting api limits. 
+Wordnet from nltk [4]
+Google knowledge graph [5]
+The Google API was used to get knowledge graph results pertaining to entity type for current word, current word + next word and current word + next word + next word. Results are stored as text files in a folder called 'google' to run program offline and avoid hitting api limits. The code to extract the knowledge graph details is also in the 'google' folder. 
 
 Another model was built using the centroids of the Kmeans clustering of word embeddings as a feature. 
 
 Models are saved as pickle files in folder 'models'.
+
+[1] https://www.clips.uantwerpen.be/conll2003/ner/
+[2] https://nlp.stanford.edu/projects/glove/
+[3] http://aclweb.org/anthology/D/D14/D14-1012.pdf
+[4] http://www.nltk.org/howto/wordnet.html
+[5] https://developers.google.com/knowledge-graph/
+
