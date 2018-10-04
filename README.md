@@ -2,12 +2,9 @@ This is a named entity recogniser created in Python using the Maximum Entrophy C
 
 Words chosen to featurize:
 • words with part of speech in [NNP,NNPS]
-
 • words with part of speech in [NN,NNS,JJ] with first letter capitalised
-
 • hyphenated words when either part of word before hyphen or after hyphen has first letter
 capitalised
-
 • if the current word is in [‘of’,’and’,’for’] and previous tag is I-ORG and next word part of speech is in [NNP,NNPS]
 
 Features extracted:
