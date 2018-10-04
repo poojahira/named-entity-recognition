@@ -53,15 +53,15 @@ Words chosen to featurize:
 • current word, next word, next word google knowledge graph result  
 
 <h3>Post-processing done on the results based on the following things</h3>
-• previous word label  
-• previous word part of speech  
-• next word part of speech  
-• previous 25 words’ labels  
+• previous word label\
+• previous word part of speech\
+• next word part of speech\
+• previous 25 words’ labels\
 • As a last ditch effort, I looked up google knowledge graph for proper nouns which have not been caught by the classifier and were given the ‘O’ label. The results were written to a text file and are in the 'google' folder.
 
 <h3>Gazzeteers used</h3>
-Wordnet from nltk [4]  
-Google knowledge graph [5]  
+Wordnet from nltk [4]\
+Google knowledge graph [5]\
 The Google API was used to get knowledge graph results pertaining to entity type for current word, current word + next word and current word + next word + next word. Results are stored as text files in a folder called 'google' to run program offline and avoid hitting api limits. The code to extract the knowledge graph details is also in the 'google' folder. 
 
 Another model was built using the centroids of the Kmeans clustering of word embeddings as a feature. 
@@ -69,9 +69,8 @@ Another model was built using the centroids of the Kmeans clustering of word emb
 Models are saved as pickle files in folder 'models'.
 
 <h3>References</h3>
-[1] https://www.clips.uantwerpen.be/conll2003/ner/  
-[2] https://nlp.stanford.edu/projects/glove/  
-[3] http://aclweb.org/anthology/D/D14/D14-1012.pdf  
-[4] http://www.nltk.org/howto/wordnet.html   
+[1] https://www.clips.uantwerpen.be/conll2003/ner/\
+[2] https://nlp.stanford.edu/projects/glove/\
+[3] http://aclweb.org/anthology/D/D14/D14-1012.pdf\
+[4] http://www.nltk.org/howto/wordnet.html\
 [5] https://developers.google.com/knowledge-graph/
-
