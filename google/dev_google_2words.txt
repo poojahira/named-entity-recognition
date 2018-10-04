@@ -1,0 +1,2451 @@
+8	AT TOP	Event 
+9	TOP AFTER	TVSeries 
+18	West Indian	Place AdministrativeArea 
+21	Phil Simmons	Person 
+103	Grace Road	Place StadiumOrArena 
+123	Andy Caddick	Person 
+168	Nasser Hussain	Person 
+268	Chris Lewis	Person 
+311	Mark Butcher	Person 
+365	Australian Tom	Person 
+366	Tom Moody	Person 
+373	Chris Adams	Person 
+379	Tim O'Gorman	Person 
+435	Paul Johnson	Person 
+441	Martin McCague	Person 
+505	P. Simmons	Person 
+529	A. Dale	
+533	H. Morris	Person 
+537	D. Blenkiron	Person 
+545	S. Watkin	Person 
+553	Tunbridge Wells	Place City 
+559	P. Johnson	Person 
+563	M. McCague	Person 
+584	C. Lewis	Person 
+590	M. Butcher	Person 
+594	G. Kersey	Person 
+598	J. Ratcliffe	Person 
+602	D. Bicknell	Person 
+613	W. Athey	Person 
+617	V. Drakes	Person 
+621	I. Austin	Person 
+629	W. Hegg	Person 
+641	J. Pooley	Person 
+645	M. Ramprakash	Person 
+649	M. Gatting	Person 
+670	J. Adams	Person 
+679	K. Barnett	Person 
+683	T. Moody	Person 
+695	J. Russell	Person 
+705	K. Curran	Person 
+709	A. Smith	Person 
+754	County Cricket	Organization SportsTeam 
+755	Cricket Board	Place DefenceEstablishment AdministrativeArea Country 
+810	Minor Counties	SportsOrganization Organization 
+932	June 5-9	Event 
+933	5-9 First	Event 
+1006	Old Trafford	CivicStructure Place StadiumOrArena LocalBusiness TouristAttraction 
+1015	Minor Counties	SportsOrganization Organization 
+1016	Counties XI	SportsTeam Organization 
+1068	Trent Bridge	Place StadiumOrArena TouristAttraction 
+1102	AS ENGLAND	SportsTeam 
+1103	ENGLAND CAPTAIN	SportsTeam 
+1115	Alan Shearer	Person 
+1148	Tony Adams	Person 
+1165	David Platt	Person 
+1181	World Cup	SportsOrganization Organization 
+1202	Glenn Hoddle	Person 
+1337	Teddy Sheringham	Person 
+1361	Les Ferdinand	Person 
+1369	INTERNATIONAL TOURNAMENT	
+1388	Red Star	SportsTeam 
+1413	UNDER-21 MATCH	Event 
+1443	Cosmin Contra	Person 
+1449	Mihai Tararache	Person 
+1473	LOCKED OUT	Movie 
+1474	OUT AFTER	Event 
+1475	AFTER VOLGOGRAD	Event 
+1483	Rotor Volgograd	Organization SportsTeam 
+1501	Dynamo Moscow	Organization SportsTeam 
+1542	Lada Togliatti	SportsTeam Organization 
+1557	Manchester United	Corporation Organization SportsTeam 
+1564	UEFA Cup	SportsOrganization Organization 
+1599	Dynamo Moscow	Organization SportsTeam 
+1627	ROBERTO DURAN	Person 
+1629	FIGHTS THE	Movie 
+1630	THE SANDS	Movie 
+1636	PANAMA CITY	Place City AdministrativeArea LandmarksOrHistoricalBuildings 
+1675	Ariel Cruz	Person 
+1687	Panama City	Place City AdministrativeArea LandmarksOrHistoricalBuildings 
+1839	Boxing Association	Organization 
+1840	Association President	Organization Corporation EducationalOrganization Place CollegeOrUniversity 
+1841	President Ramon	Person 
+1869	Puerto Rico	Country Place AdministrativeArea 
+1889	Atlantic City	Place City AdministrativeArea 
+1903	HONG KONG	City AdministrativeArea Place Country 
+1904	KONG OPEN	
+1905	OPEN QUARTER-FINAL	Event 
+1918	Hong Kong	City AdministrativeArea Place Country 
+1919	Kong Open	
+1932	Jansher Khan	Person 
+1947	Anthony Hill	Person 
+1953	Dan Jenson	Person 
+1965	Peter Nicol	Person 
+1973	Chris Walker	Person 
+1985	Rodney Eyles	Person 
+1991	Derek Ryan	Person 
+2074	W D	Person 
+2075	D L	Person 
+2076	L G	Person 
+2254	W D	Person 
+2255	D L	Person 
+2327	FROM THE	Person 
+2328	THE U.S.	Organization 
+2329	U.S. OPEN	Organization SportsOrganization 
+2333	NEW YORK	AdministrativeArea Place City 
+2340	U.S. Open	Organization SportsOrganization 
+2341	Open Tennis	Organization SportsOrganization 
+2342	Tennis Championships	Organization SportsOrganization 
+2346	National Tennis	Organization SportsOrganization 
+2347	Tennis Centre	Place StadiumOrArena TouristAttraction LocalBusiness 
+2366	Sandrine Testud	Person 
+2372	Ines Gorrochategui	Person 
+2390	Goran Ivanisevic	Person 
+2396	Scott Draper	Person 
+2409	Tim Henman	Person 
+2415	Doug Flach	Person 
+2424	Mark Philippoussis	Person 
+2430	Andrei Olhovskiy	Person 
+2447	David Rikl	Person 
+2450	Czech Republic	Place Country AdministrativeArea 
+2467	Felix Mantilla	Person 
+2483	Alexander Volkov	Person 
+2489	Mikael Tillstrom	Person 
+2504	Jonas Bjorkman	Person 
+2510	David Nainkin	Person 
+2513	South Africa	Event 
+2530	Lindsay Davenport	Person 
+2546	Conchita Martinez	Person 
+2552	Helena Sukova	Person 
+2555	Czech Republic	Place Country AdministrativeArea 
+2561	Amanda Coetzer	Person 
+2564	South Africa	Event 
+2568	Irina Spirlea	Person 
+2588	Cedric Pioline	Person 
+2594	Roberto Carretero	Person 
+2605	Alex Corretja	Person 
+2611	Filippo Veglio	Person 
+2632	Linda Wild	Person 
+2638	Barbara Rittner	Person 
+2646	Asa Carlsson	Person 
+2654	Gabriela Sabatini	Person 
+2672	Pete Sampras	Person 
+2678	Jiri Novak	Person 
+2681	Czech Republic	Place Country AdministrativeArea 
+2689	Paul Haarhuis	Person 
+2695	Michael Tebbutt	Person 
+2713	Lisa Raymond	Person 
+2719	Kimberly Po	Person 
+2737	Hendrik Dreekmann	Person 
+2743	Thomas Johansson	Person 
+2757	Andrei Medvedev	Person 
+2763	Jan Kroslak	Person 
+2776	Czech Republic	Place Country AdministrativeArea 
+2780	Bohdan Ulihrach	Person 
+2804	Monica Seles	Person 
+2810	Dally Randriantefy	Person 
+2830	Todd Martin	Person 
+2836	Andrea Gaudenzi	Person 
+2844	Stefan Edberg	Person 
+2850	Bernd Karbacher	Person 
+2869	MAJOR LEAGUE	SportsOrganization Organization Corporation 
+2870	LEAGUE STANDINGS	Organization Corporation 
+2872	AFTER THURSDAY	Book 
+2878	NEW YORK	AdministrativeArea Place City 
+2882	Major League	SportsOrganization Organization Corporation 
+2883	League Baseball	SportsOrganization Organization Corporation 
+2908	AMERICAN LEAGUE	Place AdministrativeArea Country 
+2911	EASTERN DIVISION	SportsOrganization Organization 
+2914	W L	
+2919	NEW YORK	AdministrativeArea Place City 
+2953	CENTRAL DIVISION	Place City 
+2981	KANSAS CITY	SportsTeam Organization 
+2988	WESTERN DIVISION	SportsOrganization Corporation Organization 
+3023	KANSAS CITY	SportsTeam Organization 
+3024	CITY AT	AdministrativeArea Place City 
+3025	AT DETROIT	Place City AdministrativeArea 
+3028	CHICAGO AT	Place AdministrativeArea City 
+3029	AT TORONTO	Place AdministrativeArea City 
+3032	MINNESOTA AT	Place AdministrativeArea 
+3033	AT MILWAUKEE	Place City AdministrativeArea 
+3036	CLEVELAND AT	SportsTeam 
+3037	AT TEXAS	AdministrativeArea Place 
+3040	NEW YORK	AdministrativeArea Place City 
+3041	YORK AT	Organization Place EducationalOrganization CollegeOrUniversity 
+3042	AT CALIFORNIA	Place AdministrativeArea 
+3045	BOSTON AT	Place City AdministrativeArea 
+3046	AT OAKLAND	TouristAttraction Museum CivicStructure Place LandmarksOrHistoricalBuildings 
+3050	AT SEATTLE	Place CivicStructure LocalBusiness TouristAttraction StadiumOrArena 
+3053	NATIONAL LEAGUE	SportsOrganization Organization 
+3056	EASTERN DIVISION	SportsOrganization Organization 
+3059	W L	
+3082	NEW YORK	AdministrativeArea Place City 
+3095	CENTRAL DIVISION	Place City 
+3130	WESTERN DIVISION	SportsOrganization Corporation Organization 
+3133	SAN DIEGO	Place AdministrativeArea DefenceEstablishment City 
+3140	LOS ANGELES	City Place AdministrativeArea 
+3153	SAN FRANCISCO	Place City AdministrativeArea 
+3166	ATLANTA AT	Place City AdministrativeArea 
+3167	AT CHICAGO	Place CollegeOrUniversity Organization EducationalOrganization 
+3170	FLORIDA AT	Place AdministrativeArea 
+3171	AT CINCINNATI	Place City AdministrativeArea 
+3174	SAN DIEGO	Place AdministrativeArea DefenceEstablishment City 
+3175	DIEGO AT	Place AdministrativeArea DefenceEstablishment City 
+3176	AT MONTREAL	Place City AdministrativeArea 
+3179	LOS ANGELES	City Place AdministrativeArea 
+3180	ANGELES AT	City Place AdministrativeArea 
+3181	AT PHILADELPHIA	City Place Cemetery AdministrativeArea 
+3184	HOUSTON AT	Place AdministrativeArea City 
+3185	AT PITTSBURGH	Place AdministrativeArea City 
+3188	SAN FRANCISCO	Place City AdministrativeArea 
+3189	FRANCISCO AT	Place City AdministrativeArea 
+3194	COLORADO AT	EducationalOrganization Organization CollegeOrUniversity 
+3195	AT ST	Movie 
+3196	ST LOUIS	Place City AdministrativeArea 
+3203	MAJOR LEAGUE	SportsOrganization Organization Corporation 
+3204	LEAGUE RESULTS	Event 
+3205	RESULTS THURSDAY	Event 
+3209	NEW YORK	AdministrativeArea Place City 
+3215	Major League	SportsOrganization Organization Corporation 
+3231	American League	Place AdministrativeArea Country 
+3236	Kansas City	SportsTeam Organization 
+3247	New York	AdministrativeArea Place City 
+3256	National League	SportsOrganization Organization 
+3259	San Diego	Place AdministrativeArea DefenceEstablishment City 
+3281	Los Angeles	City Place AdministrativeArea 
+3289	ST LOUIS	Place City AdministrativeArea 
+3299	O'BRIEN SPRING	Person 
+3300	SPRING TWIN	LandmarksOrHistoricalBuildings Place TouristAttraction 
+3308	Larry Fine	Person 
+3311	NEW YORK	AdministrativeArea Place City 
+3315	Andre Agassi	Person 
+3324	MaliVai Washington	Person 
+3327	Marcelo Rios	Person 
+3340	U.S. Open	Organization SportsOrganization 
+3361	Alex O'Brien	Person 
+3401	Jeff Tarango	Person 
+3448	Leander Paes	Person 
+3479	Todd Martin	Person 
+3502	New Haven	Place AdministrativeArea City 
+3761	All-England Club	Place TouristAttraction StadiumOrArena 
+4118	NFL AMERICAN	SportsOrganization Organization 
+4119	AMERICAN FOOTBALL-RANDALL	Person 
+4120	FOOTBALL-RANDALL CUNNINGHAM	Organization SportsTeam 
+4128	Randall Cunningham	Person 
+4132	National Football	SportsOrganization Organization 
+4133	Football League	SportsOrganization Organization 
+4168	Philadelphia Eagles	Organization SportsTeam 
+4267	Jeffrey Lurie	Person 
+4343	SCORES AT	Organization Restaurant Place Corporation 
+4344	AT GREATER	Place AdministrativeArea 
+4345	GREATER MILWAUKEE	Place 
+4346	MILWAUKEE OPEN	Event 
+4363	Greater Milwaukee	Place 
+4364	Milwaukee Open	Event 
+4372	Brown Deer	Place City 
+4373	Deer Park	Place 
+4374	Park Golf	TouristAttraction Place 
+4375	Golf Course	Place LodgingBusiness TouristAttraction 
+4393	Nolan Henke	Person 
+4397	Bob Estes	Person 
+4401	Billy Andrade	Person 
+4404	Duffy Waldorf	Person 
+4407	Jesper Parnevik	Person 
+4414	Neal Lancaster	Person 
+4417	Dave Barr	Person 
+4423	Mike Sullivan	Person 
+4430	Loren Roberts	Person 
+4433	Steve Stricker	Person 
+4436	Brian Claar	Person 
+4439	Russ Cochran	Person 
+4443	Mark Calcavecchia	Person 
+4446	Payne Stewart	Person 
+4449	Billy Mayfair	Person 
+4456	Jerry Kelly	Person 
+4459	Tim Simpson	Person 
+4462	Olin Browne	Person 
+4469	Mike Hulbert	Person 
+4472	Brian Henninger	Person 
+4475	Tiger Woods	Person 
+4482	Bryan Gorman	Event 
+4490	TAKES LEAD	Book 
+4495	WOODS MAKES	MusicRecording 
+4506	Nolan Henke	Person 
+4526	Greater Milwaukee	Place 
+4527	Milwaukee Open	Event 
+4528	Open Thursday	Event 
+4532	Tiger Woods	Person 
+4548	Bob Estes	Person 
+4554	Billy Andrade	Person 
+4557	Duffy Waldorf	Person 
+4560	Jesper Parnevik	Person 
+4576	U.S. Amateur	
+4577	Amateur Championship	
+4776	Andrew Magee	Person 
+4786	PGA Tour	SportsOrganization Corporation Organization 
+4795	BellSouth Classic	
+4808	Texas Open	
+4822	Nortel Open	Person 
+4883	Billy Mayfair	Person 
+4894	World Series	
+4901	U.S. Open	Organization SportsOrganization 
+4904	Payne Stewart	Person 
+4910	Scott Hoch	Person 
+4923	Phil Mickelson	Person 
+4932	PGA Tour	SportsOrganization Corporation Organization 
+4941	World Series	
+4949	Mark Brooks	Person 
+4952	Tom Lehman	Person 
+4955	Mark O'Meara	Person 
+5002	Deportivo Coruna	Corporation SportsTeam Organization 
+5009	Mauro Silva	Person 
+5016	Real Madrid	Corporation Organization SportsTeam 
+5100	Adrian Warner	Person 
+5106	American Dennis	TVSeries BroadcastService BroadcastChannel 
+5107	Dennis Mitchell	Person 
+5114	Donovan Bailey	Person 
+5219	Michael Green	Person 
+5233	Friday Mitchell	Person 
+5241	Atlanta Games	Event 
+5328	Jesse Owens	Person 
+5366	American Olympic	Organization SportsTeam 
+5369	Gail Devers	Person 
+5387	Merlene Ottey	Person 
+5401	BERLIN GRAND	
+5402	GRAND PRIX	SportsOrganization Organization 
+5416	Grand Prix	SportsOrganization Organization 
+5431	Michelle Freeman	Person 
+5440	Ludmila Engquist	Person 
+5448	Aliuska Lopez	Person 
+5463	5. Dionne	Event 
+5464	Dionne Rose	Person 
+5471	6. Julie	Person 
+5472	Julie Baumann	Person 
+5479	7. Gillian	Corporation Organization TheaterGroup 
+5480	Gillian Russell	Person 
+5493	Svetlana Masterkova	Person 
+5503	2. Patricia	Person 
+5504	Patricia Djate-Taillard	Person 
+5511	3. Carla	MusicAlbum 
+5512	Carla Sacramento	Person 
+5520	Yekaterina Podkopayeva	Person 
+5528	Leah Pells	Person 
+5535	6. Carmen	MusicRecording 
+5551	8. Sara	
+5566	Mark Crear	Person 
+5574	2. Tony	VideoGame 
+5575	Tony Jarrett	Person 
+5582	3. Florian	MusicRecording 
+5583	Florian Schwarthoff	Person 
+5591	Emilio Valle	Person 
+5606	6. Steve	MusicRecording 
+5607	Steve Brown	Person 
+5614	7. Frank	Event 
+5615	Frank Busemann	Person 
+5622	8. Jack	VideoGame 
+5623	Jack Pierce	Person 
+5636	Frankie Fredericks	Person 
+5644	2. Michael	Person 
+5645	Michael Johnson	Person 
+5652	3. Ato	Movie 
+5653	Ato Boldon	Person 
+5661	Geir Moen	Person 
+5669	Patrick Stevens	Person 
+5677	Jon Drummond	Person 
+5684	7. Claus	MusicAlbum 
+5685	Claus Hirsbro	Person 
+5693	Ivan Garcia	Person 
+5706	Astrid Kumbernuss	Person 
+5715	Claudia Mues	Event 
+5722	3. Irina	Event TVSeason 
+5723	Irina Korzhanenko	Person 
+5731	Valentina Fedyushina	Person 
+5738	5. Stephanie	Event 
+5739	Stephanie Storp	Person 
+5751	Noureddine Morceli	Person 
+5762	Venuste Niyongabo	Person 
+5769	3. William	Person 
+5770	William Tanui	Person 
+5778	Laban Rotich	Person 
+5786	Marko Koers	Person 
+5793	6. Isaac	Person 
+5794	Isaac Viciosa	Person 
+5801	7. John	Person 
+5802	John Mayock	Person 
+5809	8. Marcus	MusicRecording 
+5810	Marcus O'Sullivan	Person 
+5822	Lars Riedel	Person 
+5830	2. Anthony	Person 
+5831	Anthony Washington	Person 
+5838	3. Vasily	Person 
+5847	Vladimir Dubrovshchik	Person 
+5855	Virgilijus Alekna	Person 
+5870	7. Andreas	Event 
+5871	Andreas Seelig	Person 
+5878	8. Michael	Person 
+5892	Gail Devers	Person 
+5901	Merlene Ottey	Person 
+5908	3. Gwen	Person 
+5909	Gwen Torrence	Person 
+5917	Mary Onyali	Person 
+5925	Chryste Gaines	Person 
+5933	Chandra Sturrup	Person 
+5941	Irina Privalova	Person 
+5949	Inger Miller	Person 
+5962	Gabriela Szabo	Person 
+5973	Gete Wami	Person 
+5980	3. Rose	MusicRecording 
+5981	Rose Cheruiyot	Person 
+5989	Annemari Sandell	Person 
+5997	Tegla Loroupe	Person 
+6005	Gunhild Halle	Person 
+6012	7. Pauline	Person 
+6013	Pauline Konga	Person 
+6021	Sally Barsosio	Person 
+6035	Torrance Zellner	Person 
+6043	2. Samuel	Book 
+6044	Samuel Matete	Person 
+6051	3. Derrick	TVSeries 
+6052	Derrick Adkins	Person 
+6060	Fabrizio Mori	Person 
+6068	Sven Nylander	Person 
+6075	6. Eric	Person 
+6076	Eric Thomas	Person 
+6092	Dusan Kovacs	Person 
+6105	Falilat Ogunkoya	Person 
+6114	Jearl Miles	Person 
+6121	3. Fatima	Person 
+6122	Fatima Yusuf	Person 
+6138	Olabisi Afolabi	Person 
+6146	Phylis Smith	Person 
+6153	7. Linda	Person 
+6154	Linda Kisabaka	Person 
+6161	8. Karin	Place TouristAttraction Museum 
+6162	Karin Janke	Person 
+6175	Dennis Mitchell	Person 
+6182	2. Michael	Person 
+6183	Michael Green	Person 
+6190	3. Donovan	Organization Place 
+6191	Donovan Bailey	Person 
+6199	Jon Drummond	Person 
+6206	5. Davidson	Event 
+6207	Davidson Ezinwa	Person 
+6215	Geir Moen	Person 
+6223	Marc Blume	Person 
+6236	Wilson Kipketer	Person 
+6243	2. Norberto	Person 
+6244	Norberto Tellez	Person 
+6251	3. Sammy	
+6252	Sammy Langat	Person 
+6260	Nico Motchebon	Person 
+6267	5. David	Event 
+6268	David Kiptoo	Person 
+6291	8. Craig	Event 
+6292	Craig Winrow	Person 
+6305	Andrei Tiwontschik	Person 
+6313	Igor Trandenkov	Person 
+6320	3. Maksim	Person 
+6321	Maksim Tarasov	Person 
+6329	Tim Lobinger	Person 
+6337	Igor Potapovich	Person 
+6345	Jean Galfione	Person 
+6361	Dmitri Markov	Person 
+6374	Stefka Kostadinova	Person 
+6382	Inga Babakova	Person 
+6390	3. Alina	Person 
+6391	Alina Astafei	Person 
+6399	Tatyana Motkova	Person 
+6407	Hanne Haugland	Person 
+6415	Nele Zilinskiene	Person 
+6423	Yelena Gulyayeva	Person 
+6431	Natalya Golodnova	Event 
+6444	Daniel Komen	Person 
+6454	2. Bob	Person 
+6455	Bob Kennedy	Person 
+6462	3. Paul	CollegeOrUniversity Organization EducationalOrganization Place 
+6463	Paul Koech	Person 
+6471	El Hassane	Place 
+6480	Shem Kororia	Person 
+6488	Brahim Lahlafi	Person 
+6495	7. Tom	Person 
+6496	Tom Nyariki	Person 
+6504	Fita Bayissa	Person 
+6517	Jonathan Edwards	Person 
+6526	Yoelvis Quesada	Person 
+6533	3. Kenny	Event 
+6534	Kenny Harrison	Person 
+6542	Mike Conley	Person 
+6549	5. Armen	MusicRecording 
+6550	Armen Martirosyan	Person 
+6557	6. Sigurd	MusicRecording 
+6558	Sigurd Njerve	Person 
+6565	7. Carlos	Movie 
+6566	Carlos Calado	Person 
+6574	Charles-Michael Friedek	Person 
+6586	Tanja Damaske	Person 
+6603	Isel Lopez	Person 
+6611	Heli Rantanen	Person 
+6618	5. Louise	Airport Place 
+6619	Louise McPaul	Person 
+6627	Xiomara Rivero	Person 
+6642	8. Rita	MusicRecording 
+6654	Jesse Owens	Person 
+6660	Donovan Bailey	Person 
+6666	Michael Johnson	Person 
+6679	Linford Christie	Person 
+6687	2. Michael	Person 
+6688	Michael Green	Person 
+6707	Davidson Ezinwa	Person 
+6714	3. Peter	Person 
+6715	Peter Karlsson	Person 
+6734	Florian Schwarthoff	Person 
+6746	STANDARD LIEGE	Organization SportsTeam 
+6747	LIEGE PLAYERS	Organization SportsTeam 
+6765	Standard Liege	Organization SportsTeam 
+6802	Guy Hellers	Person 
+6828	Roberto Bisconti	Person 
+6853	Didier Ernst	Person 
+6897	UEFA Cup	SportsOrganization Organization 
+6920	Kenny Harrison	Person 
+6926	Jonathan Edwards	Person 
+6939	Solidarity Meeting	Event 
+6949	International Amateur	SportsTeam Organization 
+6950	Amateur Athletic	Organization 
+6951	Athletic Federation	Corporation Organization 
+6992	Atlanta Games	Event 
+7056	IAAF Grand	Event 
+7057	Grand Prix	SportsOrganization Organization 
+7058	Prix Final	
+7104	Dominique Baratelli	Person 
+7130	Paris St	Organization Corporation SportsTeam 
+7131	St Germain	Organization Corporation SportsTeam 
+7137	Albert Emon	Person 
+7202	Gianluigi Lentini	Person 
+7337	Fabio Capello	Person 
+7349	Emiliano Mondonico	Person 
+7357	SRI LANKA	Place AdministrativeArea Country 
+7360	AUSTRALIA BY	Place AdministrativeArea Country 
+7369	Sri Lanka	Place AdministrativeArea Country 
+7382	Singer World	
+7383	World Series	
+7404	Sri Lanka	Place AdministrativeArea Country 
+7416	AUSTRALIA V	Event 
+7417	V SRI	Event 
+7418	SRI LANKA	Place AdministrativeArea Country 
+7432	World Series	
+7439	Sri Lanka	Place AdministrativeArea Country 
+7448	M. Waugh	Person 
+7456	M. Slater	Person 
+7462	S. Law	Person 
+7470	M. Bevan	Person 
+7478	S. Waugh	Person 
+7484	R. Ponting	Person 
+7490	D. Lehmann	Person 
+7498	I. Healy	Person 
+7506	J. Gillespie	Person 
+7514	D. Fleming	Place Bridge 
+7522	G. McGrath	Person 
+7585	Sri Lanka	Place AdministrativeArea Country 
+7588	S. Jayasuriya	Person 
+7596	R. Kaluwitharana	Person 
+7599	S. Waugh	Person 
+7603	A. Gurusinha	Person 
+7615	A. Ranatunga	Person 
+7629	R. Mahanama	Person 
+7635	U. Chandana	Person 
+7684	S. Waugh	Person 
+7701	M. Waugh	Person 
+7718	Aravinda de	Person 
+7719	de Silva	Person 
+7743	V SRI	Event 
+7744	SRI LANKA	Place AdministrativeArea Country 
+7762	Sri Lanka	Place AdministrativeArea Country 
+7773	Singer World	
+7774	World Series	
+7785	AUSTRALIA WIN	Corporation Organization 
+7807	Sri Lanka	Place AdministrativeArea Country 
+7834	Ian Healy	Person 
+7840	Michael Bevan	Person 
+7847	Jason Gillespie	Person 
+7850	Stuart Law	Person 
+7853	Glenn McGrath	Person 
+7860	Michael Slater	Person 
+7863	Darren Lehmann	Person 
+7866	Mark Waugh	Person 
+7874	Sri Lanka	Place AdministrativeArea Country 
+7877	Arjuna Ranatunga	Person 
+7883	Sanath Jayasuriya	Person 
+7887	Romesh Kaluwitharana	Person 
+7890	Asanka Gurusinha	Person 
+7893	Aravinda de	Person 
+7894	de Silva	Person 
+7901	Roshan Mahanama	Person 
+7908	Chaminda Vaas	Person 
+7911	Muthiah Muralitharan	Person 
+7923	PROFIT RISE	Organization 
+8216	FROM REVERSE	Event 
+8217	REVERSE REPO	MusicRecording 
+8218	REPO OPERATION	TVSeries 
+8226	National Bank	Corporation Organization 
+8353	July June	Event Organization 
+8411	Reuters Ottawa	Corporation Organization 
+8412	Ottawa Bureau	Place City 
+8421	Jones Medical	Event 
+8427	ST. LOUIS	Place City AdministrativeArea 
+8431	Jones Medical	Event 
+8432	Medical Industries	Organization Corporation 
+8433	Industries Inc	Corporation Organization 
+8442	Daniels Pharmaceuticals	Corporation Organization 
+8443	Pharmaceuticals Inc	Corporation Organization 
+8446	St. Petersburg	AdministrativeArea Place City LandmarksOrHistoricalBuildings 
+8471	Daniels Pharmaceuticals	Corporation Organization 
+8513	NEW YORK	AdministrativeArea Place City 
+8539	U.S. Labor	Person 
+8540	Labor Day	
+8724	Labor Day	
+8740	Labor Day	
+8748	New York	AdministrativeArea Place City 
+8749	York Energy	Place 
+8750	Energy Desk	Event 
+8797	August National	Event 
+8798	National Association	SportsOrganization Corporation Organization 
+8801	Purchasing Management	Event 
+8819	August Chicago	Event 
+8980	Federal Reserve	GovernmentOrganization Corporation Organization 
+9103	Federal Reserve	GovernmentOrganization Corporation Organization 
+9111	Federal Open	Event 
+9112	Open Market	Place 
+9113	Market Committee	Event 
+9121	Federal Reserve	GovernmentOrganization Corporation Organization 
+9124	Lawrence Lindsey	Person 
+9170	Alan Greenspan	Person 
+9176	Jackson Hole	Place TouristAttraction 
+9329	FARMINGTON HILLS	City AdministrativeArea Place 
+9365	Magna International	Corporation Organization 
+9366	International Inc	Corporation Organization 
+9388	New York	AdministrativeArea Place City 
+9389	York Stock	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+9390	Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+9449	Johnson Controls	Corporation Organization 
+9450	Controls Inc	Corporation Organization 
+9453	Lear Corp	Corporation Organization 
+9487	James Hoey	Person 
+9672	John Casesa	Person 
+9675	Schroder Wertheim	Corporation Organization 
+9719	Johnson Controls	Corporation Organization 
+9868	Jim Ballantyne	Person 
+9871	London Newsroom	TVSeries 
+10177	London International	Place Airport 
+10178	International Financial	Event 
+10179	Financial Futures	Organization Corporation 
+10182	Options Exchange	Organization Corporation 
+10223	U.S. Treasuries	Event 
+10231	Chicago PMI	Event 
+10247	August MO	Event 
+10375	U.S. Treasury	TVSeries 
+10389	Purchasing Managers	
+10400	Labour Day	
+10406	September Treasury	
+10412	Chicago Board	Organization Corporation 
+10520	Tokyo Stock	Place AdministrativeArea City 
+10521	Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+10542	U.S. Labour	Place City 
+10543	Labour Day	
+10602	Kansai Electric	Corporation Organization 
+10603	Electric Power	Corporation Organization 
+10606	Kansai International	Place Airport 
+10607	International Airport	Airport Place BusStation 
+10635	Frank Bruno	Person 
+10685	World Boxing	Corporation Organization 
+10686	Boxing Council	Event 
+10693	Mike Tyson	Person 
+10790	Professor David	Person 
+10791	David McLeod	Person 
+10858	American Oliver	Book 
+10859	Oliver McCall	Person 
+10900	American Tyson	MusicGroup 
+10903	Las Vegas	AdministrativeArea Place City 
+10954	Mick McCarthy	Person 
+10967	World Cup	SportsOrganization Organization 
+10975	Gary Breen	Person 
+10981	Phil Babb	Person 
+10988	Ian Harte	Person 
+10997	Keith O'Neill	Person 
+11000	Norwich City	Organization SportsTeam 
+11003	Niall Quinn	Person 
+11106	News Agency	Corporation Organization 
+11208	Driefontein Consolidated	Event 
+11209	Consolidated Ltd	Corporation Organization 
+11230	South Africa	Event 
+11231	Africa Ltd	Corporation Organization 
+11281	Driefontein Consolidated	Event 
+11284	Gold Fields	Corporation Organization 
+11288	Gold Mining	
+11289	Mining Co	Corporation Organization 
+11322	N'Djamena University	CollegeOrUniversity EducationalOrganization Place Organization 
+11334	Education Minister	GovernmentOrganization Organization 
+11335	Minister Nagoum	Person 
+11336	Nagoum Yamassoum	Person 
+11458	Lebed Chechnya	Person 
+11469	Russian Prime	Person 
+11470	Prime Minister	Person 
+11471	Minister Viktor	Person 
+11472	Viktor Chernomyrdin	Person 
+11478	President Boris	Person 
+11479	Boris Yeltsin	Person 
+11492	Alexander Lebed	Person 
+11537	Boris Nikolayevich	Person 
+11586	Aslan Maskhadov	Person 
+11652	Russian Federation	Place Country AdministrativeArea 
+11793	Alexander Lebed	Person 
+11801	Aslan Maskhadov	Person 
+11840	Russian Federation	Place Country AdministrativeArea 
+11844	Chechen Republic	Place AdministrativeArea 
+11994	President Boris	Person 
+11995	Boris Yeltsin	Person 
+12017	Prime Minister	Person 
+12018	Minister Viktor	Person 
+12019	Viktor Chernomyrdin	Person 
+12094	U.S. Assistant	Person 
+12095	Assistant Secretary	
+12098	State John	Person 
+12099	John Kornblum	Person 
+12111	Bosnian President	Person 
+12112	President Alija	Person 
+12113	Alija Izetbegovic	Person 
+12178	Democratic Action	Book 
+12299	Aerodrom Beograd	Airport Place 
+12356	General Director	Corporation Organization 
+12358	Ljubomir Acimovic	Organization SportsTeam 
+12436	Federal Air	Airline Corporation Organization 
+12437	Air Traffic	
+12438	Traffic Control	
+12439	Control Administration	Organization 
+12440	Administration Director	Organization Corporation 
+12441	Director Branko	Movie 
+12477	President Alexander	Person 
+12478	Alexander Lukashenko	Person 
+12547	President Lukashenko	Person 
+12698	Soviet Union	Event 
+12857	United States	Place AdministrativeArea Country 
+12934	Major-General Nikolai	Event 
+13359	Polish Foreign	Event 
+13360	Foreign Minister	Place Country AdministrativeArea 
+13372	Foreign Minister	Place Country AdministrativeArea 
+13374	Dariusz Rosati	Person 
+13437	Foreign Ministry	GovernmentOrganization Place Organization 
+13445	Federal Republic	Place AdministrativeArea Country DefenceEstablishment 
+13484	Serbian President	Event 
+13485	President Slobodan	Person 
+13486	Slobodan Milosevic	Person 
+13534	Bosnian Serbs	Place AdministrativeArea Country 
+13569	Russian President	Person 
+13570	President Boris	Person 
+13571	Boris Yeltsin	Person 
+13588	Sergei Yastrzhembsky	Person 
+13594	Naina Yeltsin	Person 
+13642	Naina Yeltsin	Person 
+13665	Naina Yeltsin	Person 
+13672	Central Clinical	Place Organization 
+13673	Clinical Hospital	Hospital Place 
+13794	Alexander Lebed	Person 
+13801	Aslan Maskhadov	Person 
+14033	Budapest Stock	Place 
+14034	Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+14054	Global Depositary	Corporation Organization 
+14055	Depositary Receipts	Organization Corporation 
+14088	CEO Stephen	Person 
+14325	Czech Republic	Place Country AdministrativeArea 
+14496	National Bank	Corporation Organization 
+14679	Municipal Police	Place GovernmentOrganization Organization 
+14700	Casa de	Place LodgingBusiness TouristAttraction 
+14701	de Narino	Place CivicStructure 
+14982	Desi Bouterse	Person 
+15010	PHNOM PENH	City Place AdministrativeArea 
+15016	King Norodom	Person 
+15017	Norodom Sihanouk	Person 
+15047	New Liberty	AdministrativeArea Place City 
+15073	King Sihanouk	Person 
+15078	Supreme Court	Place Organization TouristAttraction 
+15087	Khmer Nation	Person 
+15088	Nation Party	Organization 
+15186	Prince Norodom	Person 
+15187	Norodom Ranariddh	Person 
+15190	Hun Sen	Person 
+15208	Far East	Place 
+15209	East Gold	
+15225	Far East	Place 
+15255	Southeast Asian	Place 
+15458	Hong Kong	City AdministrativeArea Place Country 
+15464	New York	AdministrativeArea Place City 
+15488	International Monetary	Place Organization 
+15489	Monetary Fund	Place Organization 
+15603	New York	AdministrativeArea Place City 
+15644	New York	AdministrativeArea Place City 
+15691	Muammar Gaddafi	Person 
+15711	United Nations	Organization 
+15735	Pan Am	Airline Organization Corporation 
+15787	Green Square	Place 
+15835	King Mohammed	Person 
+15836	Mohammed Idris	Person 
+16010	Wall Street	Event 
+16022	NEW YORK	AdministrativeArea Place City 
+16027	Wall Street	Event 
+16051	President Clinton	Person 
+16054	Bob Dole	Person 
+16057	Ross Perot	Person 
+16118	Federal Reserve	GovernmentOrganization Corporation Organization 
+16183	Hugh Johnson	Person 
+16190	First Albany	Corporation Organization 
+16191	Albany Corp.	Corporation Organization 
+16197	Wall Street	Event 
+16372	White House	TouristAttraction Place Museum SingleFamilyResidence CivicStructure LandmarksOrHistoricalBuildings 
+16421	Wall Street	Event 
+16456	John Geraghty	Person 
+16462	North American	
+16463	American Equity	Corporation Organization 
+16464	Equity Services	Corporation Organization 
+16486	Ronald Reagan	Person 
+16499	White House	TouristAttraction Place Museum SingleFamilyResidence CivicStructure LandmarksOrHistoricalBuildings 
+16505	Democrat Walter	Person 
+16506	Walter Mondale	Person 
+16517	George Bush	Person 
+16557	Wall Street	Event 
+16658	Dow Jones	Corporation Organization 
+16807	Wall Street	Event 
+16882	Dow Jones	Corporation Organization 
+16953	American Stock	Place 
+16954	Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16983	Glenn Somerville	Person 
+17023	Commerce Department	Place Organization CollegeOrUniversity EducationalOrganization 
+17192	Federal Reserve	GovernmentOrganization Corporation Organization 
+17230	Barnett Banks	Corporation Organization 
+17231	Banks Inc.	Corporation Organization 
+17244	Wall Street	Event 
+17316	Dow Jones	Corporation Organization 
+17337	Commerce Department	Place Organization CollegeOrUniversity EducationalOrganization 
+17447	Economist Joel	Person 
+17451	First Union	Corporation Organization 
+17494	Federal Open	Event 
+17495	Open Market	Place 
+17496	Market Committee	Event 
+17587	Federal Reserve	GovernmentOrganization Corporation Organization 
+17588	Reserve Governor	Organization Corporation GovernmentOrganization Place TouristAttraction 
+17589	Governor Lawrence	Person 
+17590	Lawrence Lindsey	Person 
+17861	Maggie McNeil	Place City 
+17867	U.S. Agriculture	GovernmentOrganization Organization 
+17868	Agriculture Department	GovernmentOrganization Organization 
+17884	United States	Place AdministrativeArea Country 
+17935	Agriculture Secretary	GovernmentOrganization Organization 
+17936	Secretary Dan	Person 
+17937	Dan Glickman	Person 
+17981	Agriculture Department	GovernmentOrganization Organization 
+18111	World Trade	Event 
+18112	Trade Organisation	Organization 
+18199	California Avocado	
+18200	Avocado Commission	
+18221	Agriculture Department	GovernmentOrganization Organization 
+18383	Agriculture Department	GovernmentOrganization Organization 
+18412	U.S. Cardinal	Place AdministrativeArea 
+18413	Cardinal Bernardin	Person 
+18424	Chicago Cardinal	Event 
+18425	Cardinal Joseph	Person 
+18426	Joseph Bernardin	Person 
+18433	U.S. Roman	Organization 
+18434	Roman Catholic	EducationalOrganization School Organization 
+18823	Los Angeles	City Place AdministrativeArea 
+18972	American Catholics	Book 
+19031	Brad Dorfman	Person 
+19046	Bancshares Inc.	Corporation Organization 
+19049	NationsBank Corp.	Corporation Organization 
+19102	Edward D.	Person 
+19103	D. Jones	Person 
+19133	Mercantile Bancorp	Corporation Organization 
+19134	Bancorp Inc.	Corporation Organization 
+19166	Kansas City	SportsTeam Organization 
+19170	Commerce Bancshares	Corporation Organization 
+19171	Bancshares Inc.	Corporation Organization 
+19214	James Weber	Person 
+19219	A.G. Edwards	Corporation Organization 
+19225	Roosevelt Financial	Place 
+19226	Financial Group	Corporation Organization 
+19227	Group Inc	Corporation Organization 
+19284	First Bank	Corporation Organization 
+19285	Bank System	Corporation Place Organization 
+19286	System Inc.	Corporation Organization 
+19289	Norwest Corp.	Corporation Organization Brand 
+19300	First Chicago	Corporation Organization 
+19301	Chicago NBD	Corporation Organization 
+19302	NBD Corp.	Corporation Organization 
+19310	First Bank	Corporation Organization 
+19318	First Chicago	Corporation Organization 
+19569	Michael Durante	Person 
+19595	State Department	Place AdministrativeArea Country 
+19610	Louis Farrakhan	Person 
+19649	State Department	Place AdministrativeArea Country 
+19652	Glyn Davies	Person 
+19706	U.S. Treasury	TVSeries 
+19707	Treasury Department	GovernmentOrganization Organization 
+19729	Muammar Gaddafi	Person 
+19752	Million Man	Event 
+19753	Man March	Event 
+19770	Treasury Department	GovernmentOrganization Organization 
+19827	U.S. Gulf	Place 
+19839	NEW YORK	AdministrativeArea Place City 
+19851	U.S. Gulf	Place 
+19865	Offshore Data	Corporation Organization 
+19866	Data Services	Corporation Organization 
+19955	New York	AdministrativeArea Place City 
+19956	York Energy	Place 
+19957	Energy Desk	Event 
+20004	President Clinton	Person 
+20034	Scott Reed	Person 
+20079	Scott Reed	Person 
+20086	Peter Knight	Person 
+20119	Former South	Person 
+20120	South Carolina	Place AdministrativeArea 
+20121	Carolina Gov	Person 
+20125	Carroll Campbell	Person 
+20141	Jack Kemp	Person 
+20161	Ross Perot	Person 
+20165	Reform Party	Organization Event 
+20204	Women Voters	MusicRecording 
+20217	NEW YORK	AdministrativeArea Place City 
+20241	RMS Titanic	
+20293	Erin Purcell	Movie 
+20297	Reagan Communications	Person 
+20456	Middle East	Place 
+20487	Middle East	Place 
+20498	Jewish West	Hospital Place CivicStructure 
+20499	West Bank	AdministrativeArea Place 
+20513	East Jerusalem	City Place 
+20531	President Yasser	Person 
+20532	Yasser Arafat	Person 
+20538	Prime Minister	Person 
+20539	Minister Benjamin	Person 
+20540	Benjamin Netanyahu	Person 
+20583	Foreign Ministry	GovernmentOrganization Place Organization 
+20643	European Union	Event 
+20656	West Bank	AdministrativeArea Place 
+20665	Israeli Foreign	Event 
+20666	Foreign Minister	Place Country AdministrativeArea 
+20667	Minister David	Person 
+20668	David Levy	Person 
+20679	Klaus Kinkel	Person 
+20694	Middle East	Place 
+20746	Minister Volker	Person 
+20771	Yitzhak Mordechai	Person 
+20774	Israeli President	Place Country AdministrativeArea 
+20775	President Ezer	Person 
+20776	Ezer Weizman	Person 
+20790	Prime Minister	Person 
+20791	Minister Netanyahu	Person 
+20796	Shimon Peres	Person 
+20808	Air France	Airline Organization Corporation 
+20836	Air France	Airline Organization Corporation 
+20874	Air France	Airline Organization Corporation 
+20887	Air France	Airline Organization Corporation 
+20953	Air France	Airline Organization Corporation 
+20987	Air France	Airline Organization Corporation 
+21039	Prime Minister	Person 
+21040	Minister Alain	Person 
+21041	Alain Juppe	Person 
+21532	Hindustan Copper	Corporation Organization 
+21533	Copper Ltd	Corporation Organization 
+21576	Hindustan Copper	Corporation Organization 
+21631	Bombay Commodities	Person 
+21762	Jim Webber	Person 
+21770	TD Securities	Corporation Organization 
+21771	Securities Inc	Organization Corporation 
+21828	Statistics Canada	GovernmentOrganization Organization 
+21930	Purchasing Managers	
+21931	Managers August	Event 
+21965	Toronto Bond	Place 
+22012	Labour Day	
+22092	Jeffrey Hodgson	Person 
+22105	Aw Computer	Book 
+22106	Computer Systems	Corporation Organization 
+22107	Systems Inc	Corporation EducationalOrganization Organization 
+22114	NEW YORK	AdministrativeArea Place City 
+22182	New York	AdministrativeArea Place City 
+22194	Hospitality Inc	Corporation Organization 
+22201	Company Name	Organization Corporation 
+22204	Hospitality Inc	Corporation Organization 
+22207	Nasdaq Stock	Corporation Organization 
+22246	Bear Stearns	Corporation Organization 
+22249	Co Inc	Corporation Organization 
+22281	United States	Place AdministrativeArea Country 
+22304	Financial Data	Corporation Organization 
+22323	Income N	Event 
+22353	Prime Minister	Person 
+22354	Minister Benjamin	Person 
+22355	Benjamin Netanyahu	Person 
+22396	Damascus Radio	MusicRecording 
+22434	Palestinian President	Person 
+22435	President Yasser	Person 
+22436	Yasser Arafat	Person 
+22448	West Bank	AdministrativeArea Place 
+22460	West Bank	AdministrativeArea Place 
+22674	Islamic Group	Organization 
+22772	President Hosni	Person 
+22773	Hosni Mubarak	Person 
+22802	West Bank	AdministrativeArea Place 
+22824	Yasser Arafat	Person 
+22861	Palestinian President	Person 
+22862	President Arafat	Person 
+22894	West Bank	AdministrativeArea Place 
+22925	West Bank	AdministrativeArea Place 
+22979	Arab East	Place 
+22980	East Jerusalem	City Place 
+23013	Abu Ammar	Person 
+23095	Khaled Hijazi	Event 
+23174	West Bank	AdministrativeArea Place 
+23190	Abu Ammar	Person 
+23223	Ali Ahmed	Person 
+23235	Bay Co	Corporation Organization 
+23236	Co Bldg	LandmarksOrHistoricalBuildings Place 
+23249	NYC Time	Place TouristAttraction 
+23259	Bay Co	Corporation Organization 
+23260	Co Building	Corporation Organization 
+23261	Building Authority	Place City 
+23262	Authority ST	Place Airport 
+23293	NA BOOK	Place 
+23294	BOOK ENTRY	Book 
+23348	Michigan National	Organization 
+23349	National Bank	Corporation Organization 
+23368	Michigan Corp.	SportsTeam 
+23436	CONTRIBUTED BY	Event 
+23437	BY J.J.	MusicAlbum 
+23438	J.J. KENNY	Person 
+23455	Glenn Somerville	Person 
+23470	Commerce Department	Place Organization CollegeOrUniversity EducationalOrganization 
+23757	Wall Street	Event 
+23807	Labour Department	GovernmentOrganization Organization 
+23982	World Markets	Corporation Organization 
+23983	Markets Overnight	Event 
+23991	NEW YORK	AdministrativeArea Place City 
+24000	GOLD METALS	CollegeOrUniversity Place EducationalOrganization Organization 
+24024	CRUDE OIL	
+24034	Sept Brent	Event 
+24057	SINK AS	MusicRecording 
+24061	JUMP ON	MusicAlbum 
+24062	ON STRONG	MusicAlbum 
+24063	STRONG DATA	Book 
+24113	Dow Jones	Corporation Organization 
+24163	New York	AdministrativeArea Place City 
+24164	York Stock	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+24165	Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+24239	Raymond James	LocalBusiness Place StadiumOrArena CivicStructure TouristAttraction 
+24286	Wall Street	Event 
+24324	David Shulman	Person 
+24327	Salomon Bros	TVSeries Movie 
+24369	Commerce Department	Place Organization CollegeOrUniversity EducationalOrganization 
+24483	President Clinton	Person 
+24496	Dick Morris	Person 
+24550	Wall Street	Event 
+24563	Democratic President	Event 
+24564	President Clinton	Person 
+24638	New York	AdministrativeArea Place City 
+24639	York Mercantile	Corporation Organization 
+24640	Mercantile Exchange	Corporation Organization 
+24690	New York	AdministrativeArea Place City 
+24691	York Cotton	Corporation Place Organization 
+24692	Cotton Exchange	Place CivicStructure TouristAttraction 
+24792	David Jones	Corporation Organization 
+24835	CITIC Pacific	Corporation Organization 
+24845	Tong Ling	Person 
+24846	Ling Company	Corporation Organization 
+24847	Company Ltd	Organization Corporation 
+24930	Far Eastern	Place Corporation Organization EducationalOrganization CollegeOrUniversity 
+25174	Pirelli SpA	Corporation Organization 
+25186	Pirelli Cables	Corporation Organization 
+25219	Far East	Place 
+25223	CITIC Pacific	Corporation Organization 
+25306	European Options	Book 
+25307	Options Exchange	Organization Corporation 
+25386	Lex van	Person 
+25387	van Drooge	Person 
+25531	Flavio Cotti	Person 
+25625	Tim Guldimann	Person 
+25643	Zelimkhan Yandarbiyev	Person 
+25656	Alexander Lebed	Person 
+25663	Aslan Maskhadov	Person 
+25849	El Al	Airline Corporation Organization 
+25863	Annemarie Jorritsma	Person 
+25884	El Al	Airline Corporation Organization 
+25925	El Al	Airline Corporation Organization 
+25931	Tel Aviv	Place LandmarksOrHistoricalBuildings City AdministrativeArea 
+25992	El Al	Airline Corporation Organization 
+26017	Air Cargo	Corporation Organization Airline 
+26302	Minsk Group	Place 
+27027	LM Ericsson	Corporation Organization 
+27028	Ericsson AB	Corporation Organization 
+27065	Guangdong Post	Place CivicStructure 
+27068	Telecommunications Administration	Corporation Organization 
+27085	Intelligent Network	Movie 
+27146	Hong Kong	City AdministrativeArea Place Country 
+27147	Kong Financial	Event 
+27148	Financial Secretary	GovernmentOrganization Organization 
+27149	Secretary Donald	Person 
+27150	Donald Tsang	Person 
+27189	South China	Country Place AdministrativeArea 
+27229	New Zealand	Place Country AdministrativeArea 
+27233	Hong Kong	City AdministrativeArea Place Country 
+27272	Hong Kong	City AdministrativeArea Place Country 
+27309	Hong Kong	City AdministrativeArea Place Country 
+27341	Hong Kong	City AdministrativeArea Place Country 
+27347	Hong Kong	City AdministrativeArea Place Country 
+27436	President Suharto	Person 
+27464	JAKARTA POST	Place City AdministrativeArea 
+27524	Moro National	Place Country AdministrativeArea 
+27525	National Liberation	Organization 
+27526	Liberation Front	Organization 
+27556	MEDIA INDONESIA	Corporation Organization 
+27570	Kia Motor	Corporation Organization 
+27571	Motor Corp	Corporation Organization 
+27574	South Korea	Place Country DefenceEstablishment AdministrativeArea 
+27580	Tanjung Priok	Place 
+27596	PT Timor	Place City 
+27597	Timor Putra	Event 
+27598	Putra Nasional	Person 
+27606	President Suharto	Person 
+27630	Central Jakarta	Place 
+27631	Jakarta District	Place City AdministrativeArea 
+27632	District Court	Organization 
+27643	Indonesian Democratic	Organization 
+27644	Democratic Party	Event 
+27650	Megawati Sukarnoputri	Person 
+27688	Jeans Mate	Corporation Organization 
+27724	FORECAST FORECAST	MusicGroup 
+27751	Jeans Mate	Corporation Organization 
+27763	Apic Yamada	Corporation Organization 
+27798	FORECAST FORECAST	MusicGroup 
+27822	Apic Yamada	Corporation Organization 
+28023	Changi Prison	Place 
+28032	Central Narcotics	GovernmentOrganization Organization 
+28033	Narcotics Bureau	MusicRecording 
+28160	West Bank	AdministrativeArea Place 
+28164	Palestinian President	Person 
+28165	President Yasser	Person 
+28166	Yasser Arafat	Person 
+28171	West Bank	AdministrativeArea Place 
+28252	West Bank	AdministrativeArea Place 
+28263	Arab East	Place 
+28264	East Jerusalem	City Place 
+28282	East Jerusalem	City Place 
+28331	U.N. Council	Organization 
+28343	Security Council	Organization 
+28366	Middle East	Place 
+28384	Security Council	Organization 
+28385	Council President	
+28387	Tono Eitel	Person 
+28406	David Peleg	Person 
+28504	Holy City	Place AdministrativeArea City 
+28516	Palestinian Liberation	Organization Place 
+28517	Liberation Organisation	Organization Place 
+28549	Old City	TouristAttraction LandmarksOrHistoricalBuildings Place 
+28648	SCRAPE 1-1	MusicRecording 
+28657	LA CORUNA	Corporation SportsTeam Organization 
+28669	Roberto Carlos	Person 
+28675	Real Madrid	Corporation Organization SportsTeam 
+28678	Fabio Capello	Person 
+28718	Deportivo Coruna	Corporation SportsTeam Organization 
+28767	Luis Milla	Person 
+28802	Armando Alvarez	Person 
+28815	Roberto Carlos	Person 
+28838	Jacques Songo'o	Person 
+28886	Augusto Lendoiro	Person 
+28898	Mauro Silva	Person 
+28923	John Toshack	Person 
+28951	RUGBY LEAGUE	SportsOrganization Organization 
+28981	Bradford Bulls	Organization SportsTeam 
+29032	Nir Sivilia	Person 
+29086	World Cup	SportsOrganization Organization 
+29099	Mick McCarthy	Person 
+29111	Andy Townsend	Person 
+29117	Keith O'Neill	Person 
+29122	Niall Quinn	Person 
+29126	Ian Harte	Person 
+29174	Jack Charlton	Person 
+29228	World Cup	SportsOrganization Organization 
+29241	Andy Townsend	Person 
+29247	Keith O'Neill	Person 
+29253	Niall Quinn	Person 
+29261	Ian Harte	Person 
+29278	FINAL SCORES	Event 
+29295	British Masters	
+29309	Robert Allenby	Person 
+29319	Miguel Angel	Person 
+29320	Angel Martin	Person 
+29339	Costantino Rocca	Person 
+29350	Miguel Angel	Person 
+29351	Angel Jimenez	Person 
+29362	Ian Woosnam	Person 
+29370	Jose Coceres	Person 
+29381	Joakim Haeggman	Person 
+29391	Antoine Lebouc	Person 
+29402	Colin Montgomerie	Person 
+29409	Robert Coles	Person 
+29416	Philip Walton	Person 
+29426	Peter Mitchell	Person 
+29433	Klas Eriksson	Person 
+29443	Pedro Linhart	Person 
+29454	Phillip Price	Person 
+29461	Adam Hunter	Person 
+29468	Peter O'Malley	Person 
+29478	Mark Roe	Person 
+29485	Mike Clayton	Person 
+29496	Iain Pyman	Person 
+29503	David Gilford	Person 
+29510	Peter Hedblom	Person 
+29520	Stephen McAllister	Person 
+29543	Faroe Islands	Place Country AdministrativeArea 
+29550	Faroe Islands	Place Country AdministrativeArea 
+29559	World Cup	SportsOrganization Organization 
+29574	Faroe Islands	Place Country AdministrativeArea 
+29577	Jan Allan	Person 
+29578	Allan Mueller	Person 
+29587	Lubomir Moravcik	Person 
+29593	Peter Dubovsky	Person 
+29653	N. Knight	Person 
+29661	Ijaz Ahmed	Person 
+29665	A. Hollioake	Person 
+29676	NETHERLANDS FINAL	Event 
+29714	Olaf Ludwig	Person 
+29727	2. Giovanni	MusicRecording 
+29728	Giovanni Lombardi	Person 
+29749	Erik Breukink	Person 
+29759	Jesper Skibby	Person 
+29768	Vyacheslav Ekimov	Person 
+29787	Eleuterio Anguita	Person 
+29792	MX Onda	Organization SportsTeam 
+29796	Michael Andersson	Person 
+29804	Johan Capiot	Person 
+29825	Rolf Sorensen	Person 
+29833	2. Lance	Person 
+29834	Lance Armstrong	Person 
+29849	Marco Lietti	Person 
+29857	5. Erik	MusicRecording 
+29858	Erik Dekker	Person 
+29897	ENGLAND V	Event 
+29898	V PAKISTAN	Event 
+29926	N. Knight	Person 
+29929	Moin Khan	Person 
+29932	Saqlain Mushtaq	Person 
+29936	A. Stewart	Person 
+29939	Mushtaq Ahmed	Person 
+29943	M. Atherton	Person 
+29947	Mushtaq Ahmed	Person 
+29951	G. Thorpe	Person 
+29958	M. Maynard	Person 
+29964	R. Irani	Person 
+29970	A. Hollioake	Person 
+29976	D. Gough	Person 
+29982	R. Croft	Person 
+29985	Waqar Younis	Person 
+29989	D. Headley	Person 
+30030	A. Mullally	Person 
+30036	Wasim Akram	Person 
+30040	Waqar Younis	Person 
+30048	Saqlain Mushtaq	Person 
+30052	Mushtaq Ahmed	Person 
+30057	Aamir Sohail	Person 
+30064	Saeed Anwar	Person 
+30072	Aamir Sohail	Person 
+30080	Moin Khan	Person 
+30087	Ijaz Ahmed	Person 
+30100	Salim Malik	
+30108	Wasim Akram	Person 
+30116	Mushtaq Ahmed	Person 
+30122	Saqlain Mushtaq	Person 
+30128	Waqar Younis	Person 
+30240	Antonella Bellutti	Person 
+30251	2. Marion	MusicRecording 
+30252	Marion Clignet	Person 
+30259	3. Lucy	Event 
+30260	Lucy Tyler-Sharman	Person 
+30268	Yvonne McGregor	Person 
+30276	Natalia Karimova	Person 
+30284	Svetlana Samokhalova	Event 
+30292	Jane Quigley	Person 
+30300	Rasa Mazeikyte	Person 
+30325	Adler Capelli	Person 
+30331	Andrea Collinelli	Person 
+30345	Anton Chantyr	Person 
+30348	Edouard Gritsoun	Person 
+30351	Nikolai Kouznetsov	Person 
+30359	Cyril Bos	Person 
+30362	Philippe Ermenault	Person 
+30365	Jean-Michel Monin	Person 
+30368	Francis Moreau	Person 
+30375	Guido Fulst	Person 
+30378	Danilo Hondo	Person 
+30381	Thorsten Rund	Person 
+30384	Heiko Szonn	Person 
+30411	Felicia Ballanger	Person 
+30419	Annett Neumann	Person 
+30426	3. Michelle	MusicRecording 
+30427	Michelle Ferris	Person 
+30435	Magali Faure	Person 
+30442	5. Olga	Book 
+30443	Olga Slioussareva	Person 
+30451	Oksana Grichina	Person 
+30459	Tanya Dubnicoff	Person 
+30467	Kathrin Freitag	Person 
+30475	Donna Wynd	Person 
+30478	New Zealand	Place Country AdministrativeArea 
+30484	Mira Kasslin	Person 
+30492	Wendy Everson	Person 
+30500	Giovanna Troldi	Person 
+30508	Rita Razmaite	Person 
+30526	Adler Capelli	Person 
+30532	Andrea Collinelli	Person 
+30542	Cyril Bos	Person 
+30545	Philippe Ermenault	Person 
+30548	Jean-Michel Monin	Person 
+30551	Francis Moreau	Person 
+30569	Florian Rousseau	Person 
+30575	Ainars Kiksis	Person 
+30582	Darryn Hill	Person 
+30588	Christian Arrue	Person 
+30595	Roberto Chiappa	Person 
+30601	Frederic Magne	Person 
+30608	Marty Nothstein	Person 
+30614	Pavel Buran	Person 
+30617	Czech Republic	Place Country AdministrativeArea 
+30634	Marion Clignet	Person 
+30641	World Record	Movie 
+30653	Natalia Karimova	Person 
+30660	Yvonne McGregor	Person 
+30668	Lucy Tyler-Sharman	Person 
+30683	Antonella Bellutti	Person 
+30703	PAKISTAN WIN	Place Country AdministrativeArea 
+30707	PUT ENGLAND	Person 
+30744	Adam Hollioake	Person 
+30755	Graham Lloyd	Person 
+30760	Peter Martin	Person 
+30782	Old Trafford	CivicStructure Place StadiumOrArena LocalBusiness TouristAttraction 
+30801	Mike Atherton	Person 
+30807	Nick Knight	Person 
+30810	Alec Stewart	Person 
+30813	Graham Thorpe	Person 
+30816	Matthew Maynard	Person 
+30819	Adam Hollioake	Person 
+30822	Ronnie Irani	Person 
+30825	Robert Croft	Person 
+30828	Darren Gough	Person 
+30831	Dean Headley	Person 
+30834	Alan Mullally	Person 
+30840	Aamir Sohail	Person 
+30843	Saeed Anwar	Person 
+30846	Ijaz Ahmed	Person 
+30849	Salim Malik	
+30854	Wasim Akram	Person 
+30860	Moin Khan	Person 
+30863	Saqlain Mushtaq	Person 
+30866	Mushtaq Ahmed	Person 
+30869	Waqar Younis	Person 
+30880	HOMERS TWICE	Person 
+30881	TWICE AS	MusicGroup 
+30882	AS RANGERS	Corporation SportsTeam Organization 
+30893	Juan Gonzalez	Person 
+30898	Ivan Rodriguez	Person 
+30906	Texas Rangers	SportsTeam Organization 
+30910	Cleveland Indians	SportsTeam 
+30928	Chad Ogea	Person 
+31023	Ruben Sierra	Person 
+31062	Johnny Oates	Person 
+31108	Roger Pavlik	Person 
+31132	American League	Place AdministrativeArea Country 
+31136	Jeff Russell	Person 
+31148	Brian Giles	Person 
+31151	Jim Thome	Person 
+31163	White Sox	Organization SportsTeam 
+31167	American League	Place AdministrativeArea Country 
+31168	League Central	SportsOrganization Organization 
+31192	Tino Martinez	Person 
+31202	Andy Pettitte	Person 
+31213	New York	AdministrativeArea Place City 
+31214	York Yankees	Organization SportsTeam 
+31222	New York	AdministrativeArea Place City 
+31235	Mariano Duncan	Person 
+31238	Darryl Strawberry	Person 
+31241	Jim Leyritz	Person 
+31276	Mariano Rivera	Person 
+31289	Randy Velarde	Person 
+31307	Pete Incaviglia	Person 
+31324	Baltimore Orioles	SportsTeam Organization 
+31328	Seattle Mariners	Organization SportsTeam 
+31351	Eddie Murray	Person 
+31367	Jay Buhner	Person 
+31374	Edgar Martinez	Person 
+31388	White Sox	Organization SportsTeam 
+31392	American League	Place AdministrativeArea Country 
+31407	Kevin Tapani	Person 
+31423	Frank Thomas	Person 
+31436	Chicago White	Organization SportsTeam 
+31437	White Sox	Organization SportsTeam 
+31446	Blue Jays	Organization SportsTeam 
+31452	Harold Baines	Person 
+31455	Robin Ventura	Person 
+31471	Danny Tartabull	Person 
+31493	Dave Telgheder	Person 
+31502	Mark McGwire	Person 
+31520	Boston Red	Organization SportsTeam 
+31521	Red Sox	Organization SportsTeam 
+31538	Buddy Groom	Person 
+31586	Todd Van	Person 
+31587	Van Poppel	Person 
+31598	Tony Clark	Person 
+31612	Kansas City	SportsTeam Organization 
+31613	City Royals	Corporation SportsTeam Organization 
+31618	Van Poppel	Person 
+31656	Kansas City	SportsTeam Organization 
+31671	Marc Newfield	Person 
+31675	Jose Parra	Person 
+31697	Minnesota Twins	SportsTeam 
+31711	Bob Wickman	Person 
+31732	Matt Lawton	Person 
+31740	Mike Fetters	Person 
+31769	Dave Nilsson	Person 
+31782	KENT MADE	Event 
+31848	Richard Kettleborough	Person 
+31892	Tunbridge Wells	Place City 
+31937	Tim Munton	Person 
+31955	Dave Gilbert	Person 
+31963	Dean Jones	Person 
+32020	LEADING MONEY	SportsOrganization Corporation Organization 
+32021	MONEY WINNERS	SportsOrganization Organization 
+32023	ON EUROPEAN	Place Continent AdministrativeArea 
+32024	EUROPEAN TOUR	Place Continent AdministrativeArea 
+32037	European Tour	Place Continent AdministrativeArea 
+32041	British Masters	
+32045	Robert Allenby	Person 
+32058	Ian Woosnam	Person 
+32064	2. Colin	VideoGame 
+32065	Colin Montgomerie	Person 
+32069	3. Robert	Corporation Organization 
+32070	Robert Allenby	Person 
+32078	Lee Westwood	Person 
+32083	Costantino Rocca	Person 
+32090	6. Mark	
+32091	Mark McNulty	Person 
+32098	7. Andrew	Person 
+32099	Andrew Coltart	Person 
+32103	8. Wayne	Event 
+32104	Wayne Riley	Person 
+32112	Raymond Russell	Person 
+32117	Paul Lawrie	Person 
+32122	Stephen Ames	Person 
+32130	Frank Nobilo	Person 
+32133	New Zealand	Place Country AdministrativeArea 
+32139	Paul McGinley	Person 
+32147	Padraig Harrington	Person 
+32155	Retief Goosen	Person 
+32158	South Africa	Event 
+32163	16. Miguel	Organization SportsTeam 
+32164	Miguel Angel	Person 
+32165	Angel Jimenez	Person 
+32172	17. Peter	Person 
+32173	Peter Mitchell	Person 
+32178	Miguel Angel	Person 
+32179	Angel Martin	Person 
+32186	19. Jonathan	Place 
+32187	Jonathan Lomas	Person 
+32192	Paul Broadhurst	Person 
+32227	English National	SportsTeam 
+32228	National League	SportsOrganization Organization 
+32237	London Irish	Organization SportsTeam 
+32245	West Hartlepool	SportsTeam Organization 
+32319	Stirling County	Organization SportsTeam 
+32342	San Marino	Place AdministrativeArea Country 
+32351	World Cup	SportsOrganization Organization 
+32364	Dean Saunders	Person 
+32373	Mark Hughes	Person 
+32381	Andy Melville	Person 
+32387	John Robinson	Person 
+32404	NORTHERN IRELAND	Event 
+32417	Northern Ireland	Event 
+32418	Ireland 1-0	Event 
+32426	World Cup	SportsOrganization Organization 
+32439	Sergei Rebrov	Person 
+32470	Michael Lynagh	Person 
+32489	Bob Dwyer	Person 
+32528	Nigel Wray	Person 
+32546	Philippe Sella	Person 
+32567	Kyran Bracken	Person 
+32583	Laurent Cabannes	Person 
+32586	Laurent Benezech	Person 
+32602	Former England	Place StadiumOrArena 
+32640	Rugby Football	SportsOrganization Organization 
+32641	Football Union	SportsOrganization Organization 
+32673	SCOTTISH LEAGUE	Organization SportsOrganization 
+32674	LEAGUE STANDINGS	Organization Corporation 
+32714	Greenock Morton	Organization SportsTeam 
+32733	St Johnstone	Organization SportsTeam 
+32743	St Mirren	SportsTeam Organization 
+32798	East Fife	Organization SportsTeam 
+32971	Inverness Thistle	SportsTeam Organization 
+32981	East Stirling	Organization SportsTeam 
+32991	Ross County	Organization SportsTeam 
+33092	Queens Park	Corporation SportsTeam Organization 
+33093	Park Rangers	Corporation SportsTeam Organization 
+33148	Crystal Palace	SportsTeam Corporation Organization 
+33158	Port Vale	Organization SportsTeam 
+33204	Manchester City	SportsTeam Corporation Organization 
+33214	West Bromwich	Organization SportsTeam 
+33233	Sheffield United	Organization SportsTeam 
+33372	Bristol Rovers	Organization SportsTeam 
+33418	Notts County	Corporation Organization SportsTeam 
+33428	Bristol City	Organization SportsTeam 
+33612	Cambridge United	Organization SportsTeam 
+33649	Leyton Orient	Organization SportsTeam 
+33717	SCOTTISH LEAGUE	Organization SportsOrganization 
+33738	Greenock Morton	Organization SportsTeam 
+33746	St Mirren	SportsTeam Organization 
+33757	East Fife	Organization SportsTeam 
+33762	St Johnstone	Organization SportsTeam 
+33809	East Stirling	Organization SportsTeam 
+33813	Inverness Thistle	SportsTeam Organization 
+33821	Ross County	Organization SportsTeam 
+33869	Crystal Palace	SportsTeam Corporation Organization 
+33883	Port Vale	Organization SportsTeam 
+33901	Birmingham v	Event 
+33902	v Barnsley	Organization Place 
+33905	Manchester City	SportsTeam Corporation Organization 
+33913	Queens Park	Corporation SportsTeam Organization 
+33914	Park Rangers	Corporation SportsTeam Organization 
+33932	Bristol Rovers	Organization SportsTeam 
+33940	Bristol City	Organization SportsTeam 
+33964	Notts County	Corporation Organization SportsTeam 
+33988	Cambridge United	Organization SportsTeam 
+34014	Leyton Orient	Organization SportsTeam 
+34088	A. Fraser	Person 
+34092	P. Tufnell	Person 
+34158	S. Rhodes	Person 
+34162	P. DeFreitas	Person 
+34204	J. Benjamin	Person 
+34208	M. Bicknell	Person 
+34216	C. Lewis	Person 
+34220	M. Butcher	Person 
+34224	G. Kersey	Person 
+34228	J. Ratcliffe	Person 
+34232	D. Bicknell	Person 
+34257	R. Kettleborough	Person 
+34261	G. Hamilton	Person 
+34291	Tunbridge Wells	Place City 
+34299	C. Tolley	Person 
+34309	C. Hooper	Person 
+34313	C. Tolley	Person 
+34317	K. Evans	Person 
+34330	J. Russell	Person 
+34343	MOTOR RACING	SportsTeam Organization 
+34350	INDYCAR RACE	
+34366	Vancouver IndyCar	
+34395	Alex Zanardi	Person 
+34414	2. Michael	Person 
+34415	Michael Andretti	Person 
+34421	Lola Ford	Corporation Organization 
+34422	Ford Cosworth	Organization Corporation 
+34427	3. Bobby	MusicAlbum 
+34428	Bobby Rahal	Person 
+34440	Bryan Herta	Person 
+34452	Jimmy Vasser	Person 
+34463	6. Paul	Person 
+34464	Paul Tracy	Person 
+34470	Penske Mercedes-Benz	Event 
+34476	Al Unser	Person 
+34477	Unser Jr	Person 
+34483	Penske Mercedes-Benz	Event 
+34488	8. Andre	MusicAlbum 
+34489	Andre Ribeiro	Person 
+34495	Lola Honda	Corporation Organization 
+34501	Mauricio Gugelmin	Person 
+34508	Ford Cosworth	Organization Corporation 
+34514	Gil de	Person 
+34515	de Ferran	Person 
+34561	World Cup	SportsOrganization Organization 
+34580	Paul Peschisolido	Person 
+34594	Jorge Luis	Person 
+34595	Luis Dely	Person 
+34596	Dely Valdes	Person 
+34615	BLACK SPELL	MusicRecording 
+34619	Andy Colquhoun	Person 
+34625	South Africa	Event 
+34653	Ellis Park	LocalBusiness TouristAttraction Place StadiumOrArena 
+34670	New Zealand	Place Country AdministrativeArea 
+34705	New Zealand	Place Country AdministrativeArea 
+34733	Joost van	Person 
+34753	Andre Venter	Person 
+34772	Fullback Andre	Person 
+34773	Andre Joubert	Person 
+34812	Walter Little	Person 
+34816	Justin Marshall	Person 
+34848	Andrew Mehrtens	Person 
+34863	Henry Honiball	Person 
+34878	Andrew Mehrtens	Person 
+34947	Pieter Hendriks	Person 
+34960	Derek Bevan	Person 
+34984	All Black	SportsTeam 
+34987	Sean Fitzpatrick	Person 
+35096	Centre Walter	Organization Hospital Place 
+35097	Walter Little	Person 
+35111	Justin Marshall	Person 
+35132	South Africa	Event 
+35137	Andre Joubert	Person 
+35142	Justin Swart	Person 
+35147	Japie Mulder	Person 
+35150	Joel Stransky	Person 
+35158	Danie van	Person 
+35159	van Schalkwyk	Person 
+35164	Pieter Hendriks	Person 
+35169	Henry Honiball	Person 
+35181	Gary Teichmann	Person 
+35189	Andre Venter	Person 
+35192	Wayne Fyvie	Person 
+35205	Mark Andrews	Person 
+35208	Fritz van	Person 
+35209	van Heerden	Person 
+35217	Kobus Wiese	Person 
+35222	Marius Hurter	Person 
+35227	James Dalton	Person 
+35232	Dawie Theron	Person 
+35235	Garry Pagel	Person 
+35242	New Zealand	Place Country AdministrativeArea 
+35247	Christian Cullen	Person 
+35250	Alama Ieremia	Person 
+35258	Jeff Wilson	Person 
+35263	Walter Little	Person 
+35268	Frank Bunce	Person 
+35273	Glen Osborne	Person 
+35278	Andrew Mehrtens	Person 
+35283	Justin Marshall	Person 
+35288	Zinzan Brooke	Person 
+35293	Josh Kronfeld	Person 
+35298	Michael Jones	Person 
+35301	Glenn Taylor	Person 
+35309	Robin Brooke	Person 
+35314	Ian Jones	Person 
+35319	Olo Brown	Person 
+35324	Sean Fitzpatrick	Person 
+35332	Craig Dowd	Person 
+35341	SOUTH AFRICA	Event 
+35352	South Africa	Event 
+35355	New Zealand	Place Country AdministrativeArea 
+35372	Ellis Park	LocalBusiness TouristAttraction Place StadiumOrArena 
+35381	South Africa	Event 
+35386	Joost van	Person 
+35394	Andre Joubert	Person 
+35400	Henry Honiball	Person 
+35417	New Zealand	Place Country AdministrativeArea 
+35422	Sean Fitzpatrick	Person 
+35425	Walter Little	Person 
+35428	Justin Marshall	Person 
+35434	Andrew Mehrtens	Person 
+35446	New Zealand	Place Country AdministrativeArea 
+35460	NATIONAL TEAM	SportsTeam 
+35461	TEAM AFTER	Organization SportsTeam 
+35462	AFTER CUP	Event 
+35463	CUP EXIT	MusicRecording 
+35499	African Nations	Continent Place 
+35536	Mohamed Lemine	Person 
+35543	North Africans	Place 
+35576	AFRICAN NATIONS	Continent Place 
+35577	NATIONS CUP	Event 
+35592	Nations Cup	Event 
+35616	YUGOSLAV LEAGUE	SportsOrganization Organization 
+35638	Division A	SportsOrganization Organization 
+35672	Red Star	SportsTeam 
+35702	Red Star	SportsTeam 
+35820	Division B	SportsOrganization Organization 
+35836	OFK Beograd	SportsTeam Organization 
+35842	OFK Kikinda	Organization SportsTeam 
+36003	EXPOSED BY	MusicGroup 
+36004	BY GASCOIGNE	Person 
+36020	Paul Gascoigne	Person 
+36036	Paul Ince	Person 
+36063	Glenn Hoddle	Person 
+36097	Inter Milan	SportsTeam Organization 
+36135	World Cup	SportsOrganization Organization 
+36151	BEOGRAD TOURNAMENT	
+36201	Red Star	SportsTeam 
+36216	BEOGRAD TOURNAMENT	
+36266	Red Star	SportsTeam 
+36302	World Cup	SportsOrganization Organization 
+36318	Viorel Moldovan	Person 
+36325	Dan Petrescu	Person 
+36331	Constantin Galca	Person 
+36366	World Cup	SportsOrganization Organization 
+36399	Switzerland 1-0	Event 
+36407	World Cup	SportsOrganization Organization 
+36422	Vidadi Rzayev	Person 
+36511	Joakim Persson	Person 
+36516	Daniel Andersson	Person 
+36552	World Cup	SportsOrganization Organization 
+36565	Vladimir Makovsky	Person 
+36583	UNDER-21 QUALIFIER	Event 
+36613	Bruce Dyer	Person 
+36620	Darren Eadie	Person 
+36638	JANSHER A	Person 
+36639	A CHEAT	Movie 
+36647	Controversial Australian	Event 
+36648	Australian Anthony	SportsOrganization Organization 
+36649	Anthony Hill	Person 
+36652	Jansher Khan	Person 
+36667	Hong Kong	City AdministrativeArea Place Country 
+36668	Kong Open	
+36958	Professional Squash	
+36959	Squash Association	Event 
+36998	Hong Kong	City AdministrativeArea Place Country 
+36999	Kong Open	
+37006	Rodney Eyles	Person 
+37024	Peter Nicol	Person 
+37044	Portuguese Open	Event 
+37117	HONG KONG	City AdministrativeArea Place Country 
+37118	KONG OPEN	
+37119	OPEN SEMIFINAL	Event 
+37132	Hong Kong	City AdministrativeArea Place Country 
+37133	Kong Open	
+37146	Jansher Khan	Person 
+37152	Anthony Hill	Person 
+37163	Rodney Eyles	Person 
+37171	Peter Nicol	Person 
+37186	TAKES ONE-SHOT	MusicRecording 
+37187	ONE-SHOT LEAD	MusicGroup 
+37188	LEAD AT	
+37189	AT GREATER	Place AdministrativeArea 
+37190	GREATER MILWAUKEE	Place 
+37191	MILWAUKEE OPEN	Event 
+37200	Jesper Parnevik	Person 
+37225	Greater Milwaukee	Place 
+37226	Milwaukee Open	Event 
+37237	PGA Tour	SportsOrganization Corporation Organization 
+37257	Loren Roberts	Person 
+37263	Brown Deer	Place City 
+37264	Deer Park	Place 
+37265	Park Golf	TouristAttraction Place 
+37266	Golf Course	Place LodgingBusiness TouristAttraction 
+37273	Greg Kraft	Person 
+37277	Nolan Henke	Person 
+37311	PGA Tour	SportsOrganization Corporation Organization 
+37319	BellSouth Classic	
+37323	Tiger Woods	Person 
+37365	U.S. Amateur	
+37366	Amateur Championship	
+37653	Bob Estes	Person 
+37668	Steve Stricker	Person 
+37679	World Series	
+37685	Stuart Appleby	Person 
+37699	Duffy Waldorf	Person 
+37709	World Series	
+37737	PGA Tour	SportsOrganization Corporation Organization 
+37760	FED CUP	SportsOrganization Organization 
+37764	Richard Finn	Person 
+37767	NEW YORK	AdministrativeArea Place City 
+37774	Fed Cup	SportsOrganization Organization 
+37783	United States	Place AdministrativeArea Country 
+37808	U.S. Open	Organization SportsOrganization 
+37828	March 1-2	Event 
+37843	Czech Republic	Place Country AdministrativeArea 
+37899	Atlantic City	Place City AdministrativeArea 
+37935	Billie Jean	Person 
+37936	Jean King	Person 
+37954	United States	Place AdministrativeArea Country 
+37988	Fed Cup	SportsOrganization Organization 
+37992	Monica Seles	Person 
+38056	Fed Cup	SportsOrganization Organization 
+38059	Mary Joe	Person 
+38060	Joe Fernandez	Person 
+38088	U.S. Open	Organization SportsOrganization 
+38129	Mary Joe	Person 
+38130	Joe Fernandez	Person 
+38157	Arantxa Sanchez	Person 
+38158	Sanchez Vicario	Person 
+38161	Conchita Martinez	Person 
+38197	FROM THE	Person 
+38198	THE U.S.	Organization 
+38199	U.S. OPEN	Organization SportsOrganization 
+38203	NEW YORK	AdministrativeArea Place City 
+38210	U.S. Open	Organization SportsOrganization 
+38211	Open Tennis	Organization SportsOrganization 
+38212	Tennis Championships	Organization SportsOrganization 
+38216	National Tennis	Organization SportsOrganization 
+38217	Tennis Centre	Place StadiumOrArena TouristAttraction LocalBusiness 
+38237	Steffi Graf	Person 
+38243	Natasha Zvereva	Person 
+38252	Martina Hingis	Person 
+38258	Naoko Kijimuta	Person 
+38265	Judith Wiesner	Person 
+38271	Petra Langrova	Person 
+38274	Czech Republic	Place Country AdministrativeArea 
+38290	Thomas Enqvist	Person 
+38296	Pablo Campana	Person 
+38312	FED CUP	SportsOrganization Organization 
+38316	TEAM TOURNAMENT	Event 
+38320	NEW YORK	AdministrativeArea Place City 
+38330	Fed Cup	SportsOrganization Organization 
+38340	U.S. Open	Organization SportsOrganization 
+38346	World Group	SportsOrganization Organization 
+38347	Group I	SportsOrganization Organization 
+38357	United States	Place AdministrativeArea Country 
+38362	Czech Republic	Place Country AdministrativeArea 
+38386	World Group	SportsOrganization Organization 
+38387	Group II	SportsOrganization Organization 
+38408	South Korea	Place Country DefenceEstablishment AdministrativeArea 
+38413	South Africa	Event 
+38422	EL SALVADOR	Place Country AdministrativeArea 
+38427	LOS ANGELES	City Place AdministrativeArea 
+38432	United States	Place AdministrativeArea Country 
+38435	El Salvador	Place Country AdministrativeArea 
+38456	Joe-Max Moore	Person 
+38468	Eric Wynalda	Person 
+38474	El Salvador	Place Country AdministrativeArea 
+38477	Luis Lazo	Person 
+38491	MAJOR LEAGUE	SportsOrganization Organization Corporation 
+38492	LEAGUE STANDINGS	Organization Corporation 
+38494	AFTER FRIDAY	Book 
+38500	NEW YORK	AdministrativeArea Place City 
+38504	Major League	SportsOrganization Organization Corporation 
+38505	League Baseball	SportsOrganization Organization Corporation 
+38530	AMERICAN LEAGUE	Place AdministrativeArea Country 
+38533	EASTERN DIVISION	SportsOrganization Organization 
+38536	W L	
+38541	NEW YORK	AdministrativeArea Place City 
+38575	CENTRAL DIVISION	Place City 
+38603	KANSAS CITY	SportsTeam Organization 
+38610	WESTERN DIVISION	SportsOrganization Corporation Organization 
+38645	KANSAS CITY	SportsTeam Organization 
+38646	CITY AT	AdministrativeArea Place City 
+38647	AT DETROIT	Place City AdministrativeArea 
+38651	AT SEATTLE	Place CivicStructure LocalBusiness TouristAttraction StadiumOrArena 
+38654	CHICAGO AT	Place AdministrativeArea City 
+38655	AT TORONTO	Place AdministrativeArea City 
+38658	MINNESOTA AT	Place AdministrativeArea 
+38659	AT MILWAUKEE	Place City AdministrativeArea 
+38662	CLEVELAND AT	SportsTeam 
+38663	AT TEXAS	AdministrativeArea Place 
+38666	BOSTON AT	Place City AdministrativeArea 
+38667	AT OAKLAND	TouristAttraction Museum CivicStructure Place LandmarksOrHistoricalBuildings 
+38670	NEW YORK	AdministrativeArea Place City 
+38671	YORK AT	Organization Place EducationalOrganization CollegeOrUniversity 
+38672	AT CALIFORNIA	Place AdministrativeArea 
+38675	NATIONAL LEAGUE	SportsOrganization Organization 
+38678	EASTERN DIVISION	SportsOrganization Organization 
+38681	W L	
+38706	NEW YORK	AdministrativeArea Place City 
+38721	CENTRAL DIVISION	Place City 
+38757	WESTERN DIVISION	SportsOrganization Corporation Organization 
+38760	SAN DIEGO	Place AdministrativeArea DefenceEstablishment City 
+38767	LOS ANGELES	City Place AdministrativeArea 
+38780	SAN FRANCISCO	Place City AdministrativeArea 
+38793	ATLANTA AT	Place City AdministrativeArea 
+38794	AT CHICAGO	Place CollegeOrUniversity Organization EducationalOrganization 
+38797	HOUSTON AT	Place AdministrativeArea City 
+38798	AT PITTSBURGH	Place AdministrativeArea City 
+38801	SAN FRANCISCO	Place City AdministrativeArea 
+38802	FRANCISCO AT	Place City AdministrativeArea 
+38807	FLORIDA AT	Place AdministrativeArea 
+38808	AT CINCINNATI	Place City AdministrativeArea 
+38811	LOS ANGELES	City Place AdministrativeArea 
+38812	ANGELES AT	City Place AdministrativeArea 
+38813	AT PHILADELPHIA	City Place Cemetery AdministrativeArea 
+38816	SAN DIEGO	Place AdministrativeArea DefenceEstablishment City 
+38817	DIEGO AT	Place AdministrativeArea DefenceEstablishment City 
+38818	AT MONTREAL	Place City AdministrativeArea 
+38821	COLORADO AT	EducationalOrganization Organization CollegeOrUniversity 
+38822	AT ST	Movie 
+38823	ST LOUIS	Place City AdministrativeArea 
+38830	MAJOR LEAGUE	SportsOrganization Organization Corporation 
+38831	LEAGUE RESULTS	Event 
+38832	RESULTS FRIDAY	Event 
+38836	NEW YORK	AdministrativeArea Place City 
+38842	Major League	SportsOrganization Organization Corporation 
+38858	American League	Place AdministrativeArea Country 
+38863	Kansas City	SportsTeam Organization 
+38886	New York	AdministrativeArea Place City 
+38902	National League	SportsOrganization Organization 
+38928	San Diego	Place AdministrativeArea DefenceEstablishment City 
+38934	Los Angeles	City Place AdministrativeArea 
+38949	San Francisco	Place City AdministrativeArea 
+38966	KEVIN BROWN	Person 
+38969	ERA AS	Event 
+38970	AS MARLINS	Organization SportsTeam 
+38983	Kevin Brown	Person 
+38989	Devon White	Person 
+39000	Florida Marlins	Organization SportsTeam 
+39004	Cincinnati Reds	Organization SportsTeam 
+39020	Todd Stottlemyre	Person 
+39027	National League	SportsOrganization Organization 
+39087	John Boles	Person 
+39194	Ray Knight	Person 
+39214	Nolan Ryan	Person 
+39269	Jeff Parrett	Person 
+39275	Chad Curtis	Person 
+39280	Los Angeles	City Place AdministrativeArea 
+39281	Angeles Dodgers	SportsTeam Organization 
+39292	Los Angeles	City Place AdministrativeArea 
+39304	Darren Dreifort	Person 
+39327	Todd Worrell	Person 
+39359	Billy Ashley	Person 
+39366	Los Angeles	City Place AdministrativeArea 
+39387	Ryne Sandberg	Person 
+39398	Kevin Foster	Person 
+39406	Tom Glavine	Person 
+39446	Chipper Jones	Person 
+39460	Andruw Jones	Person 
+39485	Jose Hernandez	Person 
+39496	Mike Mordecai	Person 
+39530	Scott Sanders	Person 
+39539	Wally Joyner	Person 
+39551	San Diego	Place AdministrativeArea DefenceEstablishment City 
+39552	Diego Padres	Corporation Organization SportsTeam 
+39622	Mike Oquist	Person 
+39645	New York	AdministrativeArea Place City 
+39648	Marvin Benard	Person 
+39657	Shawn Estes	Person 
+39670	San Francisco	Place City AdministrativeArea 
+39671	Francisco Giants	Corporation SportsTeam Organization 
+39697	Pete Harnisch	Person 
+39725	Rod Beck	Person 
+39745	Alvaro Espinoza	Person 
+39758	Brent Mayne	Person 
+39790	Bobby Valentine	Person 
+39795	St Louis	Place City AdministrativeArea 
+39798	Tom Pagnozzi	Person 
+39807	Alan Benes	Person 
+39820	Colorado Rockies	Organization SportsTeam 
+39844	St Louis	Place City AdministrativeArea 
+39863	Ray Lankford	Person 
+39888	Eric Anthony	Person 
+39904	Sean Berry	Person 
+39914	Donne Wall	Person 
+39926	Houston Astros	Organization SportsTeam 
+39984	Richard Finn	Person 
+39987	NEW YORK	AdministrativeArea Place City 
+39999	Stefan Edberg	Person 
+40009	U.S. Open	Organization SportsOrganization 
+40012	Bernd Karbacher	Person 
+40072	National Tennis	Organization SportsOrganization 
+40073	Tennis Centre	Place StadiumOrArena TouristAttraction LocalBusiness 
+40102	Grand Slam	Organization 
+40123	Ivan Lendl	Person 
+40126	Grand Slam	Organization 
+40263	Richard Krajicek	Person 
+40415	Paul Haarhuis	Person 
+40508	PRINCE NASEEM	Person 
+40521	Naseem Hamed	Person 
+40533	Manuel Medina	Person 
+40571	World Cup	SportsOrganization Organization 
+40639	SC Freiburg	Organization SportsTeam 
+40679	Markus Schopp	Person 
+40691	Duncan Ferguson	Person 
+40706	Michael Konsel	Person 
+40723	Gary McAllister	Person 
+40728	Andreas Heraf	Person 
+40750	Craig Brown	Person 
+40783	SK Rapid	Organization SportsTeam 
+40856	Herbert Prohaska	Person 
+40877	Michael Konsel	Person 
+40880	Markus Schopp	Person 
+40886	Anton Pfeffer	Person 
+40889	Wolfgang Feiersinger	Person 
+40892	Stephan Marasek	Person 
+40895	Dieter Ramusch	Person 
+40898	Andreas Ogris	Person 
+40906	Anton Polster	Person 
+40910	Herfried Sabitzer	Person 
+40915	Andreas Herzog	Person 
+40918	Andreas Heraf	Person 
+40924	Andrew Goram	Person 
+40927	Craig Burley	Person 
+40930	Thomas Boyd	Person 
+40933	Colin Calderwood	Person 
+40936	Colin Hendry	Person 
+40939	Thomas McKinley	Person 
+40942	Duncan Ferguson	Person 
+40945	Stuart McCall	Person 
+40948	Alistair McCoist	Person 
+40951	Gordon Durie	Person 
+40956	Gary McAllister	Person 
+40959	John Collins	Person 
+40977	American Tom	Corporation Organization 
+40978	Tom Johnson	Person 
+40996	Ramon Guzman	Person 
+41006	FRANCE LAUNCH	Event 
+41023	Nicolas Ouedec	Person 
+41026	Youri Djorkaeff	Person 
+41033	World Cup	SportsOrganization Organization 
+41060	Aime Jacquet	Person 
+41085	Franck Leboeuf	Person 
+41105	Ricardo Pelaez	Person 
+41165	Zinedine Zidane	Person 
+41231	Internazionale Milan	SportsTeam Organization 
+41248	Osvaldo Sanchez	Person 
+41264	World Cup	SportsOrganization Organization 
+41297	Bernard Lama	Person 
+41302	Lilian Thuram	Person 
+41307	Sabri Lamouchi	Person 
+41314	Laurent Blanc	Person 
+41319	Marcel Desailly	Person 
+41324	Franck Leboeuf	Person 
+41331	Bixente Lizarazu	Person 
+41336	Christian Karembeu	Person 
+41341	Didier Deschamps	Person 
+41346	Youri Djorkaeff	Person 
+41351	Reynald Pedros	Person 
+41356	Robert Pires	Person 
+41363	Nicolas Ouedec	Person 
+41375	Patrice Loko	Person 
+41380	Zinedine Zidane	Person 
+41389	Osvaldo Sanchez	Person 
+41394	Alfonso Rios	Person 
+41401	Pavel Pardo	Person 
+41406	Claudio Suarez	Person 
+41411	Duilio Davino	Person 
+41437	Raul Rodrigo	Person 
+41438	Rodrigo Lara	Person 
+41443	Cuauhtemoc Blanco	Person 
+41450	Alberto Garcia	Person 
+41451	Garcia Aspe	Person 
+41456	Ramon Ramirez	Person 
+41461	Jesus Arellano	Person 
+41468	Enrique Alfaro	Person 
+41473	Francisco Palencia	Person 
+41480	Luis Garcia	Person 
+41485	Ricardo Pelaez	Person 
+41525	Nicolas Ouedec	Person 
+41532	Youri Djorkaeff	Person 
+41548	PAST TURKEY	SportsOrganization Organization 
+41566	World Cup	SportsOrganization Organization 
+41638	Sergen Yalcin	Person 
+41655	Filip De	Person 
+41656	De Wilde	Person 
+41698	David Elleray	Person 
+41702	Marc Degryse	Person 
+41728	Dirk Medved	Person 
+41740	Luis Oliveira	Person 
+41749	Rustu Recber	Person 
+41780	Ogun Temizkanoglu	Person 
+41783	De Wilde	Person 
+41821	De Wilde	Person 
+41875	De Wilde	Person 
+41880	Arif Erdem	Person 
+41884	Orhan Cikirikci	Person 
+41926	Filip De	Person 
+41927	De Wilde	Person 
+41932	Bertrand Crasson	Person 
+41937	Dirk Medved	Person 
+41942	Pascal Renier	Person 
+41947	Geoffrey Claeys	Person 
+41952	Gunther Schepens	Person 
+41957	Nico Van	Person 
+41958	Van Kerckhoven	Person 
+41966	Enzo Scifo	Person 
+41971	Gert Verheyen	Person 
+41976	Frederic Peiremans	Person 
+41984	Marc Degryse	Person 
+41989	Luc Nilis	Person 
+41993	Luis Oliveira	Person 
+41998	Gilles De	Person 
+41999	De Bilde	Person 
+42010	Rustu Recber	Person 
+42015	Hakan Unsal	Person 
+42020	Sergen Yalcin	Person 
+42028	Recep Cetin	Person 
+42033	Ogun Temizkanoglu	Person 
+42038	Alpay Ozalan	Person 
+42042	Abdullah Ercan	Person 
+42047	Tolunay Kafkas	Person 
+42052	Oguz Cetin	Person 
+42057	Arif Erdem	Person 
+42065	Tayfun Korkut	Person 
+42070	Hakan Sukur	Person 
+42075	Saffet Sancakli	Person 
+42079	Orhan Cikirikci	Person 
+42088	Wilfried Van	Person 
+42089	Van Moer	Person 
+42122	Van Moer	Person 
+42127	Paul Van	Person 
+42128	Van Himst	Person 
+42143	Van Moer	Person 
+42164	FIRST DIVISION	Organization SportsOrganization 
+42183	Deportivo Coruna	Corporation SportsTeam Organization 
+42197	Roberto Carlos	Person 
+42218	FIRST DIVISION	Organization SportsOrganization 
+42239	Deportivo Coruna	Corporation SportsTeam Organization 
+42274	World Cup	SportsOrganization Organization 
+42290	Marc Degryse	Person 
+42296	Luis Oliveira	Person 
+42304	Sergen Yalcin	Person 
+42339	World Cup	SportsOrganization Organization 
+42380	Nate Miller	Person 
+42389	American James	Person 
+42390	James Heath	Person 
+42523	FRIENDLY INTERNATIONAL	SportsTeam 
+42554	Ronald de	Person 
+42555	de Boer	Person 
+42562	Van Gastel	Person 
+42578	Marcello Goncalves	Person 
+42590	WBA CRUISERWEIGHT	Person 
+42591	CRUISERWEIGHT TITLE	
+42598	American Nate	SportsTeam 
+42599	Nate Miller	Person 
+42612	James Heath	Person 
+42627	HORSE RACING	
+42630	TATTERSALLS BREEDERS	
+42631	BREEDERS STAKES	
+42642	Tattersalls Breeders	
+42675	David Harrison	Person 
+42680	Paddy Lad	MusicRecording 
+42684	Peter Bloomfield	Person 
+42688	3. Pelham	Movie 
+42692	Warren O'Connor	Event 
+42718	Richard Hannon	Person 
+42750	Juergen Klinsmann	Person 
+42760	World Cup	SportsOrganization Organization 
+42799	Sueddeutsche Zeitung	Person 
+42883	Berti Vogts	Person 
+42913	GERMAN CUP	Organization SportsOrganization 
+42914	CUP SECOND	SportsOrganization Organization 
+42915	SECOND ROUND	Event 
+42925	German Cup	Organization SportsOrganization 
+42937	Hansa Rostock	SportsTeam Organization 
+42941	Borussia Neunkirchen	Organization SportsTeam 
+42944	St Pauli	Organization SportsTeam 
+42966	U-21 QUALIFIER	Event 
+42996	Cosmin Contra	Person 
+43002	Mihai Tararache	Person 
+43038	Margaret Thatcher	Person 
+43071	Sunday Telegraph	Book 
+43104	Conservative Party	Event 
+43120	Bernard Ingram	Person 
+43138	Bernard Ingham	Person 
+43232	Iron Lady	Person 
+43266	Ronald Reagan	Person 
+43327	Queen Elizabeth	Person 
+43335	Henry VIII	Person 
+43341	Anne Boleyn	Person 
+43390	Prince Eugene	Person 
+43418	Holy Roman	Country AdministrativeArea Place 
+43419	Roman Emperor	Person 
+43420	Emperor Charles	Person 
+43421	Charles VI	Person 
+43429	Spanish Succession	Event 
+43455	General Kutuzov	Person 
+43508	Sir Henry	Person 
+43509	Henry Campbell-Bannerman	Person 
+43537	Trades Disputes	Person 
+43538	Disputes Act	Place 
+43552	Giuseppe Garibaldi	Person 
+43557	Red Shirts	
+43595	Peking Protocol	Place TouristAttraction 
+43617	Elia Kazan	Person 
+43651	Sir Anthony	Person 
+43652	Anthony Quayle	Person 
+43689	Cardinal Wolsey	Person 
+43697	Thousand Days	Event 
+43704	James Alfred	Person 
+43705	Alfred Van	Person 
+43706	Van Allen	Person 
+43734	King Baudouin	Person 
+43753	Leopold III	Person 
+43760	World War	Event 
+43767	Hermann Goering	Person 
+43797	Jackie Stewart	Person 
+43801	Italian Grand	Event 
+43802	Grand Prix	SportsOrganization Organization 
+43831	Bishop Desmond	Person 
+43832	Desmond Tutu	Person 
+43839	Cape Town	Place City AdministrativeArea 
+43842	South Africa	Event 
+43853	South Africa	Event 
+43862	United States	Place AdministrativeArea Country 
+43900	Alan John	Person 
+43901	John Percivale	Person 
+44052	Trevor Holland	Person 
+44205	Scottish Labour	Organization 
+44206	Labour Party	Organization 
+44218	British Labour	Organization 
+44219	Labour Party	Organization 
+44222	Tony Blair	Person 
+44347	Prime Minister	Person 
+44348	Minister John	Person 
+44349	John Major	Person 
+44368	Conservative Party	Event 
+44400	Scottish National	Organization SportsTeam 
+44401	National Party	Event 
+44467	Foreign Office	Place AdministrativeArea Country DefenceEstablishment 
+44518	Gulf War	Event 
+44524	British Prime	Person 
+44525	Prime Minister	Person 
+44526	Minister John	Person 
+44527	John Major	Person 
+44568	Foreign Office	Place AdministrativeArea Country DefenceEstablishment 
+44843	National Congress	Organization 
+44963	President Bill	Person 
+44964	Bill Clinton	Person 
+45088	British Broadcasting	Corporation Organization 
+45089	Broadcasting Corporation	Corporation Organization 
+45151	S. Korean	Place Country DefenceEstablishment AdministrativeArea 
+45205	W D	Person 
+45206	D L	Person 
+45271	S. African	CollegeOrUniversity Organization EducationalOrganization TouristAttraction Place 
+45272	African Afrikaners	Person 
+45280	CAPE TOWN	Place City AdministrativeArea 
+45304	Northern Cape	Place City 
+45319	Constand Viljoen	Person 
+45325	Freedom Front	Person 
+45381	South Africa	Event 
+45432	President Nelson	Person 
+45433	Nelson Mandela	Person 
+45437	African National	Organization 
+45438	National Congress	Organization 
+45476	South Africa	Event 
+45525	Northern Cape	Place City 
+45603	U.N. High	Organization 
+45604	High Commissioner	Organization 
+45757	Prime Minister	Person 
+45758	Minister Kengo	Person 
+45759	Kengo wa	Person 
+45760	wa Dondo	Person 
+45851	Rwandan Hutu	
+46016	Bosnian Serb	Place AdministrativeArea Country 
+46230	Dzhokhar Dudayev	Person 
+46277	Alexander Lebed	Person 
+46329	North Caucasus	Place 
+46460	Doku Zavgayev	Person 
+46621	Allahu Akhbar	Event 
+46731	Bank Rozwoju	Corporation Organization 
+46755	Zycie Warszawy	Organization Corporation 
+46763	Zycie Warszawy	Organization Corporation 
+46782	Zygmunt Solorz	Person 
+46898	French President	Place Country AdministrativeArea 
+46899	President Jacques	Person 
+46900	Jacques Chirac	Person 
+46975	Zycie Warszawy	Organization Corporation 
+46998	Wieslaw Kaczmarek	Person 
+47149	Anthony Barker	Person 
+47206	Sergiyev Posad	Place City 
+47268	Jose Soler	Person 
+47269	Soler Puig	Person 
+47287	Jose Soler	Person 
+47288	Soler Puig	Person 
+47329	President Fidel	Person 
+47330	Fidel Castro	Person 
+47355	Santiago de	Place City 
+47356	de Cuba	City LandmarksOrHistoricalBuildings Country Place 
+47369	Fulgencio Batista	Person 
+47528	Prensa Latina	Corporation GovernmentOrganization Organization 
+47565	U.N. Ambassador	Person 
+47566	Ambassador Albright	Person 
+47581	United Nations	Organization 
+47584	Madeleine Albright	Person 
+47596	Security Council	Organization 
+47607	Latin American	Place AdministrativeArea 
+47615	Foreign Minister	Place Country AdministrativeArea 
+47616	Minister Jose	Person 
+47617	Jose Miguel	TouristAttraction Place StadiumOrArena LocalBusiness 
+47618	Miguel Insulza	Person 
+47659	United States	Place AdministrativeArea Country 
+47708	Latin American	Place AdministrativeArea 
+47741	MEXICO CITY	Place AdministrativeArea City LandmarksOrHistoricalBuildings 
+47776	Radio Red	Organization 
+47814	Gonzalo Montoya	
+47824	Radio Red	Organization 
+47888	Popular Revolutionary	Person 
+47889	Revolutionary Army	Event 
+47967	Xiao Qiang	Person 
+47977	Human Rights	Book 
+48036	Communist Party	Organization 
+48045	Deng Xiaoping	Person 
+48090	Amnesty International	Corporation Organization 
+48317	Fidel Ramos	Person 
+48329	Islamic Conference	Organization 
+48477	Suu Kyi	Person 
+48486	Deborah Charles	
+48496	Aung San	Person 
+48497	San Suu	Person 
+48498	Suu Kyi	Person 
+48567	Suu Kyi	Person 
+48577	Suu Kyi	Person 
+48625	Suu Kyi	Person 
+48628	National League	SportsOrganization Organization 
+48675	Suu Kyi	Person 
+48679	Win Htein	Person 
+48719	Suu Kyi	Person 
+48781	Suu Kyi	Person 
+48839	State Law	Place AdministrativeArea 
+48842	Order Restoration	Organization 
+48843	Restoration Council	Organization 
+48921	Suu Kyi	Person 
+48992	Insein Prison	Place 
+49049	Suu Kyi	Person 
+49085	James Leander	Person 
+49096	Suu Kyi	Person 
+49113	Suu Kyi	Person 
+49188	Dow Chemical	Organization Corporation 
+49200	Dow Chemical	Organization Corporation 
+49201	Chemical Co	Organization Corporation 
+49205	United States	Place AdministrativeArea Country 
+49225	China Daily	Place 
+49277	Caltex Petroleum	Corporation Organization 
+49278	Petroleum Corp	Corporation Organization 
+49338	N. Korea	Place Country AdministrativeArea 
+49341	S. Korea	Place Country DefenceEstablishment AdministrativeArea 
+49352	North Korea	Place Country AdministrativeArea 
+49358	South Korea	Place Country DefenceEstablishment AdministrativeArea 
+49390	Kim In-so	Person 
+49393	North Korea	Place Country AdministrativeArea 
+49402	North Korean	Event 
+49403	Korean Red	Organization 
+49404	Red Cross	Organization 
+49407	Li Song-ho	Movie 
+49419	Kang Young-hoon	Person 
+49461	Korean War	Event 
+49483	International Red	Organization 
+49484	Red Cross	Organization 
+49527	Korean War	Event 
+49540	South Korea	Place Country DefenceEstablishment AdministrativeArea 
+49546	Li In-mo	Person 
+49594	Human Rights	Book 
+49692	Cultural Revolution	Event 
+49742	Cultural Revolution	Event 
+49760	Democracy Wall	Place 
+49834	Tiananmen Square	Event 
+49912	Human Rights	Book 
+49995	Democracy Wall	Place 
+50070	Tiananmen Square	Event 
+50087	Hong Kong	City AdministrativeArea Place Country 
+50110	Hong Kong	City AdministrativeArea Place Country 
+50146	Chen Chun-yeh	Person 
+50150	High Court	Place 
+50158	Hong Kong	City AdministrativeArea Place Country 
+50159	Kong Standard	Corporation Organization 
+50281	China Daily	Place 
+50499	Kurdistan Democratic	Organization 
+50500	Democratic Party	Event 
+50615	U.S. President	Place AdministrativeArea Country 
+50616	President Bill	Person 
+50617	Bill Clinton	Person 
+50644	Patriotic Union	Organization 
+50677	Northern Iraq	Place DefenceEstablishment Country AdministrativeArea 
+50689	Gulf War	Event 
+50776	United States	Place AdministrativeArea Country 
+50797	Interim Force	Organization 
+50972	Kurdistan Democratic	Organization 
+50973	Democratic Party	Event 
+50979	Massoud Barzani	Person 
+51166	Deputy Prime	Place Country AdministrativeArea 
+51167	Prime Minister	Person 
+51169	Tareq Aziz	Person 
+51186	Massoud Barzani	Person 
+51206	Massoud Barzani	Person 
+51222	Patriotic Union	Organization 
+51228	Jalal Talabani	Person 
+51242	News Agency	Corporation Organization 
+51283	President Saddam	Event 
+51284	Saddam Hussein	Person 
+51406	United Nations	Organization 
+51443	Kurdistan Democratic	Organization 
+51444	Democratic Party	Event 
+51536	LA PRESSE	Corporation Organization 
+51587	Palestinian Authority	AdministrativeArea Place 
+51595	Habib Boulares	Person 
+51602	President Zine	Person 
+51605	Ben Ali	Person 
+51766	Labor Day	
+51771	Interstate 95	Place 
+51775	East Coast	Place 
+51797	Air Bag	MusicRecording 
+51798	Bag Safety	Book 
+51818	National Automobile	Corporation Organization 
+51820	Occupant Protection	Event 
+51821	Protection Campaign	Organization 
+51944	National Highway	Place 
+51945	Highway Traffic	GovernmentOrganization Corporation Organization 
+51946	Traffic Safety	GovernmentOrganization Corporation Organization 
+51947	Safety Administration	GovernmentOrganization Corporation Organization 
+52013	New Hampshire	Place AdministrativeArea 
+52039	Lilac Falls	Place 
+52040	Falls Motel	MusicRecording 
+52093	Rochester Fire	SportsOrganization Corporation Organization 
+52094	Fire Department	
+52112	Lilac Falls	Place 
+52113	Falls Motel	MusicRecording 
+52340	Jim Adams	Person 
+52360	President Bill	Person 
+52361	Bill Clinton	Person 
+52395	Carl Vinson	
+52433	United States	Place AdministrativeArea Country 
+52701	Air Force	Organization 
+52728	United States	Place AdministrativeArea Country 
+52742	Air Force	Organization 
+52777	Saudi Arabia	Place DefenceEstablishment Country AdministrativeArea 
+52801	Tarawa Amphibious	Event 
+52808	Carl Vinson	
+52971	Marc Dutroux	Person 
+53065	Le Matin	Movie 
+53132	Bou Haroun	Place 
+53160	Human Rights	Book 
+53161	Rights National	TVSeries 
+53162	National Observatory	TouristAttraction Place 
+53297	Der Spiegel	Movie 
+53466	Abolhassan Banisadr	Person 
+53546	Der Spiegel	Movie 
+53593	Ali Fallahiyan	Person 
+53642	Italian Foreign	Organization 
+53643	Foreign Minister	Place Country AdministrativeArea 
+53644	Minister Lamberto	Person 
+53645	Lamberto Dini	Person 
+53653	Julius Nyerere	Person 
+53688	Howard Wolpe	Person 
+53699	Italian Roman	Country AdministrativeArea Place 
+53700	Roman Catholic	EducationalOrganization School Organization 
+53716	Minister Dini	Person 
+53725	Great Lakes	Place BodyOfWater 
+53778	Lay Volunteers	Organization 
+53781	International Organisation	Corporation Organization 
+53795	U.N. Security	Organization 
+53796	Security Council	Organization 
+53807	Pierre Buyoya	Person 
+53905	North Atlantic	Organization 
+53906	Atlantic Treaty	Organization 
+53907	Treaty Organisation	Organization 
+53956	Kurdistan Democratic	Organization 
+53957	Democratic Party	Event 
+54236	Marc Dutroux	Person 
+54281	Neil Jordan	Person 
+54295	Michael Collins	Person 
+54313	Venice Film	
+54314	Film Festival	
+54322	Liam Neeson	Person 
+54325	Julia Roberts	Person 
+54332	Michael Collins	Person 
+54336	Irish Republican	Organization 
+54337	Republican Army	Organization 
+54380	Northern Ireland	Event 
+54445	Warner Bros	Organization TheaterGroup Brand Corporation 
+54472	Crying Game	Movie 
+54518	Mao Tse-Tung	Person 
+54570	Northern Ireland-born	SportsTeam 
+54602	Aidan Quinn	Person 
+54605	Harry Boland	Person 
+54619	Kitty Kiernan	Person 
+54806	Michael Collins	Person 
+54871	Dhaka Stock	Place City AdministrativeArea 
+54872	Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+54905	Moslem Friday	Person 
+54940	Khurshid Alam	Person 
+54980	Chittagong Cement	
+54983	Atlas Bangladesh	Person 

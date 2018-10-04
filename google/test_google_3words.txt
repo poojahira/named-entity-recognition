@@ -1,0 +1,1824 @@
+21	United Arab Emirates	Place Country AdministrativeArea 
+22	United Arab Emirates	Place Country AdministrativeArea 
+23	United Arab Emirates	Place Country AdministrativeArea 
+453	AFTER A YEAR	EducationalOrganization Place Organization School 
+454	AFTER A YEAR	EducationalOrganization Place Organization School 
+455	AFTER A YEAR	EducationalOrganization Place Organization School 
+701	Franco Properzi Curti	Event 
+702	Franco Properzi Curti	Event 
+703	Franco Properzi Curti	Event 
+742	United Arab Emirates	Place Country AdministrativeArea 
+743	United Arab Emirates	Place Country AdministrativeArea 
+744	United Arab Emirates	Place Country AdministrativeArea 
+1107	Abdul Latif Helou	Person 
+1108	Abdul Latif Helou	Person 
+1109	Abdul Latif Helou	Person 
+1131	FREESTYLE SKIING-WORLD CUP	
+1132	FREESTYLE SKIING-WORLD CUP	
+1133	FREESTYLE SKIING-WORLD CUP	
+1132	SKIING-WORLD CUP MOGUL	
+1133	SKIING-WORLD CUP MOGUL	
+1134	SKIING-WORLD CUP MOGUL	
+1326	ASIAN CUP GROUP	Event 
+1327	ASIAN CUP GROUP	Event 
+1328	ASIAN CUP GROUP	Event 
+1327	CUP GROUP C	Event 
+1328	CUP GROUP C	Event 
+1329	CUP GROUP C	Event 
+1335	United Arab Emirates	Place Country AdministrativeArea 
+1336	United Arab Emirates	Place Country AdministrativeArea 
+1337	United Arab Emirates	Place Country AdministrativeArea 
+1512	Pakistan Saeed Anwar	SportsOrganization Organization 
+1513	Pakistan Saeed Anwar	SportsOrganization Organization 
+1514	Pakistan Saeed Anwar	SportsOrganization Organization 
+1876	ENGLISH F.A. CUP	SportsOrganization Organization 
+1877	ENGLISH F.A. CUP	SportsOrganization Organization 
+1878	ENGLISH F.A. CUP	SportsOrganization Organization 
+1877	F.A. CUP SECOND	Event 
+1878	F.A. CUP SECOND	Event 
+1879	F.A. CUP SECOND	Event 
+1878	CUP SECOND ROUND	SportsOrganization Organization 
+1879	CUP SECOND ROUND	SportsOrganization Organization 
+1880	CUP SECOND ROUND	SportsOrganization Organization 
+1879	SECOND ROUND RESULT	Event 
+1880	SECOND ROUND RESULT	Event 
+1881	SECOND ROUND RESULT	Event 
+2268	Group A CSKA	Person 
+2269	Group A CSKA	Person 
+2270	Group A CSKA	Person 
+2269	A CSKA Moscow	Corporation SportsTeam Organization 
+2270	A CSKA Moscow	Corporation SportsTeam Organization 
+2271	A CSKA Moscow	Corporation SportsTeam Organization 
+2289	Maccabi Tel Aviv	SportsTeam Organization 
+2290	Maccabi Tel Aviv	SportsTeam Organization 
+2291	Maccabi Tel Aviv	SportsTeam Organization 
+2390	Group C Panathinaikos	Person 
+2391	Group C Panathinaikos	Person 
+2392	Group C Panathinaikos	Person 
+2521	Robert Kitson LONDON	Person 
+2522	Robert Kitson LONDON	Person 
+2523	Robert Kitson LONDON	Person 
+3048	OPEN SECOND ROUND	Event 
+3049	OPEN SECOND ROUND	Event 
+3050	OPEN SECOND ROUND	Event 
+3068	Chapman Golf Club	
+3069	Chapman Golf Club	
+3070	Chapman Golf Club	
+3094	Steve van Vuuren	Person 
+3095	Steve van Vuuren	Person 
+3096	Steve van Vuuren	Person 
+3276	Ion of Otelul	Event 
+3277	Ion of Otelul	Event 
+3278	Ion of Otelul	Event 
+3486	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+3487	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+3488	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+3523	ANOTHER MISERABLE DAY	MusicRecording 
+3524	ANOTHER MISERABLE DAY	MusicRecording 
+3525	ANOTHER MISERABLE DAY	MusicRecording 
+3868	AUSTRALIA V WEST	Event 
+3869	AUSTRALIA V WEST	Event 
+3870	AUSTRALIA V WEST	Event 
+3869	V WEST INDIES	Event 
+3870	V WEST INDIES	Event 
+3871	V WEST INDIES	Event 
+3899	West Indies S.	Book 
+3900	West Indies S.	Book 
+3901	West Indies S.	Book 
+4044	Australia M. Taylor	Event 
+4045	Australia M. Taylor	Event 
+4046	Australia M. Taylor	Event 
+4190	WEST INDIES BY	SportsTeam 
+4191	WEST INDIES BY	SportsTeam 
+4192	WEST INDIES BY	SportsTeam 
+4216	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4217	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4218	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4490	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4491	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4492	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4658	Sydney Cricket Ground	StadiumOrArena Place TouristAttraction 
+4659	Sydney Cricket Ground	StadiumOrArena Place TouristAttraction 
+4660	Sydney Cricket Ground	StadiumOrArena Place TouristAttraction 
+4789	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4790	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4791	Melbourne Cricket Ground	TouristAttraction Place CivicStructure StadiumOrArena MusicVenue LocalBusiness 
+4910	World Grand Prix	SportsOrganization Organization 
+4911	World Grand Prix	SportsOrganization Organization 
+4912	World Grand Prix	SportsOrganization Organization 
+4961	Ong Ewe Hock	Person 
+4962	Ong Ewe Hock	Person 
+4963	Ong Ewe Hock	Person 
+4972	Group C Sun	Event 
+4973	Group C Sun	Event 
+4974	Group C Sun	Event 
+4994	Soren B. Nielsen	Person 
+4995	Soren B. Nielsen	Person 
+4996	Soren B. Nielsen	Person 
+5060	Allan Budi Kusuma	Person 
+5061	Allan Budi Kusuma	Person 
+5062	Allan Budi Kusuma	Person 
+5073	Group A Gong	Corporation Organization 
+5074	Group A Gong	Corporation Organization 
+5075	Group A Gong	Corporation Organization 
+5074	A Gong Zhichao	Person 
+5075	A Gong Zhichao	Person 
+5076	A Gong Zhichao	Person 
+5107	C Camilla Martin	Person 
+5108	C Camilla Martin	Person 
+5109	C Camilla Martin	Person 
+5177	WIN AFRICAN CUP	Event 
+5178	WIN AFRICAN CUP	Event 
+5179	WIN AFRICAN CUP	Event 
+5249	NHL ICE HOCKEY	Organization SportsTeam 
+5250	NHL ICE HOCKEY	Organization SportsTeam 
+5251	NHL ICE HOCKEY	Organization SportsTeam 
+5267	National Hockey League	SportsOrganization Organization 
+5268	National Hockey League	SportsOrganization Organization 
+5269	National Hockey League	SportsOrganization Organization 
+5302	W L T	TVSeries Movie 
+5303	W L T	TVSeries Movie 
+5304	W L T	TVSeries Movie 
+5360	W L T	TVSeries Movie 
+5361	W L T	TVSeries Movie 
+5362	W L T	TVSeries Movie 
+5428	WESTERN CONFERENCE CENTRAL	Event 
+5429	WESTERN CONFERENCE CENTRAL	Event 
+5430	WESTERN CONFERENCE CENTRAL	Event 
+5429	CONFERENCE CENTRAL DIVISION	SportsOrganization Organization 
+5430	CONFERENCE CENTRAL DIVISION	SportsOrganization Organization 
+5431	CONFERENCE CENTRAL DIVISION	SportsOrganization Organization 
+5431	CENTRAL DIVISION W	SportsOrganization Organization 
+5432	CENTRAL DIVISION W	SportsOrganization Organization 
+5433	CENTRAL DIVISION W	SportsOrganization Organization 
+5433	W L T	TVSeries Movie 
+5434	W L T	TVSeries Movie 
+5435	W L T	TVSeries Movie 
+5490	PACIFIC DIVISION W	Event 
+5491	PACIFIC DIVISION W	Event 
+5492	PACIFIC DIVISION W	Event 
+5492	W L T	TVSeries Movie 
+5493	W L T	TVSeries Movie 
+5494	W L T	TVSeries Movie 
+5562	ANAHEIM AT BUFFALO	Event 
+5563	ANAHEIM AT BUFFALO	Event 
+5564	ANAHEIM AT BUFFALO	Event 
+5571	PITTSBURGH AT WASHINGTON	Place 
+5572	PITTSBURGH AT WASHINGTON	Place 
+5573	PITTSBURGH AT WASHINGTON	Place 
+5573	AT WASHINGTON MONTREAL	Place City AdministrativeArea 
+5574	AT WASHINGTON MONTREAL	Place City AdministrativeArea 
+5575	AT WASHINGTON MONTREAL	Place City AdministrativeArea 
+5574	WASHINGTON MONTREAL AT	Place City AdministrativeArea 
+5575	WASHINGTON MONTREAL AT	Place City AdministrativeArea 
+5576	WASHINGTON MONTREAL AT	Place City AdministrativeArea 
+5575	MONTREAL AT CHICAGO	Corporation Organization SportsTeam 
+5576	MONTREAL AT CHICAGO	Corporation Organization SportsTeam 
+5577	MONTREAL AT CHICAGO	Corporation Organization SportsTeam 
+5577	AT CHICAGO PHILADELPHIA	Organization Corporation SportsTeam 
+5578	AT CHICAGO PHILADELPHIA	Organization Corporation SportsTeam 
+5579	AT CHICAGO PHILADELPHIA	Organization Corporation SportsTeam 
+5578	CHICAGO PHILADELPHIA AT	Organization Corporation SportsTeam 
+5579	CHICAGO PHILADELPHIA AT	Organization Corporation SportsTeam 
+5580	CHICAGO PHILADELPHIA AT	Organization Corporation SportsTeam 
+5579	PHILADELPHIA AT DALLAS	Place AdministrativeArea City 
+5580	PHILADELPHIA AT DALLAS	Place AdministrativeArea City 
+5581	PHILADELPHIA AT DALLAS	Place AdministrativeArea City 
+5581	AT DALLAS ST	Place AdministrativeArea City 
+5582	AT DALLAS ST	Place AdministrativeArea City 
+5583	AT DALLAS ST	Place AdministrativeArea City 
+5582	DALLAS ST LOUIS	Place Organization EducationalOrganization School 
+5583	DALLAS ST LOUIS	Place Organization EducationalOrganization School 
+5584	DALLAS ST LOUIS	Place Organization EducationalOrganization School 
+5583	ST LOUIS AT	Place City AdministrativeArea 
+5584	ST LOUIS AT	Place City AdministrativeArea 
+5585	ST LOUIS AT	Place City AdministrativeArea 
+5584	LOUIS AT COLORADO	Person 
+5585	LOUIS AT COLORADO	Person 
+5586	LOUIS AT COLORADO	Person 
+5586	AT COLORADO OTTAWA	Event 
+5587	AT COLORADO OTTAWA	Event 
+5588	AT COLORADO OTTAWA	Event 
+5587	COLORADO OTTAWA AT	Event 
+5588	COLORADO OTTAWA AT	Event 
+5589	COLORADO OTTAWA AT	Event 
+5588	OTTAWA AT EDMONTON	SportsTeam Organization 
+5589	OTTAWA AT EDMONTON	SportsTeam Organization 
+5590	OTTAWA AT EDMONTON	SportsTeam Organization 
+5594	NHL ICE HOCKEY	Organization SportsTeam 
+5595	NHL ICE HOCKEY	Organization SportsTeam 
+5596	NHL ICE HOCKEY	Organization SportsTeam 
+5640	National Hockey League	SportsOrganization Organization 
+5641	National Hockey League	SportsOrganization Organization 
+5642	National Hockey League	SportsOrganization Organization 
+5876	Green Bay Packers	SportsTeam Organization 
+5877	Green Bay Packers	SportsTeam Organization 
+5878	Green Bay Packers	SportsTeam Organization 
+6105	National Basketball Association	SportsOrganization Corporation Organization 
+6106	National Basketball Association	SportsOrganization Corporation Organization 
+6107	National Basketball Association	SportsOrganization Corporation Organization 
+6187	CENTRAL DIVISION W	SportsOrganization Organization 
+6188	CENTRAL DIVISION W	SportsOrganization Organization 
+6189	CENTRAL DIVISION W	SportsOrganization Organization 
+6302	PACIFIC DIVISION W	Event 
+6303	PACIFIC DIVISION W	Event 
+6304	PACIFIC DIVISION W	Event 
+6360	NEW JERSEY AT	AdministrativeArea DefenceEstablishment Place 
+6361	NEW JERSEY AT	AdministrativeArea DefenceEstablishment Place 
+6362	NEW JERSEY AT	AdministrativeArea DefenceEstablishment Place 
+6361	JERSEY AT BOSTON	Event 
+6362	JERSEY AT BOSTON	Event 
+6363	JERSEY AT BOSTON	Event 
+6363	AT BOSTON CLEVELAND	Place 
+6364	AT BOSTON CLEVELAND	Place 
+6365	AT BOSTON CLEVELAND	Place 
+6364	BOSTON CLEVELAND AT	Place 
+6365	BOSTON CLEVELAND AT	Place 
+6366	BOSTON CLEVELAND AT	Place 
+6365	CLEVELAND AT DETROIT	Place City AdministrativeArea 
+6366	CLEVELAND AT DETROIT	Place City AdministrativeArea 
+6367	CLEVELAND AT DETROIT	Place City AdministrativeArea 
+6367	AT DETROIT NEW	Place City AdministrativeArea 
+6368	AT DETROIT NEW	Place City AdministrativeArea 
+6369	AT DETROIT NEW	Place City AdministrativeArea 
+6368	DETROIT NEW YORK	Place City AdministrativeArea 
+6369	DETROIT NEW YORK	Place City AdministrativeArea 
+6370	DETROIT NEW YORK	Place City AdministrativeArea 
+6369	NEW YORK AT	AdministrativeArea Place City 
+6370	NEW YORK AT	AdministrativeArea Place City 
+6371	NEW YORK AT	AdministrativeArea Place City 
+6370	YORK AT MIAMI	Organization SportsTeam 
+6371	YORK AT MIAMI	Organization SportsTeam 
+6372	YORK AT MIAMI	Organization SportsTeam 
+6372	AT MIAMI PHOENIX	
+6373	AT MIAMI PHOENIX	
+6374	AT MIAMI PHOENIX	
+6373	MIAMI PHOENIX AT	
+6374	MIAMI PHOENIX AT	
+6375	MIAMI PHOENIX AT	
+6374	PHOENIX AT SACRAMENTO	Place AdministrativeArea 
+6375	PHOENIX AT SACRAMENTO	Place AdministrativeArea 
+6376	PHOENIX AT SACRAMENTO	Place AdministrativeArea 
+6376	AT SACRAMENTO VANCOUVER	SportsTeam 
+6377	AT SACRAMENTO VANCOUVER	SportsTeam 
+6378	AT SACRAMENTO VANCOUVER	SportsTeam 
+6377	SACRAMENTO VANCOUVER AT	SportsTeam 
+6378	SACRAMENTO VANCOUVER AT	SportsTeam 
+6379	SACRAMENTO VANCOUVER AT	SportsTeam 
+6378	VANCOUVER AT SAN	
+6379	VANCOUVER AT SAN	
+6380	VANCOUVER AT SAN	
+6379	AT SAN ANTONIO	Place AdministrativeArea City 
+6380	AT SAN ANTONIO	Place AdministrativeArea City 
+6381	AT SAN ANTONIO	Place AdministrativeArea City 
+6381	SAN ANTONIO MINNESOTA	AdministrativeArea Place City 
+6382	SAN ANTONIO MINNESOTA	AdministrativeArea Place City 
+6383	SAN ANTONIO MINNESOTA	AdministrativeArea Place City 
+6382	ANTONIO MINNESOTA AT	Event 
+6383	ANTONIO MINNESOTA AT	Event 
+6384	ANTONIO MINNESOTA AT	Event 
+6383	MINNESOTA AT UTAH	Event 
+6384	MINNESOTA AT UTAH	Event 
+6385	MINNESOTA AT UTAH	Event 
+6385	AT UTAH CHARLOTTE	Event 
+6386	AT UTAH CHARLOTTE	Event 
+6387	AT UTAH CHARLOTTE	Event 
+6386	UTAH CHARLOTTE AT	Event 
+6387	UTAH CHARLOTTE AT	Event 
+6388	UTAH CHARLOTTE AT	Event 
+6387	CHARLOTTE AT PORTLAND	Person 
+6388	CHARLOTTE AT PORTLAND	Person 
+6389	CHARLOTTE AT PORTLAND	Person 
+6389	AT PORTLAND INDIANA	Place AdministrativeArea City 
+6390	AT PORTLAND INDIANA	Place AdministrativeArea City 
+6391	AT PORTLAND INDIANA	Place AdministrativeArea City 
+6390	PORTLAND INDIANA AT	Place AdministrativeArea City 
+6391	PORTLAND INDIANA AT	Place AdministrativeArea City 
+6392	PORTLAND INDIANA AT	Place AdministrativeArea City 
+6391	INDIANA AT GOLDEN	Place AdministrativeArea 
+6392	INDIANA AT GOLDEN	Place AdministrativeArea 
+6393	INDIANA AT GOLDEN	Place AdministrativeArea 
+6392	AT GOLDEN STATE	Place AdministrativeArea 
+6393	AT GOLDEN STATE	Place AdministrativeArea 
+6394	AT GOLDEN STATE	Place AdministrativeArea 
+6394	GOLDEN STATE ORLANDO	Event 
+6395	GOLDEN STATE ORLANDO	Event 
+6396	GOLDEN STATE ORLANDO	Event 
+6395	STATE ORLANDO AT	Place 
+6396	STATE ORLANDO AT	Place 
+6397	STATE ORLANDO AT	Place 
+6396	ORLANDO AT LA	Person 
+6397	ORLANDO AT LA	Person 
+6398	ORLANDO AT LA	Person 
+6403	NFL AMERICAN FOOTBALL-STANDINGS	SportsOrganization Organization 
+6404	NFL AMERICAN FOOTBALL-STANDINGS	SportsOrganization Organization 
+6405	NFL AMERICAN FOOTBALL-STANDINGS	SportsOrganization Organization 
+6416	National Football League	SportsOrganization Organization 
+6417	National Football League	SportsOrganization Organization 
+6418	National Football League	SportsOrganization Organization 
+6443	AMERICAN FOOTBALL CONFERENCE	
+6444	AMERICAN FOOTBALL CONFERENCE	
+6445	AMERICAN FOOTBALL CONFERENCE	
+6445	FOOTBALL CONFERENCE EASTERN	SportsOrganization Organization Corporation 
+6446	FOOTBALL CONFERENCE EASTERN	SportsOrganization Organization Corporation 
+6447	FOOTBALL CONFERENCE EASTERN	SportsOrganization Organization Corporation 
+6446	CONFERENCE EASTERN DIVISION	SportsOrganization Organization 
+6447	CONFERENCE EASTERN DIVISION	SportsOrganization Organization 
+6448	CONFERENCE EASTERN DIVISION	SportsOrganization Organization 
+6450	W L T	TVSeries Movie 
+6451	W L T	TVSeries Movie 
+6452	W L T	TVSeries Movie 
+6455	PA NEW ENGLAND	Corporation Organization 
+6456	PA NEW ENGLAND	Corporation Organization 
+6457	PA NEW ENGLAND	Corporation Organization 
+6494	CENTRAL DIVISION W	SportsOrganization Organization 
+6495	CENTRAL DIVISION W	SportsOrganization Organization 
+6496	CENTRAL DIVISION W	SportsOrganization Organization 
+6496	W L T	TVSeries Movie 
+6497	W L T	TVSeries Movie 
+6498	W L T	TVSeries Movie 
+6538	WESTERN DIVISION W	Place 
+6539	WESTERN DIVISION W	Place 
+6540	WESTERN DIVISION W	Place 
+6540	W L T	TVSeries Movie 
+6541	W L T	TVSeries Movie 
+6542	W L T	TVSeries Movie 
+6583	NATIONAL FOOTBALL CONFERENCE	
+6584	NATIONAL FOOTBALL CONFERENCE	
+6585	NATIONAL FOOTBALL CONFERENCE	
+6585	FOOTBALL CONFERENCE EASTERN	SportsOrganization Organization Corporation 
+6586	FOOTBALL CONFERENCE EASTERN	SportsOrganization Organization Corporation 
+6587	FOOTBALL CONFERENCE EASTERN	SportsOrganization Organization Corporation 
+6586	CONFERENCE EASTERN DIVISION	SportsOrganization Organization 
+6587	CONFERENCE EASTERN DIVISION	SportsOrganization Organization 
+6588	CONFERENCE EASTERN DIVISION	SportsOrganization Organization 
+6590	W L T	TVSeries Movie 
+6591	W L T	TVSeries Movie 
+6592	W L T	TVSeries Movie 
+6633	CENTRAL DIVISION W	SportsOrganization Organization 
+6634	CENTRAL DIVISION W	SportsOrganization Organization 
+6635	CENTRAL DIVISION W	SportsOrganization Organization 
+6635	W L T	TVSeries Movie 
+6636	W L T	TVSeries Movie 
+6637	W L T	TVSeries Movie 
+6679	WESTERN DIVISION W	Place 
+6680	WESTERN DIVISION W	Place 
+6681	WESTERN DIVISION W	Place 
+6681	W L T	TVSeries Movie 
+6682	W L T	TVSeries Movie 
+6683	W L T	TVSeries Movie 
+6686	PA SAN FRANCISCO	Event 
+6687	PA SAN FRANCISCO	Event 
+6688	PA SAN FRANCISCO	Event 
+6733	CLINCHED PLAYOFF BERTH	Event 
+6734	CLINCHED PLAYOFF BERTH	Event 
+6735	CLINCHED PLAYOFF BERTH	Event 
+6742	ST LOUIS AT	Place City AdministrativeArea 
+6743	ST LOUIS AT	Place City AdministrativeArea 
+6744	ST LOUIS AT	Place City AdministrativeArea 
+6743	LOUIS AT CHICAGO	SportsTeam 
+6744	LOUIS AT CHICAGO	SportsTeam 
+6745	LOUIS AT CHICAGO	SportsTeam 
+6749	AT CINCINNATI DENVER	Person 
+6750	AT CINCINNATI DENVER	Person 
+6751	AT CINCINNATI DENVER	Person 
+6750	CINCINNATI DENVER AT	Person 
+6751	CINCINNATI DENVER AT	Person 
+6752	CINCINNATI DENVER AT	Person 
+6751	DENVER AT GREEN	AdministrativeArea Place City 
+6752	DENVER AT GREEN	AdministrativeArea Place City 
+6753	DENVER AT GREEN	AdministrativeArea Place City 
+6752	AT GREEN BAY	SportsTeam Organization 
+6753	AT GREEN BAY	SportsTeam Organization 
+6754	AT GREEN BAY	SportsTeam Organization 
+6754	GREEN BAY JACKSONVILLE	Event 
+6755	GREEN BAY JACKSONVILLE	Event 
+6756	GREEN BAY JACKSONVILLE	Event 
+6755	BAY JACKSONVILLE AT	Place 
+6756	BAY JACKSONVILLE AT	Place 
+6757	BAY JACKSONVILLE AT	Place 
+6756	JACKSONVILLE AT HOUSTON	Organization 
+6757	JACKSONVILLE AT HOUSTON	Organization 
+6758	JACKSONVILLE AT HOUSTON	Organization 
+6758	AT HOUSTON NY	Event 
+6759	AT HOUSTON NY	Event 
+6760	AT HOUSTON NY	Event 
+6760	NY GIANTS AT	Organization SportsTeam 
+6761	NY GIANTS AT	Organization SportsTeam 
+6762	NY GIANTS AT	Organization SportsTeam 
+6761	GIANTS AT MIAMI	Organization SportsTeam 
+6762	GIANTS AT MIAMI	Organization SportsTeam 
+6763	GIANTS AT MIAMI	Organization SportsTeam 
+6763	AT MIAMI ATLANTA	Place 
+6764	AT MIAMI ATLANTA	Place 
+6765	AT MIAMI ATLANTA	Place 
+6764	MIAMI ATLANTA AT	Place 
+6765	MIAMI ATLANTA AT	Place 
+6766	MIAMI ATLANTA AT	Place 
+6770	SAN DIEGO AT	Place AdministrativeArea DefenceEstablishment City 
+6771	SAN DIEGO AT	Place AdministrativeArea DefenceEstablishment City 
+6772	SAN DIEGO AT	Place AdministrativeArea DefenceEstablishment City 
+6771	DIEGO AT PITTSBURGH	Person 
+6772	DIEGO AT PITTSBURGH	Person 
+6773	DIEGO AT PITTSBURGH	Person 
+6773	AT PITTSBURGH WASHINGTON	Place 
+6774	AT PITTSBURGH WASHINGTON	Place 
+6775	AT PITTSBURGH WASHINGTON	Place 
+6774	PITTSBURGH WASHINGTON AT	Place 
+6775	PITTSBURGH WASHINGTON AT	Place 
+6776	PITTSBURGH WASHINGTON AT	Place 
+6775	WASHINGTON AT TAMPA	Event 
+6776	WASHINGTON AT TAMPA	Event 
+6777	WASHINGTON AT TAMPA	Event 
+6776	AT TAMPA BAY	SportsTeam Organization 
+6777	AT TAMPA BAY	SportsTeam Organization 
+6778	AT TAMPA BAY	SportsTeam Organization 
+6778	TAMPA BAY DALLAS	EducationalOrganization Place Organization Corporation CollegeOrUniversity 
+6779	TAMPA BAY DALLAS	EducationalOrganization Place Organization Corporation CollegeOrUniversity 
+6780	TAMPA BAY DALLAS	EducationalOrganization Place Organization Corporation CollegeOrUniversity 
+6779	BAY DALLAS AT	EducationalOrganization Place Organization Corporation CollegeOrUniversity 
+6780	BAY DALLAS AT	EducationalOrganization Place Organization Corporation CollegeOrUniversity 
+6781	BAY DALLAS AT	EducationalOrganization Place Organization Corporation CollegeOrUniversity 
+6780	DALLAS AT ARIZONA	Event 
+6781	DALLAS AT ARIZONA	Event 
+6782	DALLAS AT ARIZONA	Event 
+6782	AT ARIZONA NY	StadiumOrArena Place TouristAttraction 
+6783	AT ARIZONA NY	StadiumOrArena Place TouristAttraction 
+6784	AT ARIZONA NY	StadiumOrArena Place TouristAttraction 
+6784	NY JETS AT	SportsTeam Organization 
+6785	NY JETS AT	SportsTeam Organization 
+6786	NY JETS AT	SportsTeam Organization 
+6789	ENGLAND BUFFALO AT	Event 
+6790	ENGLAND BUFFALO AT	Event 
+6791	ENGLAND BUFFALO AT	Event 
+6790	BUFFALO AT SEATTLE	Organization CollegeOrUniversity EducationalOrganization Place Corporation 
+6791	BUFFALO AT SEATTLE	Organization CollegeOrUniversity EducationalOrganization Place Corporation 
+6792	BUFFALO AT SEATTLE	Organization CollegeOrUniversity EducationalOrganization Place Corporation 
+6792	AT SEATTLE CAROLINA	Place AdministrativeArea City 
+6793	AT SEATTLE CAROLINA	Place AdministrativeArea City 
+6794	AT SEATTLE CAROLINA	Place AdministrativeArea City 
+6793	SEATTLE CAROLINA AT	Place AdministrativeArea City 
+6794	SEATTLE CAROLINA AT	Place AdministrativeArea City 
+6795	SEATTLE CAROLINA AT	Place AdministrativeArea City 
+6794	CAROLINA AT SAN	Place City AdministrativeArea 
+6795	CAROLINA AT SAN	Place City AdministrativeArea 
+6796	CAROLINA AT SAN	Place City AdministrativeArea 
+6795	AT SAN FRANCISCO	Place City AdministrativeArea 
+6796	AT SAN FRANCISCO	Place City AdministrativeArea 
+6797	AT SAN FRANCISCO	Place City AdministrativeArea 
+6797	SAN FRANCISCO MINNESOTA	City Place 
+6798	SAN FRANCISCO MINNESOTA	City Place 
+6799	SAN FRANCISCO MINNESOTA	City Place 
+6798	FRANCISCO MINNESOTA AT	SportsTeam Organization 
+6799	FRANCISCO MINNESOTA AT	SportsTeam Organization 
+6800	FRANCISCO MINNESOTA AT	SportsTeam Organization 
+6799	MINNESOTA AT DETROIT	Place AdministrativeArea 
+6800	MINNESOTA AT DETROIT	Place AdministrativeArea 
+6801	MINNESOTA AT DETROIT	Place AdministrativeArea 
+6801	AT DETROIT MONDAY	Event 
+6802	AT DETROIT MONDAY	Event 
+6803	AT DETROIT MONDAY	Event 
+6808	KANSAS CITY AT	SportsTeam Organization 
+6809	KANSAS CITY AT	SportsTeam Organization 
+6810	KANSAS CITY AT	SportsTeam Organization 
+6809	CITY AT OAKLAND	Organization Corporation SportsTeam 
+6810	CITY AT OAKLAND	Organization Corporation SportsTeam 
+6811	CITY AT OAKLAND	Organization Corporation SportsTeam 
+6850	NCAA AMERICAN FOOTBALL-OHIO	LocalBusiness Place StadiumOrArena 
+6851	NCAA AMERICAN FOOTBALL-OHIO	LocalBusiness Place StadiumOrArena 
+6852	NCAA AMERICAN FOOTBALL-OHIO	LocalBusiness Place StadiumOrArena 
+6851	AMERICAN FOOTBALL-OHIO STATE	SportsTeam 
+6852	AMERICAN FOOTBALL-OHIO STATE	SportsTeam 
+6853	AMERICAN FOOTBALL-OHIO STATE	SportsTeam 
+6886	Club of Houston	SportsTeam Organization 
+6887	Club of Houston	SportsTeam Organization 
+6888	Club of Houston	SportsTeam Organization 
+6988	Tomich of Nebraska	Person 
+6989	Tomich of Nebraska	Person 
+6990	Tomich of Nebraska	Person 
+7027	Green Bay Packers	SportsTeam Organization 
+7028	Green Bay Packers	SportsTeam Organization 
+7029	Green Bay Packers	SportsTeam Organization 
+7063	Willem II Tilburg	Organization SportsTeam 
+7064	Willem II Tilburg	Organization SportsTeam 
+7065	Willem II Tilburg	Organization SportsTeam 
+7159	Roda JC Kerkrade	Organization SportsTeam 
+7160	Roda JC Kerkrade	Organization SportsTeam 
+7161	Roda JC Kerkrade	Organization SportsTeam 
+7208	Willem II Tilburg	Organization SportsTeam 
+7209	Willem II Tilburg	Organization SportsTeam 
+7210	Willem II Tilburg	Organization SportsTeam 
+7272	GERMAN FIRST DIVISION	SportsOrganization Organization 
+7273	GERMAN FIRST DIVISION	SportsOrganization Organization 
+7274	GERMAN FIRST DIVISION	SportsOrganization Organization 
+7452	FC St. Pauli	Organization SportsTeam 
+7453	FC St. Pauli	Organization SportsTeam 
+7454	FC St. Pauli	Organization SportsTeam 
+7493	FC Hansa Rostock	SportsTeam Organization 
+7494	FC Hansa Rostock	SportsTeam Organization 
+7495	FC Hansa Rostock	SportsTeam Organization 
+7581	Paris St Germain	Organization Corporation SportsTeam 
+7582	Paris St Germain	Organization Corporation SportsTeam 
+7583	Paris St Germain	Organization Corporation SportsTeam 
+7643	Willem II Tilburg	Organization SportsTeam 
+7644	Willem II Tilburg	Organization SportsTeam 
+7645	Willem II Tilburg	Organization SportsTeam 
+7921	Paris St Germain	Organization Corporation SportsTeam 
+7922	Paris St Germain	Organization Corporation SportsTeam 
+7923	Paris St Germain	Organization Corporation SportsTeam 
+7932	GERMAN FIRST DIVISION	SportsOrganization Organization 
+7933	GERMAN FIRST DIVISION	SportsOrganization Organization 
+7934	GERMAN FIRST DIVISION	SportsOrganization Organization 
+8054	GRAND SLAM CUP	
+8055	GRAND SLAM CUP	
+8056	GRAND SLAM CUP	
+8073	Grand Slam Cup	
+8074	Grand Slam Cup	
+8075	Grand Slam Cup	
+8131	Joao Manuel Pinto	Person 
+8132	Joao Manuel Pinto	Person 
+8133	Joao Manuel Pinto	Person 
+8268	Joao Manuel Pinto	Person 
+8269	Joao Manuel Pinto	Person 
+8270	Joao Manuel Pinto	Person 
+8359	Joao Vieira Pinto	Person 
+8360	Joao Vieira Pinto	Person 
+8361	Joao Vieira Pinto	Person 
+8517	Madrid Real Madrid	Corporation Organization SportsTeam 
+8518	Madrid Real Madrid	Corporation Organization SportsTeam 
+8519	Madrid Real Madrid	Corporation Organization SportsTeam 
+8545	Barcelona Real Madrid	Event 
+8546	Barcelona Real Madrid	Event 
+8547	Barcelona Real Madrid	Event 
+8547	Real Madrid 14-1	SportsTeam Organization 
+8548	Real Madrid 14-1	SportsTeam Organization 
+8549	Real Madrid 14-1	SportsTeam Organization 
+8591	9-1 Giovanni 14-1	MusicAlbum 
+8592	9-1 Giovanni 14-1	MusicAlbum 
+8593	9-1 Giovanni 14-1	MusicAlbum 
+8772	SPANISH FIRST DIVISION	SportsOrganization Organization 
+8773	SPANISH FIRST DIVISION	SportsOrganization Organization 
+8774	SPANISH FIRST DIVISION	SportsOrganization Organization 
+9094	Jose Luis Caminero	Person 
+9095	Jose Luis Caminero	Person 
+9096	Jose Luis Caminero	Person 
+9125	AC Milan George	Person 
+9126	AC Milan George	Person 
+9127	AC Milan George	Person 
+9126	Milan George Weah	Person 
+9127	Milan George Weah	Person 
+9128	Milan George Weah	Person 
+9369	Rosenborg of Norway	Organization SportsTeam 
+9370	Rosenborg of Norway	Organization SportsTeam 
+9371	Rosenborg of Norway	Organization SportsTeam 
+9513	ITALIAN FIRST DIVISION	SportsOrganization Organization 
+9514	ITALIAN FIRST DIVISION	SportsOrganization Organization 
+9515	ITALIAN FIRST DIVISION	SportsOrganization Organization 
+9514	FIRST DIVISION MATCHES	SportsOrganization Organization 
+9515	FIRST DIVISION MATCHES	SportsOrganization Organization 
+9516	FIRST DIVISION MATCHES	SportsOrganization Organization 
+9515	DIVISION MATCHES THIS	SportsOrganization Organization 
+9516	DIVISION MATCHES THIS	SportsOrganization Organization 
+9517	DIVISION MATCHES THIS	SportsOrganization Organization 
+9516	MATCHES THIS WEEKEND	Event 
+9517	MATCHES THIS WEEKEND	Event 
+9518	MATCHES THIS WEEKEND	Event 
+9524	Italian Serie A	SportsOrganization Organization 
+9525	Italian Serie A	SportsOrganization Organization 
+9526	Italian Serie A	SportsOrganization Organization 
+9583	Russian Igor Kolyvanov	Organization SportsTeam 
+9584	Russian Igor Kolyvanov	Organization SportsTeam 
+9585	Russian Igor Kolyvanov	Organization SportsTeam 
+10041	Alessandro Del Piero	Person 
+10042	Alessandro Del Piero	Person 
+10043	Alessandro Del Piero	Person 
+10354	Nicol of Scotland	Person 
+10355	Nicol of Scotland	Person 
+10356	Nicol of Scotland	Person 
+10360	Parke of England	
+10361	Parke of England	
+10362	Parke of England	
+10525	President Nelson Mandela	Person 
+10526	President Nelson Mandela	Person 
+10527	President Nelson Mandela	Person 
+10529	African National Congress	Organization 
+10530	African National Congress	Organization 
+10531	African National Congress	Organization 
+10734	Chief Mangosuthu Buthelezi	Person 
+10735	Chief Mangosuthu Buthelezi	Person 
+10736	Chief Mangosuthu Buthelezi	Person 
+10738	Inkatha Freedom Party	Event 
+10739	Inkatha Freedom Party	Event 
+10740	Inkatha Freedom Party	Event 
+10763	Czech President Vaclav	Place Country AdministrativeArea 
+10764	Czech President Vaclav	Place Country AdministrativeArea 
+10765	Czech President Vaclav	Place Country AdministrativeArea 
+10764	President Vaclav Havel	Person 
+10765	President Vaclav Havel	Person 
+10766	President Vaclav Havel	Person 
+10789	Secretary of State	Place AdministrativeArea 
+10790	Secretary of State	Place AdministrativeArea 
+10791	Secretary of State	Place AdministrativeArea 
+10856	Secretary of State	Place AdministrativeArea 
+10857	Secretary of State	Place AdministrativeArea 
+10858	Secretary of State	Place AdministrativeArea 
+11072	Foreign Minister Josef	Person 
+11073	Foreign Minister Josef	Person 
+11074	Foreign Minister Josef	Person 
+11113	Mlada Fronta Dnes	Person 
+11114	Mlada Fronta Dnes	Person 
+11115	Mlada Fronta Dnes	Person 
+11187	Hungarian Democratic Union	Person 
+11188	Hungarian Democratic Union	Person 
+11189	Hungarian Democratic Union	Person 
+11200	President Emil Constantinescu	Person 
+11201	President Emil Constantinescu	Person 
+11202	President Emil Constantinescu	Person 
+11289	DEBATE AT PARTY	
+11290	DEBATE AT PARTY	
+11291	DEBATE AT PARTY	
+11290	AT PARTY CONGRESS	Organization 
+11291	AT PARTY CONGRESS	Organization 
+11292	AT PARTY CONGRESS	Organization 
+11306	Civic Democratic Party	Event 
+11307	Civic Democratic Party	Event 
+11308	Civic Democratic Party	Event 
+11398	Prime Minister Vaclav	Person 
+11399	Prime Minister Vaclav	Person 
+11400	Prime Minister Vaclav	Person 
+11399	Minister Vaclav Klaus	Person 
+11400	Minister Vaclav Klaus	Person 
+11401	Minister Vaclav Klaus	Person 
+11458	British Prime Minister	Person 
+11459	British Prime Minister	Person 
+11460	British Prime Minister	Person 
+11459	Prime Minister Margaret	Person 
+11460	Prime Minister Margaret	Person 
+11461	Prime Minister Margaret	Person 
+11460	Minister Margaret Thatcher	Person 
+11461	Minister Margaret Thatcher	Person 
+11462	Minister Margaret Thatcher	Person 
+11606	GOT MONEY FROM	TVEpisode 
+11607	GOT MONEY FROM	TVEpisode 
+11608	GOT MONEY FROM	TVEpisode 
+11607	MONEY FROM POST-WAR	Event 
+11608	MONEY FROM POST-WAR	Event 
+11609	MONEY FROM POST-WAR	Event 
+11608	FROM POST-WAR SWISS	Event 
+11609	FROM POST-WAR SWISS	Event 
+11610	FROM POST-WAR SWISS	Event 
+11734	Senator Alfonse D'Amato	Person 
+11735	Senator Alfonse D'Amato	Person 
+11736	Senator Alfonse D'Amato	Person 
+11742	U.S. Senate Banking	Corporation Organization 
+11743	U.S. Senate Banking	Corporation Organization 
+11744	U.S. Senate Banking	Corporation Organization 
+11743	Senate Banking Committee	Event Organization 
+11744	Senate Banking Committee	Event Organization 
+11745	Senate Banking Committee	Event Organization 
+12128	Jean van Boxmeer	Person 
+12129	Jean van Boxmeer	Person 
+12130	Jean van Boxmeer	Person 
+12396	South African Breweries	Corporation Organization 
+12397	South African Breweries	Corporation Organization 
+12398	South African Breweries	Corporation Organization 
+12397	African Breweries Ltd	Corporation Organization 
+12398	African Breweries Ltd	Corporation Organization 
+12399	African Breweries Ltd	Corporation Organization 
+12806	Czech President Vaclav	Place Country AdministrativeArea 
+12807	Czech President Vaclav	Place Country AdministrativeArea 
+12808	Czech President Vaclav	Place Country AdministrativeArea 
+12807	President Vaclav Havel	Person 
+12808	President Vaclav Havel	Person 
+12809	President Vaclav Havel	Person 
+13019	Department of Transport	GovernmentOrganization Organization 
+13020	Department of Transport	GovernmentOrganization Organization 
+13021	Department of Transport	GovernmentOrganization Organization 
+13169	Global Depository Receipt	Corporation Organization 
+13170	Global Depository Receipt	Corporation Organization 
+13171	Global Depository Receipt	Corporation Organization 
+13280	Irish Republican Army	Organization 
+13281	Irish Republican Army	Organization 
+13282	Irish Republican Army	Organization 
+13424	British Airways Plc	Airline Corporation Organization 
+13425	British Airways Plc	Airline Corporation Organization 
+13426	British Airways Plc	Airline Corporation Organization 
+13450	Industry Secretary Ian	Person 
+13451	Industry Secretary Ian	Person 
+13452	Industry Secretary Ian	Person 
+13451	Secretary Ian Lang	Person 
+13452	Secretary Ian Lang	Person 
+13453	Secretary Ian Lang	Person 
+13506	Office of Fair	Event 
+13507	Office of Fair	Event 
+13508	Office of Fair	Event 
+13819	Office of Fair	Event 
+13820	Office of Fair	Event 
+13821	Office of Fair	Event 
+13860	Office of Fair	Event 
+13861	Office of Fair	Event 
+13862	Office of Fair	Event 
+14477	British Prime Minister	Person 
+14478	British Prime Minister	Person 
+14479	British Prime Minister	Person 
+14478	Prime Minister John	Person 
+14479	Prime Minister John	Person 
+14480	Prime Minister John	Person 
+14479	Minister John Major	Person 
+14480	Minister John Major	Person 
+14481	Minister John Major	Person 
+14490	MP Sir John	Person 
+14491	MP Sir John	Person 
+14492	MP Sir John	Person 
+14491	Sir John Gorst	Person 
+14492	Sir John Gorst	Person 
+14493	Sir John Gorst	Person 
+14632	House of Commons	TouristAttraction AdministrativeArea Place LandmarksOrHistoricalBuildings 
+14633	House of Commons	TouristAttraction AdministrativeArea Place LandmarksOrHistoricalBuildings 
+14634	House of Commons	TouristAttraction AdministrativeArea Place LandmarksOrHistoricalBuildings 
+14674	House of Commons	TouristAttraction AdministrativeArea Place LandmarksOrHistoricalBuildings 
+14675	House of Commons	TouristAttraction AdministrativeArea Place LandmarksOrHistoricalBuildings 
+14676	House of Commons	TouristAttraction AdministrativeArea Place LandmarksOrHistoricalBuildings 
+14718	Electronic Data Systems	Corporation Organization 
+14719	Electronic Data Systems	Corporation Organization 
+14720	Electronic Data Systems	Corporation Organization 
+14740	Private Finance Initiative	Book 
+14741	Private Finance Initiative	Book 
+14742	Private Finance Initiative	Book 
+14775	Oceanic Control Centre	Place 
+14776	Oceanic Control Centre	Place 
+14777	Oceanic Control Centre	Place 
+14783	Scotland for National	SportsTeam 
+14784	Scotland for National	SportsTeam 
+14785	Scotland for National	SportsTeam 
+14785	National Air Traffic	Corporation Organization 
+14786	National Air Traffic	Corporation Organization 
+14787	National Air Traffic	Corporation Organization 
+14786	Air Traffic Services	Corporation Organization 
+14787	Air Traffic Services	Corporation Organization 
+14788	Air Traffic Services	Corporation Organization 
+14797	Civil Aviation Authority	Organization 
+14798	Civil Aviation Authority	Organization 
+14799	Civil Aviation Authority	Organization 
+15018	CLOSE PM CLOSE	Event 
+15019	CLOSE PM CLOSE	Event 
+15020	CLOSE PM CLOSE	Event 
+15019	PM CLOSE PM	Event 
+15020	PM CLOSE PM	Event 
+15021	PM CLOSE PM	Event 
+15028	FIXED MINIMUM AT	Event 
+15029	FIXED MINIMUM AT	Event 
+15030	FIXED MINIMUM AT	Event 
+15107	Government Price Index	CivicStructure Place 
+15108	Government Price Index	CivicStructure Place 
+15109	Government Price Index	CivicStructure Place 
+15156	Canadian West Coast	Place AdministrativeArea 
+15157	Canadian West Coast	Place AdministrativeArea 
+15158	Canadian West Coast	Place AdministrativeArea 
+15157	West Coast Vessel	
+15158	West Coast Vessel	
+15159	West Coast Vessel	
+15169	Canadian Wheat Board	Corporation Organization GovernmentOrganization 
+15170	Canadian Wheat Board	Corporation Organization GovernmentOrganization 
+15171	Canadian Wheat Board	Corporation Organization GovernmentOrganization 
+15184	Canadian West Coast	Place AdministrativeArea 
+15185	Canadian West Coast	Place AdministrativeArea 
+15186	Canadian West Coast	Place AdministrativeArea 
+15289	New York Commodities	Corporation Organization 
+15290	New York Commodities	Corporation Organization 
+15291	New York Commodities	Corporation Organization 
+15338	New York Commodities	Corporation Organization 
+15339	New York Commodities	Corporation Organization 
+15340	New York Commodities	Corporation Organization 
+15381	New York Commodities	Corporation Organization 
+15382	New York Commodities	Corporation Organization 
+15383	New York Commodities	Corporation Organization 
+15460	New York Commodities	Corporation Organization 
+15461	New York Commodities	Corporation Organization 
+15462	New York Commodities	Corporation Organization 
+15486	New York City	AdministrativeArea Place City 
+15487	New York City	AdministrativeArea Place City 
+15488	New York City	AdministrativeArea Place City 
+15648	New York City	AdministrativeArea Place City 
+15649	New York City	AdministrativeArea Place City 
+15650	New York City	AdministrativeArea Place City 
+15676	London Stock Exchange	Corporation Organization 
+15677	London Stock Exchange	Corporation Organization 
+15678	London Stock Exchange	Corporation Organization 
+15787	Homestake Mining Co	Place 
+15788	Homestake Mining Co	Place 
+15789	Homestake Mining Co	Place 
+15803	Santa Fe Pacific	Corporation Organization 
+15804	Santa Fe Pacific	Corporation Organization 
+15805	Santa Fe Pacific	Corporation Organization 
+15804	Fe Pacific Gold	Corporation Organization 
+15805	Fe Pacific Gold	Corporation Organization 
+15806	Fe Pacific Gold	Corporation Organization 
+15805	Pacific Gold Corp	Corporation Organization 
+15806	Pacific Gold Corp	Corporation Organization 
+15807	Pacific Gold Corp	Corporation Organization 
+15814	Newmont Mining Corp	Corporation Organization 
+15815	Newmont Mining Corp	Corporation Organization 
+15816	Newmont Mining Corp	Corporation Organization 
+16025	Barrick Gold Corp	Corporation Organization 
+16026	Barrick Gold Corp	Corporation Organization 
+16027	Barrick Gold Corp	Corporation Organization 
+16053	Placer Dome Inc	Corporation Organization 
+16054	Placer Dome Inc	Corporation Organization 
+16055	Placer Dome Inc	Corporation Organization 
+16376	Friday New York	Event 
+16377	Friday New York	Event 
+16378	Friday New York	Event 
+16377	New York Stock	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16378	New York Stock	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16379	New York Stock	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16378	York Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16379	York Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16380	York Stock Exchange	Organization TouristAttraction LandmarksOrHistoricalBuildings 
+16481	Wall Street Desk	Book 
+16482	Wall Street Desk	Book 
+16483	Wall Street Desk	Book 
+16608	President Robert Mugabe	Person 
+16609	President Robert Mugabe	Person 
+16610	President Robert Mugabe	Person 
+16902	Minister Doug Young	Person 
+16903	Minister Doug Young	Person 
+16904	Minister Doug Young	Person 
+17590	Central African Republic	AdministrativeArea Place Country 
+17591	Central African Republic	AdministrativeArea Place Country 
+17592	Central African Republic	AdministrativeArea Place Country 
+17659	President Abdou Diouf	Person 
+17660	President Abdou Diouf	Person 
+17661	President Abdou Diouf	Person 
+17703	Secretary-General Boutros Boutros-Ghali	Person 
+17704	Secretary-General Boutros Boutros-Ghali	Person 
+17705	Secretary-General Boutros Boutros-Ghali	Person 
+17817	Central African Republic	AdministrativeArea Place Country 
+17818	Central African Republic	AdministrativeArea Place Country 
+17819	Central African Republic	AdministrativeArea Place Country 
+17895	President Jacques Chirac	Person 
+17896	President Jacques Chirac	Person 
+17897	President Jacques Chirac	Person 
+17938	Public Service Minister	Place 
+17939	Public Service Minister	Place 
+17940	Public Service Minister	Place 
+17939	Service Minister David	Person 
+17940	Service Minister David	Person 
+17941	Service Minister David	Person 
+17987	President Ange-Felix Patasse	Event 
+17988	President Ange-Felix Patasse	Event 
+17989	President Ange-Felix Patasse	Event 
+18221	Burkina Faso President	Place Country AdministrativeArea 
+18222	Burkina Faso President	Place Country AdministrativeArea 
+18223	Burkina Faso President	Place Country AdministrativeArea 
+18222	Faso President Blaise	Event 
+18223	Faso President Blaise	Event 
+18224	Faso President Blaise	Event 
+18223	President Blaise Compaore	Person 
+18224	President Blaise Compaore	Person 
+18225	President Blaise Compaore	Person 
+18770	President Sali Berisha	Person 
+18771	President Sali Berisha	Person 
+18772	President Sali Berisha	Person 
+18818	Italian President Oscar	Person 
+18819	Italian President Oscar	Person 
+18820	Italian President Oscar	Person 
+18819	President Oscar Luigi	Person 
+18820	President Oscar Luigi	Person 
+18821	President Oscar Luigi	Person 
+18820	Oscar Luigi Scalfaro	Person 
+18821	Oscar Luigi Scalfaro	Person 
+18822	Oscar Luigi Scalfaro	Person 
+18936	President Aleksander Kwasniewski	Person 
+18937	President Aleksander Kwasniewski	Person 
+18938	President Aleksander Kwasniewski	Person 
+18944	Pope John Paul	Person 
+18945	Pope John Paul	Person 
+18946	Pope John Paul	Person 
+18978	President Oscar Scalfaro	Person 
+18979	President Oscar Scalfaro	Person 
+18980	President Oscar Scalfaro	Person 
+19080	Democratic Left Alliance	Person 
+19081	Democratic Left Alliance	Person 
+19082	Democratic Left Alliance	Person 
+19159	Russian Finance Minister	Organization EducationalOrganization CollegeOrUniversity Place 
+19160	Russian Finance Minister	Organization EducationalOrganization CollegeOrUniversity Place 
+19161	Russian Finance Minister	Organization EducationalOrganization CollegeOrUniversity Place 
+19160	Finance Minister Alexander	Person 
+19161	Finance Minister Alexander	Person 
+19162	Finance Minister Alexander	Person 
+19308	United City Bank	Corporation Organization 
+19309	United City Bank	Corporation Organization 
+19310	United City Bank	Corporation Organization 
+19355	International Monetary Fund	Place Organization 
+19356	International Monetary Fund	Place Organization 
+19357	International Monetary Fund	Place Organization 
+19950	U.S. President Bill	Person 
+19951	U.S. President Bill	Person 
+19952	U.S. President Bill	Person 
+19951	President Bill Clinton	Person 
+19952	President Bill Clinton	Person 
+19953	President Bill Clinton	Person 
+19956	Secretary of State	Place AdministrativeArea 
+19957	Secretary of State	Place AdministrativeArea 
+19958	Secretary of State	Place AdministrativeArea 
+19965	First Deputy Foreign	Person 
+19966	First Deputy Foreign	Person 
+19967	First Deputy Foreign	Person 
+19966	Deputy Foreign Minister	GovernmentOrganization Organization 
+19967	Deputy Foreign Minister	GovernmentOrganization Organization 
+19968	Deputy Foreign Minister	GovernmentOrganization Organization 
+19967	Foreign Minister Igor	Person 
+19968	Foreign Minister Igor	Person 
+19969	Foreign Minister Igor	Person 
+19968	Minister Igor Ivanov	Person 
+19969	Minister Igor Ivanov	Person 
+19970	Minister Igor Ivanov	Person 
+19999	President Boris Yeltsin	Person 
+20000	President Boris Yeltsin	Person 
+20001	President Boris Yeltsin	Person 
+20143	Kremlin for Dec	Person 
+20144	Kremlin for Dec	Person 
+20145	Kremlin for Dec	Person 
+20154	Russian President Boris	Person 
+20155	Russian President Boris	Person 
+20156	Russian President Boris	Person 
+20155	President Boris Yeltsin	Person 
+20156	President Boris Yeltsin	Person 
+20157	President Boris Yeltsin	Person 
+20458	Prime Minister Vladimir	Person 
+20459	Prime Minister Vladimir	Person 
+20460	Prime Minister Vladimir	Person 
+20459	Minister Vladimir Meciar	Person 
+20460	Minister Vladimir Meciar	Person 
+20461	Minister Vladimir Meciar	Person 
+20946	Federal Reserve Chairman	GovernmentOrganization Corporation Organization 
+20947	Federal Reserve Chairman	GovernmentOrganization Corporation Organization 
+20948	Federal Reserve Chairman	GovernmentOrganization Corporation Organization 
+20947	Reserve Chairman Alan	Organization Corporation 
+20948	Reserve Chairman Alan	Organization Corporation 
+20949	Reserve Chairman Alan	Organization Corporation 
+20948	Chairman Alan Greenspan	Organization Corporation 
+20949	Chairman Alan Greenspan	Organization Corporation 
+20950	Chairman Alan Greenspan	Organization Corporation 
+21315	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+21316	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+21317	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+21394	Plastic Surgery Society	Corporation Organization 
+21395	Plastic Surgery Society	Corporation Organization 
+21396	Plastic Surgery Society	Corporation Organization 
+21866	Rosario Bahia Blanca	Organization SportsTeam 
+21867	Rosario Bahia Blanca	Organization SportsTeam 
+21868	Rosario Bahia Blanca	Organization SportsTeam 
+22019	Gulf of Mexico	Place Cemetery BodyOfWater 
+22020	Gulf of Mexico	Place Cemetery BodyOfWater 
+22021	Gulf of Mexico	Place Cemetery BodyOfWater 
+22120	Gulf of Mexico	Place Cemetery BodyOfWater 
+22121	Gulf of Mexico	Place Cemetery BodyOfWater 
+22122	Gulf of Mexico	Place Cemetery BodyOfWater 
+22232	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+22233	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+22234	RIO DE JANEIRO	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+22267	Rio de Janeiro	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+22268	Rio de Janeiro	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+22269	Rio de Janeiro	Place City LandmarksOrHistoricalBuildings AdministrativeArea 
+22355	Finance Minister Eduardo	Person 
+22356	Finance Minister Eduardo	Person 
+22357	Finance Minister Eduardo	Person 
+22576	Roman Catholic Bishop	Place 
+22577	Roman Catholic Bishop	Place 
+22578	Roman Catholic Bishop	Place 
+22577	Catholic Bishop Carlos	Person 
+22578	Catholic Bishop Carlos	Person 
+22579	Catholic Bishop Carlos	Person 
+22578	Bishop Carlos Belo	Person 
+22579	Bishop Carlos Belo	Person 
+22580	Bishop Carlos Belo	Person 
+22599	Nobel Peace Prize	
+22600	Nobel Peace Prize	
+22601	Nobel Peace Prize	
+22649	Jose Ramos Horta	Person 
+22650	Jose Ramos Horta	Person 
+22651	Jose Ramos Horta	Person 
+22676	Foreign Minister Ali	Person 
+22677	Foreign Minister Ali	Person 
+22678	Foreign Minister Ali	Person 
+22677	Minister Ali Alatas	Person 
+22678	Minister Ali Alatas	Person 
+22679	Minister Ali Alatas	Person 
+22850	Nobel Peace Prize	
+22851	Nobel Peace Prize	
+22852	Nobel Peace Prize	
+22929	German Chancellor Helmut	Person 
+22930	German Chancellor Helmut	Person 
+22931	German Chancellor Helmut	Person 
+22930	Chancellor Helmut Kohl	Person 
+22931	Chancellor Helmut Kohl	Person 
+22932	Chancellor Helmut Kohl	Person 
+23317	Institute of Technology	CollegeOrUniversity Organization Corporation EducationalOrganization Place 
+23318	Institute of Technology	CollegeOrUniversity Organization Corporation EducationalOrganization Place 
+23319	Institute of Technology	CollegeOrUniversity Organization Corporation EducationalOrganization Place 
+23327	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+23328	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+23329	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+23409	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+23410	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+23411	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+23492	Aung San Suu	Person 
+23493	Aung San Suu	Person 
+23494	Aung San Suu	Person 
+23493	San Suu Kyi	Person 
+23494	San Suu Kyi	Person 
+23495	San Suu Kyi	Person 
+23624	Order Restoration Council	Organization 
+23625	Order Restoration Council	Organization 
+23626	Order Restoration Council	Organization 
+23866	International Labour Organisation	Book 
+23867	International Labour Organisation	Book 
+23868	International Labour Organisation	Book 
+23895	Confederation of Free	Book 
+23896	Confederation of Free	Book 
+23897	Confederation of Free	Book 
+23959	World Trade Organisation	Organization 
+23960	World Trade Organisation	Organization 
+23961	World Trade Organisation	Organization 
+24154	Association of Southeast	Organization 
+24155	Association of Southeast	Organization 
+24156	Association of Southeast	Organization 
+24156	Southeast Asian Nations	Organization 
+24157	Southeast Asian Nations	Organization 
+24158	Southeast Asian Nations	Organization 
+24332	Board of India	GovernmentOrganization Corporation Organization 
+24333	Board of India	GovernmentOrganization Corporation Organization 
+24334	Board of India	GovernmentOrganization Corporation Organization 
+24675	Bank of Japan	Corporation Organization 
+24676	Bank of Japan	Corporation Organization 
+24677	Bank of Japan	Corporation Organization 
+24791	U.S. Treasury Secretary	Person 
+24792	U.S. Treasury Secretary	Person 
+24793	U.S. Treasury Secretary	Person 
+24792	Treasury Secretary Robert	GovernmentOrganization Organization 
+24793	Treasury Secretary Robert	GovernmentOrganization Organization 
+24794	Treasury Secretary Robert	GovernmentOrganization Organization 
+24910	Bank of Switzerland	Corporation Organization 
+24911	Bank of Switzerland	Corporation Organization 
+24912	Bank of Switzerland	Corporation Organization 
+25127	Nihon Keizai Shimbun	Place CivicStructure 
+25128	Nihon Keizai Shimbun	Place CivicStructure 
+25129	Nihon Keizai Shimbun	Place CivicStructure 
+25391	South Lebanon Army	Place AdministrativeArea Country 
+25392	South Lebanon Army	Place AdministrativeArea Country 
+25393	South Lebanon Army	Place AdministrativeArea Country 
+25682	Prime Minister Shimon	Person 
+25683	Prime Minister Shimon	Person 
+25684	Prime Minister Shimon	Person 
+25683	Minister Shimon Peres	Person 
+25684	Minister Shimon Peres	Person 
+25685	Minister Shimon Peres	Person 
+26243	State Street Bank	Corporation Organization 
+26244	State Street Bank	Corporation Organization 
+26245	State Street Bank	Corporation Organization 
+26248	Trust Company Prudential	Corporation Organization 
+26249	Trust Company Prudential	Corporation Organization 
+26250	Trust Company Prudential	Corporation Organization 
+26249	Company Prudential Securities	Corporation Organization 
+26250	Company Prudential Securities	Corporation Organization 
+26251	Company Prudential Securities	Corporation Organization 
+26250	Prudential Securities Incorporated	Corporation Organization 
+26251	Prudential Securities Incorporated	Corporation Organization 
+26252	Prudential Securities Incorporated	Corporation Organization 
+26257	First Union Capital	Corporation Organization 
+26258	First Union Capital	Corporation Organization 
+26259	First Union Capital	Corporation Organization 
+26258	Union Capital Markets	Organization 
+26259	Union Capital Markets	Organization 
+26260	Union Capital Markets	Organization 
+26259	Capital Markets Corp.	Corporation Place Organization 
+26260	Capital Markets Corp.	Corporation Place Organization 
+26261	Capital Markets Corp.	Corporation Place Organization 
+26307	John Mills Jr	Person 
+26308	John Mills Jr	Person 
+26309	John Mills Jr	Person 
+26392	Department of Corrections	GovernmentOrganization Organization Place 
+26393	Department of Corrections	GovernmentOrganization Organization Place 
+26394	Department of Corrections	GovernmentOrganization Organization Place 
+26509	U.S. Supreme Court	Place Organization TouristAttraction 
+26510	U.S. Supreme Court	Place Organization TouristAttraction 
+26511	U.S. Supreme Court	Place Organization TouristAttraction 
+26580	Florida Supreme Court	Place Organization TouristAttraction 
+26581	Florida Supreme Court	Place Organization TouristAttraction 
+26582	Florida Supreme Court	Place Organization TouristAttraction 
+26590	Circuit U.S. Court	Place Organization TouristAttraction 
+26591	Circuit U.S. Court	Place Organization TouristAttraction 
+26592	Circuit U.S. Court	Place Organization TouristAttraction 
+26592	Court of Appeals	Place 
+26593	Court of Appeals	Place 
+26594	Court of Appeals	Place 
+26710	New York Commodities	Corporation Organization 
+26711	New York Commodities	Corporation Organization 
+26712	New York Commodities	Corporation Organization 
+26968	County Circuit Court	Place 
+26969	County Circuit Court	Place 
+26970	County Circuit Court	Place 
+26969	Circuit Court Judge	Place 
+26970	Circuit Court Judge	Place 
+26971	Circuit Court Judge	Place 
+26970	Court Judge Dennis	Person 
+26971	Court Judge Dennis	Person 
+26972	Court Judge Dennis	Person 
+27381	National Weather Service	GovernmentOrganization Organization 
+27382	National Weather Service	GovernmentOrganization Organization 
+27383	National Weather Service	GovernmentOrganization Organization 
+27446	National Weather Service	GovernmentOrganization Organization 
+27447	National Weather Service	GovernmentOrganization Organization 
+27448	National Weather Service	GovernmentOrganization Organization 
+27810	New York Power	Corporation Organization 
+27811	New York Power	Corporation Organization 
+27812	New York Power	Corporation Organization 
+27840	St. Louis Merchants	Place City AdministrativeArea 
+27841	St. Louis Merchants	Place City AdministrativeArea 
+27842	St. Louis Merchants	Place City AdministrativeArea 
+27841	Louis Merchants Exchange	CivicStructure Place 
+27842	Louis Merchants Exchange	CivicStructure Place 
+27843	Louis Merchants Exchange	CivicStructure Place 
+28048	Board of Trade	Corporation Organization 
+28049	Board of Trade	Corporation Organization 
+28050	Board of Trade	Corporation Organization 
+28564	National Animal Control	Event 
+28565	National Animal Control	Event 
+28566	National Animal Control	Event 
+28565	Animal Control Association	Event 
+28566	Animal Control Association	Event 
+28567	Animal Control Association	Event 
+28937	Annan of Ghana	Country Place AdministrativeArea 
+28938	Annan of Ghana	Country Place AdministrativeArea 
+28939	Annan of Ghana	Country Place AdministrativeArea 
+28947	Ahmedou Ould Abdallah	Person 
+28948	Ahmedou Ould Abdallah	Person 
+28949	Ahmedou Ould Abdallah	Person 
+28949	Abdallah of Mauritania	City Place 
+28950	Abdallah of Mauritania	City Place 
+28951	Abdallah of Mauritania	City Place 
+28973	U.N. General Assembly	Organization 
+28974	U.N. General Assembly	Organization 
+28975	U.N. General Assembly	Organization 
+28982	Algabid of Niger	Event 
+28983	Algabid of Niger	Event 
+28984	Algabid of Niger	Event 
+29021	Fulci of Italy	Person 
+29022	Fulci of Italy	Person 
+29023	Fulci of Italy	Person 
+29051	General Joseph Garba	Person 
+29052	General Joseph Garba	Person 
+29053	General Joseph Garba	Person 
+29053	Garba of Nigeria	Event 
+29054	Garba of Nigeria	Event 
+29055	Garba of Nigeria	Event 
+29058	U.N. General Assembly	Organization 
+29059	U.N. General Assembly	Organization 
+29060	U.N. General Assembly	Organization 
+29462	Chamber of Deputies	Organization TouristAttraction 
+29463	Chamber of Deputies	Organization TouristAttraction 
+29464	Chamber of Deputies	Organization TouristAttraction 
+29978	Bharatiya Janata Party	Organization 
+29979	Bharatiya Janata Party	Organization 
+29980	Bharatiya Janata Party	Organization 
+30958	Exchequer Kenneth Clarke	Person 
+30959	Exchequer Kenneth Clarke	Person 
+30960	Exchequer Kenneth Clarke	Person 
+30962	Prime Minister John	Person 
+30963	Prime Minister John	Person 
+30964	Prime Minister John	Person 
+30963	Minister John Major	Person 
+30964	Minister John Major	Person 
+30965	Minister John Major	Person 
+31334	President Yasser Arafat	Place 
+31335	President Yasser Arafat	Place 
+31336	President Yasser Arafat	Place 
+31338	Israeli Prime Minister	Person 
+31339	Israeli Prime Minister	Person 
+31340	Israeli Prime Minister	Person 
+31339	Prime Minister Benjamin	Person 
+31340	Prime Minister Benjamin	Person 
+31341	Prime Minister Benjamin	Person 
+31340	Minister Benjamin Netanyahu	Person 
+31341	Minister Benjamin Netanyahu	Person 
+31342	Minister Benjamin Netanyahu	Person 
+31344	Egyptian President Hosni	Event 
+31345	Egyptian President Hosni	Event 
+31346	Egyptian President Hosni	Event 
+31345	President Hosni Mubarak	Person 
+31346	President Hosni Mubarak	Person 
+31347	President Hosni Mubarak	Person 
+31440	Prime Minister Netanyahu	Person 
+31441	Prime Minister Netanyahu	Person 
+31442	Prime Minister Netanyahu	Person 
+31572	Palestine Liberation Organisation	Organization Place 
+31573	Palestine Liberation Organisation	Organization Place 
+31574	Palestine Liberation Organisation	Organization Place 
+31635	Palestinian Authority Secretary	Place City 
+31636	Palestinian Authority Secretary	Place City 
+31637	Palestinian Authority Secretary	Place City 
+31636	Authority Secretary General	Person 
+31637	Authority Secretary General	Person 
+31638	Authority Secretary General	Person 
+31637	Secretary General Ahmed	Person 
+31638	Secretary General Ahmed	Person 
+31639	Secretary General Ahmed	Person 
+31828	Kurdistan Workers Party	Organization 
+31829	Kurdistan Workers Party	Organization 
+31830	Kurdistan Workers Party	Organization 
+32068	Kurdistan Workers Party	Organization 
+32069	Kurdistan Workers Party	Organization 
+32070	Kurdistan Workers Party	Organization 
+32710	United States Thursday	MusicAlbum 
+32711	United States Thursday	MusicAlbum 
+32712	United States Thursday	MusicAlbum 
+32928	Palestine Liberation Organisation	Organization Place 
+32929	Palestine Liberation Organisation	Organization Place 
+32930	Palestine Liberation Organisation	Organization Place 
+33157	St Pius X	Person 
+33158	St Pius X	Person 
+33159	St Pius X	Person 
+33158	Pius X High	EducationalOrganization Organization School 
+33159	Pius X High	EducationalOrganization Organization School 
+33160	Pius X High	EducationalOrganization Organization School 
+33159	X High School	EducationalOrganization Organization School 
+33160	X High School	EducationalOrganization Organization School 
+33161	X High School	EducationalOrganization Organization School 
+33205	New Mexico Activities	Organization 
+33206	New Mexico Activities	Organization 
+33207	New Mexico Activities	Organization 
+33206	Mexico Activities Association	Organization 
+33207	Mexico Activities Association	Organization 
+33208	Mexico Activities Association	Organization 
+33853	Information Technology Association	Organization Corporation 
+33854	Information Technology Association	Organization Corporation 
+33855	Information Technology Association	Organization Corporation 
+33855	Association of America	Organization Corporation 
+33856	Association of America	Organization Corporation 
+33857	Association of America	Organization Corporation 
+34016	MCI Communications Corporation	Corporation Organization 
+34017	MCI Communications Corporation	Corporation Organization 
+34018	MCI Communications Corporation	Corporation Organization 
+34348	President Oscar Luigi	Person 
+34349	President Oscar Luigi	Person 
+34350	President Oscar Luigi	Person 
+34349	Oscar Luigi Scalfaro	Person 
+34350	Oscar Luigi Scalfaro	Person 
+34351	Oscar Luigi Scalfaro	Person 
+35208	Muenchener Rueckversicherungs AG	Corporation Organization 
+35209	Muenchener Rueckversicherungs AG	Corporation Organization 
+35210	Muenchener Rueckversicherungs AG	Corporation Organization 
+35505	John Lewis UK	Corporation Organization 
+35506	John Lewis UK	Corporation Organization 
+35507	John Lewis UK	Corporation Organization 
+35521	John Lewis Partnership	Corporation Organization 
+35522	John Lewis Partnership	Corporation Organization 
+35523	John Lewis Partnership	Corporation Organization 
+35663	Global Depository Receipt	Corporation Organization 
+35664	Global Depository Receipt	Corporation Organization 
+35665	Global Depository Receipt	Corporation Organization 
+35729	Member of Parliament	Organization 
+35730	Member of Parliament	Organization 
+35731	Member of Parliament	Organization 
+35892	Prime Minister John	Person 
+35893	Prime Minister John	Person 
+35894	Prime Minister John	Person 
+35893	Minister John Major	Person 
+35894	Minister John Major	Person 
+35895	Minister John Major	Person 
+36116	Foreign Affairs Department	GovernmentOrganization Place Organization 
+36117	Foreign Affairs Department	GovernmentOrganization Place Organization 
+36118	Foreign Affairs Department	GovernmentOrganization Place Organization 
+36150	Foreign Affairs Minister	GovernmentOrganization Place Organization 
+36151	Foreign Affairs Minister	GovernmentOrganization Place Organization 
+36152	Foreign Affairs Minister	GovernmentOrganization Place Organization 
+36151	Affairs Minister Alexander	Person 
+36152	Affairs Minister Alexander	Person 
+36153	Affairs Minister Alexander	Person 
+36152	Minister Alexander Downer	Person 
+36153	Minister Alexander Downer	Person 
+36154	Minister Alexander Downer	Person 
+36317	New South Wales	Place AdministrativeArea 
+36318	New South Wales	Place AdministrativeArea 
+36319	New South Wales	Place AdministrativeArea 
+36318	South Wales Supreme	Place 
+36319	South Wales Supreme	Place 
+36320	South Wales Supreme	Place 
+36319	Wales Supreme Court	Place 
+36320	Wales Supreme Court	Place 
+36321	Wales Supreme Court	Place 
+36478	New Zealand Prime	Place Country AdministrativeArea 
+36479	New Zealand Prime	Place Country AdministrativeArea 
+36480	New Zealand Prime	Place Country AdministrativeArea 
+36479	Zealand Prime Minister	Person 
+36480	Zealand Prime Minister	Person 
+36481	Zealand Prime Minister	Person 
+36480	Prime Minister Jim	Book 
+36481	Prime Minister Jim	Book 
+36482	Prime Minister Jim	Book 
+36481	Minister Jim Bolger	Person 
+36482	Minister Jim Bolger	Person 
+36483	Minister Jim Bolger	Person 
+36492	New Zealand First	Organization SportsTeam 
+36493	New Zealand First	Organization SportsTeam 
+36494	New Zealand First	Organization SportsTeam 
+36543	New Zealand First	Organization SportsTeam 
+36544	New Zealand First	Organization SportsTeam 
+36545	New Zealand First	Organization SportsTeam 
+36666	House of Representatives	Event 
+36667	House of Representatives	Event 
+36668	House of Representatives	Event 
+36687	John Vance Langmore	Person 
+36688	John Vance Langmore	Person 
+36689	John Vance Langmore	Person 
+36700	House of Representatives	Event 
+36701	House of Representatives	Event 
+36702	House of Representatives	Event 
+36711	Australian Capital Territory	Place AdministrativeArea 
+36712	Australian Capital Territory	Place AdministrativeArea 
+36713	Australian Capital Territory	Place AdministrativeArea 
+36861	Papua New Guinea	Place Country AdministrativeArea 
+36862	Papua New Guinea	Place Country AdministrativeArea 
+36863	Papua New Guinea	Place Country AdministrativeArea 
+36918	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+36919	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+36920	University of Yangon	Organization EducationalOrganization Place CollegeOrUniversity 
+37046	Order Restoration Council	Organization 
+37047	Order Restoration Council	Organization 
+37048	Order Restoration Council	Organization 
+37111	Thai Commerce Ministry	Organization EducationalOrganization CollegeOrUniversity Place 
+37112	Thai Commerce Ministry	Organization EducationalOrganization CollegeOrUniversity Place 
+37113	Thai Commerce Ministry	Organization EducationalOrganization CollegeOrUniversity Place 
+37129	Date of Arrival	TVEpisode 
+37130	Date of Arrival	TVEpisode 
+37131	Date of Arrival	TVEpisode 
+37262	Wen Hui Bao	Person 
+37263	Wen Hui Bao	Person 
+37264	Wen Hui Bao	Person 
+37499	Civil Aviation Administration	Corporation Organization 
+37500	Civil Aviation Administration	Corporation Organization 
+37501	Civil Aviation Administration	Corporation Organization 
+37501	Administration of China	Place Country AdministrativeArea 
+37502	Administration of China	Place Country AdministrativeArea 
+37503	Administration of China	Place Country AdministrativeArea 
+37507	Administration of Customs	Organization Place GovernmentOrganization 
+37508	Administration of Customs	Organization Place GovernmentOrganization 
+37509	Administration of Customs	Organization Place GovernmentOrganization 
+37602	Economic Planning Agency	Person 
+37603	Economic Planning Agency	Person 
+37604	Economic Planning Agency	Person 
+37792	Sangetsu Co Ltd	Corporation Organization 
+37793	Sangetsu Co Ltd	Corporation Organization 
+37794	Sangetsu Co Ltd	Corporation Organization 
+37827	Barrick Gold Corp	Corporation Organization 
+37828	Barrick Gold Corp	Corporation Organization 
+37829	Barrick Gold Corp	Corporation Organization 
+38395	Group of Suharto	Person 
+38396	Group of Suharto	Person 
+38397	Group of Suharto	Person 
+38439	Honda Motor Co	Organization Corporation 
+38440	Honda Motor Co	Organization Corporation 
+38441	Honda Motor Co	Organization Corporation 
+38440	Motor Co Ltd	Organization Corporation 
+38441	Motor Co Ltd	Organization Corporation 
+38442	Motor Co Ltd	Organization Corporation 
+38537	World Trade Organisation	Organization 
+38538	World Trade Organisation	Organization 
+38539	World Trade Organisation	Organization 
+38690	Trade Representative Mickey	Person 
+38691	Trade Representative Mickey	Person 
+38692	Trade Representative Mickey	Person 
+38691	Representative Mickey Kantor	Person 
+38692	Representative Mickey Kantor	Person 
+38693	Representative Mickey Kantor	Person 
+38738	Institute of Policy	EducationalOrganization Organization CollegeOrUniversity Place TouristAttraction 
+38739	Institute of Policy	EducationalOrganization Organization CollegeOrUniversity Place TouristAttraction 
+38740	Institute of Policy	EducationalOrganization Organization CollegeOrUniversity Place TouristAttraction 
+38812	Tan Kong Yam	Person 
+38813	Tan Kong Yam	Person 
+38814	Tan Kong Yam	Person 
+38823	University of Singapore	Place Organization EducationalOrganization MovieTheater CollegeOrUniversity 
+38824	University of Singapore	Place Organization EducationalOrganization MovieTheater CollegeOrUniversity 
+38825	University of Singapore	Place Organization EducationalOrganization MovieTheater CollegeOrUniversity 
+39678	Lillehammer Winter Olympics	Event 
+39679	Lillehammer Winter Olympics	Event 
+39680	Lillehammer Winter Olympics	Event 
+39994	Gladishiva of Russia	Event 
+39995	Gladishiva of Russia	Event 
+39996	Gladishiva of Russia	Event 
+40001	World Cup Super	Organization SportsOrganization 
+40002	World Cup Super	Organization SportsOrganization 
+40003	World Cup Super	Organization SportsOrganization 
+40002	Cup Super G	
+40003	Cup Super G	
+40004	Cup Super G	
+40011	Wiberg of Sweden	Person 
+40012	Wiberg of Sweden	Person 
+40013	Wiberg of Sweden	Person 
+40018	Montillet of France	Person 
+40019	Montillet of France	Person 
+40020	Montillet of France	Person 
+40469	Kate Pace Lindsay	Person 
+40470	Kate Pace Lindsay	Person 
+40471	Kate Pace Lindsay	Person 
+40974	Ingeborg Helen Marken	Person 
+40975	Ingeborg Helen Marken	Person 
+40976	Ingeborg Helen Marken	Person 
+41079	Kate Pace Lindsay	Person 
+41080	Kate Pace Lindsay	Person 
+41081	Kate Pace Lindsay	Person 
+41169	NORDIC SKIING-WORLD CUP	SportsOrganization Corporation Organization 
+41170	NORDIC SKIING-WORLD CUP	SportsOrganization Corporation Organization 
+41171	NORDIC SKIING-WORLD CUP	SportsOrganization Corporation Organization 
+41170	SKIING-WORLD CUP BIATHLON	Person 
+41171	SKIING-WORLD CUP BIATHLON	Person 
+41172	SKIING-WORLD CUP BIATHLON	Person 
+41312	Gunn Margit Andreassen	Person 
+41313	Gunn Margit Andreassen	Person 
+41314	Gunn Margit Andreassen	Person 
+41377	Goetschl of Austria	Event 
+41378	Goetschl of Austria	Event 
+41379	Goetschl of Austria	Event 
+41398	Seizinger of Germany	Person 
+41399	Seizinger of Germany	Person 
+41400	Seizinger of Germany	Person 
+41405	Kostner of Italy	Person 
+41406	Kostner of Italy	Person 
+41407	Kostner of Italy	Person 
+41782	Brenner of Canada	Event 
+41783	Brenner of Canada	Event 
+41784	Brenner of Canada	Event 
+41851	BOBSLEIGH-WORLD CUP TWO-MAN	
+41852	BOBSLEIGH-WORLD CUP TWO-MAN	
+41853	BOBSLEIGH-WORLD CUP TWO-MAN	
+41875	United States III	Corporation Organization 
+41876	United States III	Corporation Organization 
+41877	United States III	Corporation Organization 
+42385	FREESTYLE SKIING-WORLD CUP	
+42386	FREESTYLE SKIING-WORLD CUP	
+42387	FREESTYLE SKIING-WORLD CUP	
+42489	Dmitri Dashinski Belarus	Person 
+42490	Dmitri Dashinski Belarus	Person 
+42491	Dmitri Dashinski Belarus	Person 
+42571	Hilde Synnove Lid	Person 
+42572	Hilde Synnove Lid	Person 
+42573	Hilde Synnove Lid	Person 
+42815	GRAND PRIX SEMIFINAL	Corporation Organization 
+42816	GRAND PRIX SEMIFINAL	Corporation Organization 
+42817	GRAND PRIX SEMIFINAL	Corporation Organization 
+42833	World Grand Prix	SportsOrganization Organization 
+42834	World Grand Prix	SportsOrganization Organization 
+42835	World Grand Prix	SportsOrganization Organization 
+42865	Allan Budi Kusuma	Person 
+42866	Allan Budi Kusuma	Person 
+42867	Allan Budi Kusuma	Person 
+42914	SPEED SKATING RACES	Event 
+42915	SPEED SKATING RACES	Event 
+42916	SPEED SKATING RACES	Event 
+43222	Gerard Van Velde	Person 
+43223	Gerard Van Velde	Person 
+43224	Gerard Van Velde	Person 
+43629	Peter van Vossen	Person 
+43630	Peter van Vossen	Person 
+43631	Peter van Vossen	Person 
+43657	Paolo Di Canio	Person 
+43658	Paolo Di Canio	Person 
+43659	Paolo Di Canio	Person 
+43716	Matthew Le Tissier	Person 
+43717	Matthew Le Tissier	Person 
+43718	Matthew Le Tissier	Person 
+43812	NORTHERN IRELAND PREMIER	SportsOrganization Organization 
+43813	NORTHERN IRELAND PREMIER	SportsOrganization Organization 
+43814	NORTHERN IRELAND PREMIER	SportsOrganization Organization 
+43813	IRELAND PREMIER DIVISION	SportsOrganization Organization 
+43814	IRELAND PREMIER DIVISION	SportsOrganization Organization 
+43815	IRELAND PREMIER DIVISION	SportsOrganization Organization 
+44058	SCOTTISH PREMIER DIVISION	SportsOrganization Organization 
+44059	SCOTTISH PREMIER DIVISION	SportsOrganization Organization 
+44060	SCOTTISH PREMIER DIVISION	SportsOrganization Organization 
+44328	New South Wales	Place AdministrativeArea 
+44329	New South Wales	Place AdministrativeArea 
+44330	New South Wales	Place AdministrativeArea 
+44843	Queen of South	SportsTeam Organization 
+44844	Queen of South	SportsTeam Organization 
+44845	Queen of South	SportsTeam Organization 
+45351	Queens Park Rangers	Corporation SportsTeam Organization 
+45352	Queens Park Rangers	Corporation SportsTeam Organization 
+45353	Queens Park Rangers	Corporation SportsTeam Organization 
+46193	Park Scottish Cup	SportsOrganization Organization 
+46194	Park Scottish Cup	SportsOrganization Organization 
+46195	Park Scottish Cup	SportsOrganization Organization 
+46212	Albion v Forfar	Event 
+46213	Albion v Forfar	Event 
+46214	Albion v Forfar	Event 
+46342	Queens Park Rangers	Corporation SportsTeam Organization 
+46343	Queens Park Rangers	Corporation SportsTeam Organization 
+46344	Queens Park Rangers	Corporation SportsTeam Organization 
+46733	OPEN THIRD ROUND	Event 
+46734	OPEN THIRD ROUND	Event 
+46735	OPEN THIRD ROUND	Event 
+46812	Steve van Vuuren	Person 
+46813	Steve van Vuuren	Person 
+46814	Steve van Vuuren	Person 
+47035	Albanian Football Association	SportsOrganization Organization 
+47036	Albanian Football Association	SportsOrganization Organization 
+47037	Albanian Football Association	SportsOrganization Organization 
+47183	CENTURY AS VICTORIA	Person 
+47184	CENTURY AS VICTORIA	Person 
+47185	CENTURY AS VICTORIA	Person 
+47564	Hwang Sun Hong	Person 
+47565	Hwang Sun Hong	Person 
+47566	Hwang Sun Hong	Person 
+47618	Ko Jeong Woon	Person 
+47619	Ko Jeong Woon	Person 
+47620	Ko Jeong Woon	Person 
+47812	Kim Byung Ji	Person 
+47813	Kim Byung Ji	Person 
+47814	Kim Byung Ji	Person 
+47818	Kim Pan Keun	Person 
+47819	Kim Pan Keun	Person 
+47820	Kim Pan Keun	Person 
+47824	Huh Ki Tae	Person 
+47825	Huh Ki Tae	Person 
+47826	Huh Ki Tae	Person 
+47830	Roh Sang Rae	Person 
+47831	Roh Sang Rae	Person 
+47832	Roh Sang Rae	Person 
+47850	Ko Jeong Woon	Person 
+47851	Ko Jeong Woon	Person 
+47852	Ko Jeong Woon	Person 
+47856	Ha Seok Ju	Person 
+47857	Ha Seok Ju	Person 
+47858	Ha Seok Ju	Person 
+47862	Hwang Sun Hong	Person 
+47863	Hwang Sun Hong	Person 
+47864	Hwang Sun Hong	Person 
+47868	Lee Young Jin	Person 
+47869	Lee Young Jin	Person 
+47870	Lee Young Jin	Person 
+47874	Yoo Sang Chul	Person 
+47875	Yoo Sang Chul	Person 
+47876	Yoo Sang Chul	Person 
+47880	Kim Joo Sung	Person 
+47881	Kim Joo Sung	Person 
+47882	Kim Joo Sung	Person 
+47889	ISRAELI FIRST DIVISION	SportsOrganization Organization 
+47890	ISRAELI FIRST DIVISION	SportsOrganization Organization 
+47891	ISRAELI FIRST DIVISION	SportsOrganization Organization 
+47916	Hapoel Petah Tikva	Organization SportsTeam 
+47917	Hapoel Petah Tikva	Organization SportsTeam 
+47918	Hapoel Petah Tikva	Organization SportsTeam 
+47936	Hapoel Tel Aviv	Organization SportsTeam 
+47937	Hapoel Tel Aviv	Organization SportsTeam 
+47938	Hapoel Tel Aviv	Organization SportsTeam 
+47947	Maccabi Tel Aviv	SportsTeam Organization 
+47948	Maccabi Tel Aviv	SportsTeam Organization 
+47949	Maccabi Tel Aviv	SportsTeam Organization 
+47952	Ironi Rishon Lezion	Organization SportsTeam 
+47953	Ironi Rishon Lezion	Organization SportsTeam 
+47954	Ironi Rishon Lezion	Organization SportsTeam 
+47960	Hapoel Beit She'an	Organization SportsTeam 
+47961	Hapoel Beit She'an	Organization SportsTeam 
+47962	Hapoel Beit She'an	Organization SportsTeam 
+47968	Maccabi Petah Tikva	Organization SportsTeam 
+47969	Maccabi Petah Tikva	Organization SportsTeam 
+47970	Maccabi Petah Tikva	Organization SportsTeam 
+48008	Hapoel Petah Tikva	Organization SportsTeam 
+48009	Hapoel Petah Tikva	Organization SportsTeam 
+48010	Hapoel Petah Tikva	Organization SportsTeam 
+48029	Maccabi Tel Aviv	SportsTeam Organization 
+48030	Maccabi Tel Aviv	SportsTeam Organization 
+48031	Maccabi Tel Aviv	SportsTeam Organization 
+48040	Maccabi Petah Tikva	Organization SportsTeam 
+48041	Maccabi Petah Tikva	Organization SportsTeam 
+48042	Maccabi Petah Tikva	Organization SportsTeam 
+48102	Ironi Rishon Lezion	Organization SportsTeam 
+48103	Ironi Rishon Lezion	Organization SportsTeam 
+48104	Ironi Rishon Lezion	Organization SportsTeam 
+48143	Hapoel Beit She'an	Organization SportsTeam 
+48144	Hapoel Beit She'an	Organization SportsTeam 
+48145	Hapoel Beit She'an	Organization SportsTeam 
+48154	Hapoel Tel Aviv	Organization SportsTeam 
+48155	Hapoel Tel Aviv	Organization SportsTeam 
+48156	Hapoel Tel Aviv	Organization SportsTeam 
+48189	United Arab Emirates	Place Country AdministrativeArea 
+48190	United Arab Emirates	Place Country AdministrativeArea 
+48191	United Arab Emirates	Place Country AdministrativeArea 
+48209	Adnan Al Talyani	Person 
+48210	Adnan Al Talyani	Person 
+48211	Adnan Al Talyani	Person 
+48250	Hwang Sun Hong	Person 
+48251	Hwang Sun Hong	Person 
+48252	Hwang Sun Hong	Person 
+48358	National Basketball Association	SportsOrganization Corporation Organization 
+48359	National Basketball Association	SportsOrganization Corporation Organization 
+48360	National Basketball Association	SportsOrganization Corporation Organization 
+48440	CENTRAL DIVISION W	SportsOrganization Organization 
+48441	CENTRAL DIVISION W	SportsOrganization Organization 
+48442	CENTRAL DIVISION W	SportsOrganization Organization 
+48558	PACIFIC DIVISION W	Event 
+48559	PACIFIC DIVISION W	Event 
+48560	PACIFIC DIVISION W	Event 
+48624	LA CLIPPERS AT	Corporation SportsTeam Organization 
+48625	LA CLIPPERS AT	Corporation SportsTeam Organization 
+48626	LA CLIPPERS AT	Corporation SportsTeam Organization 
+48629	YORK MILWAUKEE AT	Organization Corporation Museum TouristAttraction 
+48630	YORK MILWAUKEE AT	Organization Corporation Museum TouristAttraction 
+48631	YORK MILWAUKEE AT	Organization Corporation Museum TouristAttraction 
+48630	MILWAUKEE AT WASHINGTON	School Organization EducationalOrganization 
+48631	MILWAUKEE AT WASHINGTON	School Organization EducationalOrganization 
+48632	MILWAUKEE AT WASHINGTON	School Organization EducationalOrganization 
+48632	AT WASHINGTON DETROIT	Organization SportsTeam 
+48633	AT WASHINGTON DETROIT	Organization SportsTeam 
+48634	AT WASHINGTON DETROIT	Organization SportsTeam 
+48633	WASHINGTON DETROIT AT	Organization SportsTeam 
+48634	WASHINGTON DETROIT AT	Organization SportsTeam 
+48635	WASHINGTON DETROIT AT	Organization SportsTeam 
+48638	JERSEY MIAMI AT	Organization SportsTeam 
+48639	JERSEY MIAMI AT	Organization SportsTeam 
+48640	JERSEY MIAMI AT	Organization SportsTeam 
+48639	MIAMI AT CHICAGO	Place AdministrativeArea City 
+48640	MIAMI AT CHICAGO	Place AdministrativeArea City 
+48641	MIAMI AT CHICAGO	Place AdministrativeArea City 
+48641	AT CHICAGO VANCOUVER	Corporation Organization 
+48642	AT CHICAGO VANCOUVER	Corporation Organization 
+48643	AT CHICAGO VANCOUVER	Corporation Organization 
+48642	CHICAGO VANCOUVER AT	Corporation Organization 
+48643	CHICAGO VANCOUVER AT	Corporation Organization 
+48644	CHICAGO VANCOUVER AT	Corporation Organization 
+48643	VANCOUVER AT DALLAS	Organization SportsTeam 
+48644	VANCOUVER AT DALLAS	Organization SportsTeam 
+48645	VANCOUVER AT DALLAS	Organization SportsTeam 
+48645	AT DALLAS PHILADELPHIA	Place AdministrativeArea City 
+48646	AT DALLAS PHILADELPHIA	Place AdministrativeArea City 
+48647	AT DALLAS PHILADELPHIA	Place AdministrativeArea City 
+48646	DALLAS PHILADELPHIA AT	Place AdministrativeArea City 
+48647	DALLAS PHILADELPHIA AT	Place AdministrativeArea City 
+48648	DALLAS PHILADELPHIA AT	Place AdministrativeArea City 
+48647	PHILADELPHIA AT HOUSTON	Organization SportsTeam 
+48648	PHILADELPHIA AT HOUSTON	Organization SportsTeam 
+48649	PHILADELPHIA AT HOUSTON	Organization SportsTeam 
+48649	AT HOUSTON UTAH	Place AdministrativeArea 
+48650	AT HOUSTON UTAH	Place AdministrativeArea 
+48651	AT HOUSTON UTAH	Place AdministrativeArea 
+48650	HOUSTON UTAH AT	Place AdministrativeArea 
+48651	HOUSTON UTAH AT	Place AdministrativeArea 
+48652	HOUSTON UTAH AT	Place AdministrativeArea 
+48655	CHARLOTTE AT SEATTLE	Person 
+48656	CHARLOTTE AT SEATTLE	Person 
+48657	CHARLOTTE AT SEATTLE	Person 
+48676	National Basketball Association	SportsOrganization Corporation Organization 
+48677	National Basketball Association	SportsOrganization Corporation Organization 
+48678	National Basketball Association	SportsOrganization Corporation Organization 
+48745	NHL ICE HOCKEY	Organization SportsTeam 
+48746	NHL ICE HOCKEY	Organization SportsTeam 
+48747	NHL ICE HOCKEY	Organization SportsTeam 
+48763	National Hockey League	SportsOrganization Organization 
+48764	National Hockey League	SportsOrganization Organization 
+48765	National Hockey League	SportsOrganization Organization 
+48798	W L T	TVSeries Movie 
+48799	W L T	TVSeries Movie 
+48800	W L T	TVSeries Movie 
+48856	W L T	TVSeries Movie 
+48857	W L T	TVSeries Movie 
+48858	W L T	TVSeries Movie 
+48924	WESTERN CONFERENCE CENTRAL	Event 
+48925	WESTERN CONFERENCE CENTRAL	Event 
+48926	WESTERN CONFERENCE CENTRAL	Event 
+48925	CONFERENCE CENTRAL DIVISION	SportsOrganization Organization 
+48926	CONFERENCE CENTRAL DIVISION	SportsOrganization Organization 
+48927	CONFERENCE CENTRAL DIVISION	SportsOrganization Organization 
+48927	CENTRAL DIVISION W	SportsOrganization Organization 
+48928	CENTRAL DIVISION W	SportsOrganization Organization 
+48929	CENTRAL DIVISION W	SportsOrganization Organization 
+48929	W L T	TVSeries Movie 
+48930	W L T	TVSeries Movie 
+48931	W L T	TVSeries Movie 
+48986	PACIFIC DIVISION W	Event 
+48987	PACIFIC DIVISION W	Event 
+48988	PACIFIC DIVISION W	Event 
+48988	W L T	TVSeries Movie 
+48989	W L T	TVSeries Movie 
+48990	W L T	TVSeries Movie 
+49066	AT BOSTON BUFFALO	Corporation Organization SportsTeam 
+49067	AT BOSTON BUFFALO	Corporation Organization SportsTeam 
+49068	AT BOSTON BUFFALO	Corporation Organization SportsTeam 
+49067	BOSTON BUFFALO AT	Corporation Organization SportsTeam 
+49068	BOSTON BUFFALO AT	Corporation Organization SportsTeam 
+49069	BOSTON BUFFALO AT	Corporation Organization SportsTeam 
+49068	BUFFALO AT HARTFORD	SportsTeam Organization 
+49069	BUFFALO AT HARTFORD	SportsTeam Organization 
+49070	BUFFALO AT HARTFORD	SportsTeam Organization 
+49070	AT HARTFORD WASHINGTON	Organization Place 
+49071	AT HARTFORD WASHINGTON	Organization Place 
+49072	AT HARTFORD WASHINGTON	Organization Place 
+49071	HARTFORD WASHINGTON AT	Organization Place 
+49072	HARTFORD WASHINGTON AT	Organization Place 
+49073	HARTFORD WASHINGTON AT	Organization Place 
+49072	WASHINGTON AT NY	Place 
+49073	WASHINGTON AT NY	Place 
+49074	WASHINGTON AT NY	Place 
+49073	AT NY ISLANDERS	Organization SportsTeam 
+49074	AT NY ISLANDERS	Organization SportsTeam 
+49075	AT NY ISLANDERS	Organization SportsTeam 
+49076	ISLANDERS CHICAGO AT	Person 
+49077	ISLANDERS CHICAGO AT	Person 
+49078	ISLANDERS CHICAGO AT	Person 
+49077	CHICAGO AT MONTREAL	Corporation Organization SportsTeam 
+49078	CHICAGO AT MONTREAL	Corporation Organization SportsTeam 
+49079	CHICAGO AT MONTREAL	Corporation Organization SportsTeam 
+49079	AT MONTREAL NY	Place 
+49080	AT MONTREAL NY	Place 
+49081	AT MONTREAL NY	Place 
+49081	NY RANGERS AT	Organization SportsTeam Corporation 
+49082	NY RANGERS AT	Organization SportsTeam Corporation 
+49083	NY RANGERS AT	Organization SportsTeam Corporation 
+49082	RANGERS AT TORONTO	Event 
+49083	RANGERS AT TORONTO	Event 
+49084	RANGERS AT TORONTO	Event 
+49084	AT TORONTO ANAHEIM	Event 
+49085	AT TORONTO ANAHEIM	Event 
+49086	AT TORONTO ANAHEIM	Event 
+49085	TORONTO ANAHEIM AT	Event 
+49086	TORONTO ANAHEIM AT	Event 
+49087	TORONTO ANAHEIM AT	Event 
+49086	ANAHEIM AT PITTSBURGH	Person 
+49087	ANAHEIM AT PITTSBURGH	Person 
+49088	ANAHEIM AT PITTSBURGH	Person 
+49088	AT PITTSBURGH COLORADO	Corporation Organization 
+49089	AT PITTSBURGH COLORADO	Corporation Organization 
+49090	AT PITTSBURGH COLORADO	Corporation Organization 
+49089	PITTSBURGH COLORADO AT	Corporation Organization 
+49090	PITTSBURGH COLORADO AT	Corporation Organization 
+49091	PITTSBURGH COLORADO AT	Corporation Organization 
+49090	COLORADO AT LOS	SportsTeam 
+49091	COLORADO AT LOS	SportsTeam 
+49092	COLORADO AT LOS	SportsTeam 
+49091	AT LOS ANGELES	City Place AdministrativeArea 
+49092	AT LOS ANGELES	City Place AdministrativeArea 
+49093	AT LOS ANGELES	City Place AdministrativeArea 
+49093	LOS ANGELES TAMPA	BusStation LandmarksOrHistoricalBuildings CivicStructure Place 
+49094	LOS ANGELES TAMPA	BusStation LandmarksOrHistoricalBuildings CivicStructure Place 
+49095	LOS ANGELES TAMPA	BusStation LandmarksOrHistoricalBuildings CivicStructure Place 
+49094	ANGELES TAMPA BAY	Event 
+49095	ANGELES TAMPA BAY	Event 
+49096	ANGELES TAMPA BAY	Event 
+49095	TAMPA BAY AT	SportsTeam Organization 
+49096	TAMPA BAY AT	SportsTeam Organization 
+49097	TAMPA BAY AT	SportsTeam Organization 
+49096	BAY AT SAN	Place AdministrativeArea 
+49097	BAY AT SAN	Place AdministrativeArea 
+49098	BAY AT SAN	Place AdministrativeArea 
+49097	AT SAN JOSE	Place City AdministrativeArea 
+49098	AT SAN JOSE	Place City AdministrativeArea 
+49099	AT SAN JOSE	Place City AdministrativeArea 
+49099	SAN JOSE OTTAWA	Event 
+49100	SAN JOSE OTTAWA	Event 
+49101	SAN JOSE OTTAWA	Event 
+49100	JOSE OTTAWA AT	Event 
+49101	JOSE OTTAWA AT	Event 
+49102	JOSE OTTAWA AT	Event 
+49101	OTTAWA AT VANCOUVER	GovernmentOrganization Organization Place 
+49102	OTTAWA AT VANCOUVER	GovernmentOrganization Organization Place 
+49103	OTTAWA AT VANCOUVER	GovernmentOrganization Organization Place 
+49107	NHL ICE HOCKEY	Organization SportsTeam 
+49108	NHL ICE HOCKEY	Organization SportsTeam 
+49109	NHL ICE HOCKEY	Organization SportsTeam 
+49123	National Hockey League	SportsOrganization Organization 
+49124	National Hockey League	SportsOrganization Organization 
+49125	National Hockey League	SportsOrganization Organization 
+49179	NHL ICE HOCKEY	Organization SportsTeam 
+49180	NHL ICE HOCKEY	Organization SportsTeam 
+49181	NHL ICE HOCKEY	Organization SportsTeam 
+49210	National Hockey League	SportsOrganization Organization 
+49211	National Hockey League	SportsOrganization Organization 
+49212	National Hockey League	SportsOrganization Organization 
+49395	IBF HEAVYWEIGHT FIGHT	Event 
+49396	IBF HEAVYWEIGHT FIGHT	Event 
+49397	IBF HEAVYWEIGHT FIGHT	Event 
+49403	German Axel Schulz	Person 
+49404	German Axel Schulz	Person 
+49405	German Axel Schulz	Person 
+49413	International Boxing Federation	Corporation SportsOrganization Organization 
+49414	International Boxing Federation	Corporation SportsOrganization Organization 
+49415	International Boxing Federation	Corporation SportsOrganization Organization 
+49428	SPANISH FIRST DIVISION	SportsOrganization Organization 
+49429	SPANISH FIRST DIVISION	SportsOrganization Organization 
+49430	SPANISH FIRST DIVISION	SportsOrganization Organization 
+49769	De Graafschap Doetinchem	SportsTeam 
+49770	De Graafschap Doetinchem	SportsTeam 
+49771	De Graafschap Doetinchem	SportsTeam 
+49808	SPANISH FIRST DIVISION	SportsOrganization Organization 
+49809	SPANISH FIRST DIVISION	SportsOrganization Organization 
+49810	SPANISH FIRST DIVISION	SportsOrganization Organization 
+50131	Prime Minister Dick	
+50132	Prime Minister Dick	
+50133	Prime Minister Dick	
+50132	Minister Dick Spring	Person 
+50133	Minister Dick Spring	Person 
+50134	Minister Dick Spring	Person 
+50164	Republic of Ireland	SportsTeam 
+50165	Republic of Ireland	SportsTeam 
+50166	Republic of Ireland	SportsTeam 
