@@ -3,32 +3,32 @@
 This is a named entity recogniser created in Python using the Maximum Entrophy Classifier in NLTK and trained on the CONLL dataset. The 2003 CoNLL (Conference on Natural Language Learning) corpus uses texts from the Reuters news service. This corpus identifies three types of names: person, organization, and location, and a fourth category, MISC (miscellaneous) for other types of names.[1]
 
 Words chosen to featurize:   
-• words with part of speech in [NNP,NNPS]  
-• words with part of speech in [NN,NNS,JJ] with first letter capitalised  
-• hyphenated words when either part of word before hyphen or after hyphen has first letter capitalised  
-• if the current word is in [‘of’,’and’,’for’] and previous tag is I-ORG and next word part of speech is in [NNP,NNPS]  
+• words with part of speech in [NNP,NNPS]<br />
+• words with part of speech in [NN,NNS,JJ] with first letter capitalised<br />
+• hyphenated words when either part of word before hyphen or after hyphen has first letter capitalised<br /> 
+• if the current word is in [‘of’,’and’,’for’] and previous tag is I-ORG and next word part of speech is in [NNP,NNPS]
 
 <h3>Features extracted</h3>
-• current word  
-• Binarized embeddings (pre-trained Glove 6B 50 dimensions [2]) of current token implemented as per Guo et al 2014 [3]  
-• prefixes of the current word upto 6 letters  
-• suffixes of the current word upto six letters lower-case  
-• current word in title case  
-• current word in upper case  
-• previous word  
-• next word  
-• conjunction of previous word and current word  
-• conjunction of current word and next word  
-• conjunction of previous word, current word and next word  
-• current word part of speech  
-• previous word part of speech  
-• next word part of speech  
-• conjunction of previous word and current word part of speech  
-• conjunction of current word and next word part of speech  
-• conjunction of previous word, current word and next word part of speech current word  
-• current word chunk  
-• previous word chunk  
-• next word chunk  
+• current word<br />
+• Binarized embeddings (pre-trained Glove 6B 50 dimensions [2]) of current token implemented as per Guo et al 2014 [3]<br />
+• prefixes of the current word upto 6 letters<br />
+• suffixes of the current word upto six letters lower-case<br /> 
+• current word in title case<br /> 
+• current word in upper case<br />
+• previous word<br />
+• next word<br />
+• conjunction of previous word and current word<br />
+• conjunction of current word and next word<br /> 
+• conjunction of previous word, current word and next word<br />
+• current word part of speech<br />
+• previous word part of speech<br />
+• next word part of speech<br />
+• conjunction of previous word and current word part of speech<br />
+• conjunction of current word and next word part of speech<br />
+• conjunction of previous word, current word and next word part of speech current word<br />
+• current word chunk<br />
+• previous word chunk<br />
+• next word chunk<br />
 • conjunction of previous word and current word chunk  
 • conjunction of current word and next word chunk  
 • conjunction of previous word, current word and next word chunk  
