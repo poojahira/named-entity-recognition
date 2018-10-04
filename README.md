@@ -1,6 +1,6 @@
 <h3> About</h3>
 
-This is a named entity recogniser created in Python using the Maximum Entrophy Classifier in NLTK and trained on the CONLL dataset. The 2003 CoNLL (Conference on Natural Language Learning) corpus uses texts from the Reuters news service. This corpus identifies three types of names: person, organization, and location, and a fourth category, MISC (miscellaneous) for other types of names.[1]
+This is a named entity recogniser created in Python using the Maximum Entropy Classifier in NLTK and trained on the CONLL dataset. The 2003 CoNLL (Conference on Natural Language Learning) corpus uses texts from the Reuters news service. This corpus identifies three types of names: person, organization, and location, and a fourth category, MISC (miscellaneous) for other types of names.[1]
 
 Words chosen to featurize:   
 • words with part of speech in [NNP,NNPS]<br />
