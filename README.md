@@ -60,9 +60,9 @@ Words chosen to featurize:
 • As a last ditch effort, I looked up google knowledge graph for proper nouns which have not been caught by the classifier and were given the ‘O’ label. The results were written to a text file and are in the 'google' folder.
 
 <h3>Gazzeteers used</h3>
-Wordnet from nltk [4]<br />
-Google knowledge graph [5]<br />
-The Google API was used to get knowledge graph results pertaining to entity type for current word, current word + next word and current word + next word + next word. Results are stored as text files in a folder called 'google' to run program offline and avoid hitting api limits. The code to extract the knowledge graph details is also in the 'google' folder. 
+• Wordnet from nltk [4]<br />
+• Google knowledge graph [5]<br />
+The Google API was used to get knowledge graph results pertaining to entity type for current word, current word + next word and current word + next word + next word. Results are stored as text files in a folder called 'google' to run program offline and avoid hitting api limits. The code to extract the knowledge graph details is also in the 'google' folder.<br />
 
 Another model was built using the centroids of the Kmeans clustering of word embeddings as a feature. 
 
